@@ -1,0 +1,57 @@
+# instruments — keithley documentation links
+
+- [Keithley](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/index.html)
+- [Keithley 2000 Multimeter](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2000.html)
+- [Keithley 2200 Series Power Supplies](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2200.html)
+- [Keithley 2260B DC Power Supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2260B.html)
+- [Keithley 2281S power supply with battery simulator and characterizer features](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2281S.html)
+- [Keithley 2306 Dual Channel Battery/Charger Simulator](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2306.html)
+- [Keithley 2400 SourceMeter](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2400.html)
+- [Keithley 2400 SourceMeter (Legacy)](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2400_legacy.html)
+- [Keithley 2450 SourceMeter](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2450.html)
+- [Keithley 2510 TEC SourceMeter](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2510.html)
+- [Keithley 2600 SourceMeter](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2600.html)
+- [Keithley 2700 MultiMeter/Switch System](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2700.html)
+- [Keithley 2750 Multimeter/Switch System](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2750.html)
+- [Keithley 6221 current source for AC and DC operation](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley6221.html)
+- [Keithley 6517B Electrometer](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley6517b.html)
+- [Keithley DMM6500 Multimeter](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithleyDMM6500.html)
+- [Keithley 2182 Nanovoltmeter](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2182.html)
+- [Keithley DAQ6510 Data Acquisition Logging Multimeter System](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithleyDAQ6510.html)
+- [Keithley 4200A-SCS parameter analyzer](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley4200.html)
+
+Covers: Keithley; Keithley 2000 Multimeter.
+
+## Keithley
+
+### Keithley
+
+Keithley-specific documentation for the implemented instruments is gathered here. For an unsupported model, see [adding the instrument](https://pymeasure.readthedocs.io/en/latest/dev/adding_instruments/index.html).
+- [`Keithley2000`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2000.html#pymeasure.instruments.keithley.Keithley2000)
+- [`Keithley2200`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2200.html#pymeasure.instruments.keithley.Keithley2200)
+- [`PSChannel`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2200.html#pymeasure.instruments.keithley.keithley2200.PSChannel)
+- [`Keithley2260B`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2260B.html#pymeasure.instruments.keithley.Keithley2260B)
+- [Keithley 2281S power supply and battery simulator / characterizer](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2281S.html)
+- [`Keithley2281S`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2281S.html#pymeasure.instruments.keithley.Keithley2281S)
+- [`Keithley2281SOperationEventRegister`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2281S.html#pymeasure.instruments.keithley.keithley2281S.Keithley2281SOperationEventRegister)
+- [`Keithley2281SMeasurementEventRegister`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2281S.html#pymeasure.instruments.keithley.keithley2281S.Keithley2281SMeasurementEventRegister)
+- [`Keithley2306`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2306.html#pymeasure.instruments.keithley.Keithley2306)
+- [`Keithley2400`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2400.html#pymeasure.instruments.keithley.Keithley2400)
+- [`Keithley2400Legacy`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2400_legacy.html#pymeasure.instruments.keithley.Keithley2400Legacy)
+- [`Keithley2450`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2450.html#pymeasure.instruments.keithley.Keithley2450)
+- [`Keithley2510`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2510.html#pymeasure.instruments.keithley.Keithley2510)
+- [`Keithley2600`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2600.html#pymeasure.instruments.keithley.Keithley2600)
+- [`Keithley2700`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2700.html#pymeasure.instruments.keithley.Keithley2700)
+- [`Keithley2750`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2750.html#pymeasure.instruments.keithley.Keithley2750)
+- [Keithley 6221 AC and DC Current Source](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley6221.html)
+- [`Keithley6221`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley6221.html#pymeasure.instruments.keithley.Keithley6221)
+- [`Keithley6517B`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley6517b.html#pymeasure.instruments.keithley.Keithley6517B)
+- [`KeithleyDMM6500`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithleyDMM6500.html#pymeasure.instruments.keithley.KeithleyDMM6500)
+- [`ScannerCard2000Channel`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithleyDMM6500.html#pymeasure.instruments.keithley.keithleyDMM6500.ScannerCard2000Channel)
+- [`Keithley2182`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2182.html#pymeasure.instruments.keithley.Keithley2182)
+- [`Keithley2182Channel`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2182.html#pymeasure.instruments.keithley.keithley2182.Keithley2182Channel)
+- [`KeithleyDAQ6510`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithleyDAQ6510.html#pymeasure.instruments.keithley.KeithleyDAQ6510)
+- [Keithley 4200A-SCS Parameter Analyzer](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley4200.html)
+- [`Keithley4200`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley4200.html#pymeasure.instruments.keithley.Keithley4200)
+- [`SMU`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley4200.html#pymeasure.instruments.keithley.keithley4200.SMU)
+- [`StatusCode`](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley4200.html#pymeasure.instruments.keithley.keithley4200.StatusCode)

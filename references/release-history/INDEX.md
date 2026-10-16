@@ -1,0 +1,35 @@
+# release-history reference index
+
+- [0.1.0](0.1.0/INDEX.md) — Open when using 0.1.0 within release-history.
+- [0.1.1](0.1.1/INDEX.md) — Open when using 0.1.1 within release-history.
+- [0.1.2](0.1.2/INDEX.md) — Open when using 0.1.2 within release-history.
+- [0.1.3](0.1.3/INDEX.md) — Open when using 0.1.3 within release-history.
+- [0.1.4](0.1.4/INDEX.md) — Open when using 0.1.4 within release-history.
+- [0.1.5](0.1.5/INDEX.md) — Open when using 0.1.5 within release-history.
+- [0.1.6](0.1.6/INDEX.md) — Open when using 0.1.6 within release-history.
+- [0.10.0](0.10.0/INDEX.md) — Open when using 0.10.0 within release-history.
+- [0.11.0](0.11.0/INDEX.md) — Open when using 0.11.0 within release-history.
+- [0.11.1](0.11.1/INDEX.md) — Open when using 0.11.1 within release-history.
+- [0.12.0](0.12.0/INDEX.md) — Open when using 0.12.0 within release-history.
+- [0.13.0](0.13.0/INDEX.md) — Open when using 0.13.0 within release-history.
+- [0.13.1](0.13.1/INDEX.md) — Open when using 0.13.1 within release-history.
+- [0.14.0](0.14.0/INDEX.md) — Open when using 0.14.0 within release-history.
+- [0.15.0](0.15.0/INDEX.md) — Open when using 0.15.0 within release-history.
+- [0.16.0](0.16.0/INDEX.md) — Open when using 0.16.0 within release-history.
+- [0.2](0.2/INDEX.md) — Open when using 0.2 within release-history.
+- [0.3](0.3/INDEX.md) — Open when using 0.3 within release-history.
+- [0.4](0.4/INDEX.md) — Open when using 0.4 within release-history.
+- [0.4.1](0.4.1/INDEX.md) — Open when using 0.4.1 within release-history.
+- [0.4.2](0.4.2/INDEX.md) — Open when using 0.4.2 within release-history.
+- [0.4.3](0.4.3/INDEX.md) — Open when using 0.4.3 within release-history.
+- [0.4.4](0.4.4/INDEX.md) — Open when using 0.4.4 within release-history.
+- [0.4.5](0.4.5/INDEX.md) — Open when using 0.4.5 within release-history.
+- [0.4.6](0.4.6/INDEX.md) — Open when using 0.4.6 within release-history.
+- [0.5](0.5/INDEX.md) — Open when using 0.5 within release-history.
+- [0.5.1](0.5.1/INDEX.md) — Open when using 0.5.1 within release-history.
+- [0.6](0.6/INDEX.md) — Open when using 0.6 within release-history.
+- [0.6.1](0.6.1/INDEX.md) — Open when using 0.6.1 within release-history.
+- [0.7](0.7/INDEX.md) — Open when using 0.7 within release-history.
+- [0.8](0.8/INDEX.md) — Open when using 0.8 within release-history.
+- [0.9](0.9/INDEX.md) — Open when using 0.9 within release-history.
+- [upcoming](upcoming/INDEX.md) — Open when using upcoming within release-history.

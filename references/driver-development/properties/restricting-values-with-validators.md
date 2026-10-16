@@ -1,0 +1,7 @@
+# Restricting values with validators
+
+Many GPIB/SCPI commands impose tighter limits than the simple examples above. [`Instrument.control`](https://pymeasure.readthedocs.io/en/latest/api/instruments/instruments.html#pymeasure.instruments.common_base.CommonBase.control) can represent those limits through [`validators`](https://pymeasure.readthedocs.io/en/latest/api/instruments/validators.html#module-pymeasure.instruments.validators). A validator receives a value plus an allowed-value description, then either returns an acceptable value or raises an exception. [`pymeasure.instruments.validators`](https://pymeasure.readthedocs.io/en/latest/api/instruments/validators.html#module-pymeasure.instruments.validators) includes several built-in validators for common cases; the four basic categories are introduced here.
+
+The examples that follow assume the validators have already been imported.
+
+Often the returned string needs parsing before the desired quantity is available, or an outgoing value needs processing before it is sent to the device. [`Instrument.control`](https://pymeasure.readthedocs.io/en/latest/api/instruments/instruments.html#pymeasure.instruments.common_base.CommonBase.control), [`Instrument.measurement`](https://pymeasure.readthedocs.io/en/latest/api/instruments/instruments.html#pymeasure.instruments.common_base.CommonBase.measurement), and [`Instrument.setting`](https://pymeasure.readthedocs.io/en/latest/api/instruments/instruments.html#pymeasure.instruments.common_base.CommonBase.setting) include hooks for that work.

@@ -1,0 +1,25 @@
+# instruments — mksinst — mks974b reference index
+
+- [relay](../mks974b-relay/INDEX.md) — Open when using relay within instruments / mksinst / mks974b.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B](overview.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.coldcathode_pressure](coldcathode-pressure.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.coldcathode_pressure.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.device_type](device-type.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.device_type.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.firmware_version](firmware-version.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.firmware_version.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.hardware_version](hardware-version.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.hardware_version.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.id](id.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.id.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.manufacturer](manufacturer.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.manufacturer.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.model](model.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.model.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.operation_hours](operation-hours.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.operation_hours.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.part_number](part-number.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.part_number.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.piezo_pressure](piezo-pressure.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.piezo_pressure.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.pirani_pressure](pirani-pressure.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.pirani_pressure.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.pressure](pressure.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.pressure.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.relay_1](relay-1.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.relay_1.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.relay_2](relay-2.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.relay_2.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.relay_3](relay-3.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.relay_3.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.serial_number](serial-number.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.serial_number.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.status](status.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.status.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.switch_enabled](switch-enabled.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.switch_enabled.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.temperature](temperature.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.temperature.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.unit](unit.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.unit.
+- [pymeasure.instruments.mksinst.mks974b.MKS974B.user_tag](user-tag.md) — Open when checking pymeasure.instruments.mksinst.mks974b.MKS974B.user_tag.

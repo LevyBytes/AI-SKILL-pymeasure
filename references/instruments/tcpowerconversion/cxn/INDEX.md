@@ -1,0 +1,40 @@
+# instruments — tcpowerconversion — cxn reference index
+
+- [status](../cxn-status/INDEX.md) — Open when using status within instruments / tcpowerconversion / cxn.
+- [pymeasure.instruments.tcpowerconversion.CXN](overview.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.
+- [pymeasure.instruments.tcpowerconversion.CXN.dc_voltage](dc-voltage.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.dc_voltage.
+- [pymeasure.instruments.tcpowerconversion.CXN.firmware_version](firmware-version.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.firmware_version.
+- [pymeasure.instruments.tcpowerconversion.CXN.frequency](frequency.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.frequency.
+- [pymeasure.instruments.tcpowerconversion.CXN.id](id.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.id.
+- [pymeasure.instruments.tcpowerconversion.CXN.load_capacity](load-capacity.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.load_capacity.
+- [pymeasure.instruments.tcpowerconversion.CXN.manual_mode](manual-mode.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.manual_mode.
+- [pymeasure.instruments.tcpowerconversion.CXN.operation_mode](operation-mode.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.operation_mode.
+- [pymeasure.instruments.tcpowerconversion.CXN.ping](ping.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.ping.
+- [pymeasure.instruments.tcpowerconversion.CXN.power_limit](power-limit.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.power_limit.
+- [pymeasure.instruments.tcpowerconversion.CXN.power](power.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.power.
+- [pymeasure.instruments.tcpowerconversion.CXN.preset_1](preset-1.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.preset_1.
+- [pymeasure.instruments.tcpowerconversion.CXN.preset_2](preset-2.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.preset_2.
+- [pymeasure.instruments.tcpowerconversion.CXN.preset_3](preset-3.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.preset_3.
+- [pymeasure.instruments.tcpowerconversion.CXN.preset_4](preset-4.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.preset_4.
+- [pymeasure.instruments.tcpowerconversion.CXN.preset_5](preset-5.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.preset_5.
+- [pymeasure.instruments.tcpowerconversion.CXN.preset_6](preset-6.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.preset_6.
+- [pymeasure.instruments.tcpowerconversion.CXN.preset_7](preset-7.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.preset_7.
+- [pymeasure.instruments.tcpowerconversion.CXN.preset_8](preset-8.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.preset_8.
+- [pymeasure.instruments.tcpowerconversion.CXN.preset_9](preset-9.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.preset_9.
+- [pymeasure.instruments.tcpowerconversion.CXN.preset_slot](preset-slot.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.preset_slot.
+- [pymeasure.instruments.tcpowerconversion.CXN.pulse_params](pulse-params.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.pulse_params.
+- [pymeasure.instruments.tcpowerconversion.CXN.ramp_rate](ramp-rate.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.ramp_rate.
+- [pymeasure.instruments.tcpowerconversion.CXN.ramp_start_power](ramp-start-power.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.ramp_start_power.
+- [pymeasure.instruments.tcpowerconversion.CXN.read](read.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.read.
+- [pymeasure.instruments.tcpowerconversion.CXN.release_control](release-control.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.release_control.
+- [pymeasure.instruments.tcpowerconversion.CXN.request_control](request-control.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.request_control.
+- [pymeasure.instruments.tcpowerconversion.CXN.reverse_power_limit](reverse-power-limit.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.reverse_power_limit.
+- [pymeasure.instruments.tcpowerconversion.CXN.rf_enabled](rf-enabled.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.rf_enabled.
+- [pymeasure.instruments.tcpowerconversion.CXN.serial](serial.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.serial.
+- [pymeasure.instruments.tcpowerconversion.CXN.setpoint](setpoint.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.setpoint.
+- [pymeasure.instruments.tcpowerconversion.CXN.status](status.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.status.
+- [pymeasure.instruments.tcpowerconversion.CXN.temperature](temperature.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.temperature.
+- [pymeasure.instruments.tcpowerconversion.CXN.tune_capacity](tune-capacity.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.tune_capacity.
+- [pymeasure.instruments.tcpowerconversion.CXN.tuner](tuner.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.tuner.
+- [pymeasure.instruments.tcpowerconversion.CXN.values](values.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.values.
+- [pymeasure.instruments.tcpowerconversion.CXN.write](write.md) — Open when checking pymeasure.instruments.tcpowerconversion.CXN.write.

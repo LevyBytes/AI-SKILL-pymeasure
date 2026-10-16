@@ -1,0 +1,21 @@
+# instruments — ophir — nova reference index
+
+- [pymeasure.instruments.ophir.nova.Nova](overview.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.
+- [pymeasure.instruments.ophir.nova.Nova.diffuser](diffuser.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.diffuser.
+- [pymeasure.instruments.ophir.nova.Nova.energy_flag](energy-flag.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.energy_flag.
+- [pymeasure.instruments.ophir.nova.Nova.energy_ready](energy-ready.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.energy_ready.
+- [pymeasure.instruments.ophir.nova.Nova.energy_timeout](energy-timeout.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.energy_timeout.
+- [pymeasure.instruments.ophir.nova.Nova.energy](energy.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.energy.
+- [pymeasure.instruments.ophir.nova.Nova.frequency](frequency.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.frequency.
+- [pymeasure.instruments.ophir.nova.Nova.head_information](head-information.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.head_information.
+- [pymeasure.instruments.ophir.nova.Nova.head_type](head-type.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.head_type.
+- [pymeasure.instruments.ophir.nova.Nova.id](id.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.id.
+- [pymeasure.instruments.ophir.nova.Nova.mode](mode.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.mode.
+- [pymeasure.instruments.ophir.nova.Nova.power_timeout](power-timeout.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.power_timeout.
+- [pymeasure.instruments.ophir.nova.Nova.power](power.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.power.
+- [pymeasure.instruments.ophir.nova.Nova.range](range.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.range.
+- [pymeasure.instruments.ophir.nova.Nova.reset](reset.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.reset.
+- [pymeasure.instruments.ophir.nova.Nova.screen_mode](screen-mode.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.screen_mode.
+- [pymeasure.instruments.ophir.nova.Nova.software_version](software-version.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.software_version.
+- [pymeasure.instruments.ophir.nova.Nova.units](units.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.units.
+- [pymeasure.instruments.ophir.nova.Nova.wavelength](wavelength.md) — Open when checking pymeasure.instruments.ophir.nova.Nova.wavelength.

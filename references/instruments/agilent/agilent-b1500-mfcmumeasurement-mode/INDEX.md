@@ -1,0 +1,23 @@
+# instruments — agilent — agilent-b1500 — mfcmumeasurement-mode reference index
+
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode](overview.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CP_D](cp-d.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CP_D.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CP_G](cp-g.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CP_G.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CP_Q](cp-q.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CP_Q.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CP_RP](cp-rp.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CP_RP.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CS_D](cs-d.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CS_D.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CS_Q](cs-q.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CS_Q.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CS_RS](cs-rs.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.CS_RS.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.G_B](g-b.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.G_B.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LP_D](lp-d.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LP_D.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LP_G](lp-g.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LP_G.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LP_Q](lp-q.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LP_Q.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LP_RP](lp-rp.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LP_RP.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LS_D](ls-d.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LS_D.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LS_Q](ls-q.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LS_Q.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LS_RS](ls-rs.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.LS_RS.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.R_X](r-x.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.R_X.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.Y_PHASE_DEG](y-phase-deg.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.Y_PHASE_DEG.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.Y_PHASE_RAD](y-phase-rad.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.Y_PHASE_RAD.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.Z_PHASE_DEG](z-phase-deg.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.Z_PHASE_DEG.
+- [pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.Z_PHASE_RAD](z-phase-rad.md) — Open when checking pymeasure.instruments.agilent.agilentB1500.MFCMUMeasurementMode.Z_PHASE_RAD.

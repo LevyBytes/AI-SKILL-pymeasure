@@ -1,0 +1,21 @@
+# Yokogawa — Yokogawa 7651 Programmable Supply
+
+This section documents the supported Yokogawa instruments. For a device that is not listed here, consider [adding the instrument](https://pymeasure.readthedocs.io/en/latest/dev/adding_instruments/index.html).
+- [Yokogawa 7651 Programmable Supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html)
+- [`Yokogawa7651`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651)
+- [`Yokogawa7651.apply_current()`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.apply_current)
+- [`Yokogawa7651.apply_voltage()`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.apply_voltage)
+- [`Yokogawa7651.compliance_current`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.compliance_current)
+- [`Yokogawa7651.compliance_voltage`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.compliance_voltage)
+- [`Yokogawa7651.disable_source()`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.disable_source)
+- [`Yokogawa7651.enable_source()`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.enable_source)
+- [`Yokogawa7651.id`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.id)
+- [`Yokogawa7651.ramp_to_current()`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.ramp_to_current)
+- [`Yokogawa7651.ramp_to_voltage()`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.ramp_to_voltage)
+- [`Yokogawa7651.shutdown()`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.shutdown)
+- [`Yokogawa7651.source_current`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.source_current)
+- [`Yokogawa7651.source_current_range`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.source_current_range)
+- [`Yokogawa7651.source_enabled`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.source_enabled)
+- [`Yokogawa7651.source_mode`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.source_mode)
+- [`Yokogawa7651.source_voltage`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.source_voltage)
+- [`Yokogawa7651.source_voltage_range`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html#pymeasure.instruments.yokogawa.Yokogawa7651.source_voltage_range)

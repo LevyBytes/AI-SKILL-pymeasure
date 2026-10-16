@@ -1,0 +1,93 @@
+# instruments — hp — hp856xx reference index
+
+- [amplitude units](../hp856xx-amplitude-units/INDEX.md) — Open when using amplitude units within instruments / hp / hp856xx.
+- [coupling mode](../hp856xx-coupling-mode/INDEX.md) — Open when using coupling mode within instruments / hp / hp856xx.
+- [demodulation mode](../hp856xx-demodulation-mode/INDEX.md) — Open when using demodulation mode within instruments / hp / hp856xx.
+- [detection modes](../hp856xx-detection-modes/INDEX.md) — Open when using detection modes within instruments / hp / hp856xx.
+- [error code](../hp856xx-error-code/INDEX.md) — Open when using error code within instruments / hp / hp856xx.
+- [frequency reference](../hp856xx-frequency-reference/INDEX.md) — Open when using frequency reference within instruments / hp / hp856xx.
+- [mixer mode](../hp856xx-mixer-mode/INDEX.md) — Open when using mixer mode within instruments / hp / hp856xx.
+- [peak search mode](../hp856xx-peak-search-mode/INDEX.md) — Open when using peak search mode within instruments / hp / hp856xx.
+- [source leveling control mode](../hp856xx-source-leveling-control-mode/INDEX.md) — Open when using source leveling control mode within instruments / hp / hp856xx.
+- [status register](../hp856xx-status-register/INDEX.md) — Open when using status register within instruments / hp / hp856xx.
+- [sweep couple mode](../hp856xx-sweep-couple-mode/INDEX.md) — Open when using sweep couple mode within instruments / hp / hp856xx.
+- [sweep out](../hp856xx-sweep-out/INDEX.md) — Open when using sweep out within instruments / hp / hp856xx.
+- [trace](../hp856xx-trace/INDEX.md) — Open when using trace within instruments / hp / hp856xx.
+- [trigger mode](../hp856xx-trigger-mode/INDEX.md) — Open when using trigger mode within instruments / hp / hp856xx.
+- [window type](../hp856xx-window-type/INDEX.md) — Open when using window type within instruments / hp / hp856xx.
+- [hp856xx frequency operations](frequency-operations.md) — Open when selecting a frequency operation for this instrument.
+- [hp856xx marker operations](marker-operations.md) — Open when selecting a marker operation for this instrument.
+- [hp856xx recall operations](recall-operations.md) — Open when selecting a recall operation for this instrument.
+- [hp856xx set operations](set-operations.md) — Open when selecting a set operation for this instrument.
+- [hp856xx sweep operations](sweep-operations.md) — Open when selecting a sweep operation for this instrument.
+- [hp856xx video operations](video-operations.md) — Open when selecting a video operation for this instrument.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.adjust_all](adjust-all.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.adjust_all.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.adjust_if](adjust-if.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.adjust_if.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.amplitude_unit](amplitude-unit.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.amplitude_unit.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.annotation_enabled](annotation-enabled.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.annotation_enabled.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.attenuation](attenuation.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.attenuation.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.blank_trace](blank-trace.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.blank_trace.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.center_frequency](center-frequency.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.center_frequency.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.check_done](check-done.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.check_done.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.clear_write_trace](clear-write-trace.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.clear_write_trace.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.coupling](coupling.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.coupling.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.create_fft_trace_window](create-fft-trace-window.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.create_fft_trace_window.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.deactivate_marker](deactivate-marker.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.deactivate_marker.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.demodulation_agc_enabled](demodulation-agc-enabled.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.demodulation_agc_enabled.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.demodulation_mode](demodulation-mode.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.demodulation_mode.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.demodulation_time](demodulation-time.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.demodulation_time.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.detector_mode](detector-mode.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.detector_mode.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.display_line](display-line.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.display_line.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.display_parameters](display-parameters.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.display_parameters.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.do_fft](do-fft.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.do_fft.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.elapsed_time](elapsed-time.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.elapsed_time.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.errors](errors.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.errors.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.exchange_traces](exchange-traces.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.exchange_traces.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.firmware_revision](firmware-revision.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.firmware_revision.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.get_power_bandwidth](get-power-bandwidth.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.get_power_bandwidth.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.get_trace_data_a](get-trace-data-a.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.get_trace_data_a.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.get_trace_data_b](get-trace-data-b.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.get_trace_data_b.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.graticule_enabled](graticule-enabled.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.graticule_enabled.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.hold](hold.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.hold.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.id](id.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.id.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.lo_frequency](lo-frequency.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.lo_frequency.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.logarithmic_scale](logarithmic-scale.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.logarithmic_scale.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.mixer_level](mixer-level.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.mixer_level.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.mroll_frequency](mroll-frequency.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.mroll_frequency.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.normalize_trace_data_enabled](normalize-trace-data-enabled.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.normalize_trace_data_enabled.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.normalized_reference_level](normalized-reference-level.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.normalized_reference_level.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.normalized_reference_position](normalized-reference-position.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.normalized_reference_position.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.oroll_frequency](oroll-frequency.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.oroll_frequency.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.peak_excursion](peak-excursion.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.peak_excursion.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.preset](preset.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.preset.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.protect_state_enabled](protect-state-enabled.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.protect_state_enabled.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.reference_level_calibration](reference-level-calibration.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.reference_level_calibration.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.reference_level](reference-level.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.reference_level.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.reference_offset](reference-offset.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.reference_offset.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.request_service_conditions](request-service-conditions.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.request_service_conditions.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.request_service](request-service.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.request_service.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.resolution_bandwidth_to_span_ratio](resolution-bandwidth-to-span-ratio.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.resolution_bandwidth_to_span_ratio.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.resolution_bandwidth](resolution-bandwidth.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.resolution_bandwidth.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.sampler_harmonic_number](sampler-harmonic-number.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.sampler_harmonic_number.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.sampling_frequency](sampling-frequency.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.sampling_frequency.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.save_state](save-state.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.save_state.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.save_trace](save-trace.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.save_trace.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.search_peak](search-peak.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.search_peak.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.serial_number](serial-number.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.serial_number.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.span](span.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.span.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.squelch](squelch.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.squelch.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.start_frequency](start-frequency.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.start_frequency.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.status](status.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.status.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.stop_frequency](stop-frequency.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.stop_frequency.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.store_open](store-open.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.store_open.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.store_short](store-short.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.store_short.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.store_thru](store-thru.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.store_thru.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.subtract_display_line_from_trace_b](subtract-display-line-from-trace-b.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.subtract_display_line_from_trace_b.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.threshold](threshold.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.threshold.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.trace_a_minus_b_enabled](trace-a-minus-b-enabled.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.trace_a_minus_b_enabled.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.trace_a_minus_b_plus_dl_enabled](trace-a-minus-b-plus-dl-enabled.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.trace_a_minus_b_plus_dl_enabled.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.trace_data_format](trace-data-format.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.trace_data_format.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.trigger_mode](trigger-mode.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.trigger_mode.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.trigger_sweep](trigger-sweep.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.trigger_sweep.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.view_trace](view-trace.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.view_trace.
+- [pymeasure.instruments.hp.hp856Xx.HP856Xx.xroll_frequency](xroll-frequency.md) — Open when checking pymeasure.instruments.hp.hp856Xx.HP856Xx.xroll_frequency.

@@ -1,0 +1,7 @@
+# pymeasure.instruments.keithley.Keithley2400.resistance_range_auto_enabled
+
+[Owning PyMeasure class, adapter and connection contract](overview.md)
+
+*property *resistance_range_auto_enabled*: Any*
+
+Enable or disable resistance measurement auto-range (bool).

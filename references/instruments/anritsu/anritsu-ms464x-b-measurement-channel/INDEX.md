@@ -1,0 +1,30 @@
+# instruments — anritsu — anritsu-ms464x-b — measurement-channel reference index
+
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel](overview.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.activate](activate.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.activate.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.active_trace](active-trace.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.active_trace.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.application_type](application-type.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.application_type.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.average_count](average-count.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.average_count.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.average_sweep_count](average-sweep-count.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.average_sweep_count.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.average_type](average-type.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.average_type.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.averaging_enabled](averaging-enabled.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.averaging_enabled.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.bandwidth](bandwidth.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.bandwidth.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.calibration_enabled](calibration-enabled.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.calibration_enabled.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.check_errors](check-errors.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.check_errors.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.clear_average_count](clear-average-count.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.clear_average_count.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.cw_mode_enabled](cw-mode-enabled.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.cw_mode_enabled.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.cw_number_of_points](cw-number-of-points.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.cw_number_of_points.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.display_layout](display-layout.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.display_layout.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.frequency_center](frequency-center.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.frequency_center.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.frequency_CW](frequency-cw.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.frequency_CW.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.frequency_span](frequency-span.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.frequency_span.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.frequency_start](frequency-start.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.frequency_start.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.frequency_stop](frequency-stop.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.frequency_stop.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.hold_function](hold-function.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.hold_function.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.number_of_points](number-of-points.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.number_of_points.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.number_of_traces](number-of-traces.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.number_of_traces.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.sweep_mode](sweep-mode.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.sweep_mode.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.sweep_time](sweep-time.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.sweep_time.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.sweep_type](sweep-type.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.sweep_type.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.update_frequency_range](update-frequency-range.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.update_frequency_range.
+- [pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.update_traces](update-traces.md) — Open when checking pymeasure.instruments.anritsu.anritsuMS464xB.MeasurementChannel.update_traces.

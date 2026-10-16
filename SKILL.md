@@ -1,37 +1,29 @@
 ---
 name: pymeasure
-description: Use when working with PyMeasure - the Python library for scientific measurement, instrument control, and experiment automation (built on PyVISA): the Instrument/Channel base classes and dynamic properties, instrument drivers by manufacturer (Keithley, Agilent/Keysight, HP, Lake Shore, SRS, Tektronix, Rohde & Schwarz, ...), Adapters (VISA/serial/Prologix/TCP), the Procedure/Experiment/Worker framework, Results, plotting/display, and the measurement workflow. from pymeasure.instruments import ... Not for the Python stdlib, raw PyVISA, or other instrument-control libraries.
+description: "Use when working with PyMeasure scientific measurement, instrument control and experiment automation: Instrument/Channel APIs, instrument drivers, dynamic properties and validators, VISA/serial/Prologix adapters, Procedures, Parameters, Experiments, Workers, Results, plotting, Qt windows or measurement sequencing. Use the bundled model, driver version and interface requirements. Not for raw PyVISA alone, unrelated instrument libraries or general Python."
+metadata:
+  last-updated: "2026-10-16"
 ---
 
-# PyMeasure Reference
+# Context Router
 
-Original-prose reference for PyMeasure, split into one focused file per subject across 109 reference files.
-Identifiers (API/type/function names, flags, paths, enums, numbers) are preserved verbatim.
+- [Getting started](references/getting-started/INDEX.md) — Open when installing PyMeasure or checking the measurement workflow.
+- [Connections](references/connections/INDEX.md) — Open when selecting an adapter or setting connection options.
+- [Measurement procedures](references/measurement-procedures/INDEX.md) — Open when running measurements, storing results or recording metadata.
+- [Graphical measurements](references/graphical-measurements/INDEX.md) — Open when building Qt measurement windows, plotting or sequencing procedures.
+- [Driver development](references/driver-development/INDEX.md) — Open when implementing instrument commands, properties, channels or protocol tests.
+- [Experiment APIs](references/experiment/INDEX.md) — Open when using Procedures, Parameters, Results, Workers or experiment listeners.
+- [Display APIs](references/display/INDEX.md) — Open when using Qt windows, widgets, curves, managers or plotters.
+- [Adapter APIs](references/adapters/INDEX.md) — Open when using VISA, serial, Prologix or test adapters.
+- [Instrument APIs](references/instruments/INDEX.md) — Open when selecting an instrument manufacturer, model, channel or exact operation.
+- [Contributing to PyMeasure](references/development/INDEX.md) — Open when testing or contributing changes to the PyMeasure package.
+- [Release history](references/release-history/INDEX.md) — Open when checking version-specific changes and migration requirements.
+- [Authorship and license](references/about/INDEX.md) — Open when checking PyMeasure attribution, licensing or related projects.
 
-## When to use this
+# Language Translations
 
-Use this skill when the task involves the PyMeasure library - instrument drivers by manufacturer, the Instrument/Channel base classes and dynamic instrument properties, Adapters (VISA/serial/Prologix/TCP), the Procedure/Experiment/Worker automation framework, Results storage, plotting/display, and the end-to-end measurement workflow.
+[Reference Language Selection](references/languages.md)
 
-## Workflow
+# Context For Open Source
 
-1. Open `references/INDEX.md` (or `references/topics.json`) and pick the one file that matches.
-2. Read only that file; open another only if the task spans subjects. Grep across files when needed: `rg -n "PATTERN" references/*.md`.
-3. Treat every identifier as an exact reference fact - never invent or paraphrase.
-
-## Gotchas
-
-Recurring failure modes and what to do instead live in the sibling [GOTCHA.md](GOTCHA.md).
-
-## References
-
-All depth lives in `references/` - start at `references/INDEX.md`, metadata in `references/topics.json`. One subject per file.
-
-## Source
-
-Adapted from the upstream PyMeasure documentation into original prose for local reference. Identifiers remain verbatim. Upstream: https://pymeasure.readthedocs.io/en/latest/
-
-## Verification
-
-```powershell
-python D:\dev\SKILLS\skills\skill-drafting\scripts\validate_skill_package.py D:\dev\SKILLS\skills\pymeasure
-```
+Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://pymeasure.readthedocs.io/en/latest/) when dealing with defects or issues that may come up from interpreting this skill's references.

@@ -1,0 +1,25 @@
+# instruments — siglenttechnologies documentation links
+
+- [Siglent Technologies](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/index.html)
+- [Siglent Technologies Base Class](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_spdbase.html)
+- [Siglent SPD1168X Power Supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_spd1168x.html)
+- [Siglent SPD1305X Power Supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_spd1305x.html)
+- [Siglent SDS1072CML Oscilloscope](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_sds1072cml.html)
+- [Siglent SDS1000XHD Oscilloscope](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_sds1000xhd.html)
+
+Here, the implemented Siglent Technologies instruments have their dedicated notes. For hardware that is not listed, consider [adding the instrument](https://pymeasure.readthedocs.io/en/latest/dev/adding_instruments/index.html).
+- [`SPDBase`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_spdbase.html#pymeasure.instruments.siglenttechnologies.siglent_spdbase.SPDBase)
+- [`SPDSingleChannelBase`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_spdbase.html#pymeasure.instruments.siglenttechnologies.siglent_spdbase.SPDSingleChannelBase)
+- [`SPDChannel`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_spdbase.html#pymeasure.instruments.siglenttechnologies.siglent_spdbase.SPDChannel)
+- [`SystemStatusCode`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_spdbase.html#pymeasure.instruments.siglenttechnologies.siglent_spdbase.SystemStatusCode)
+- [`SPD1168X`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_spd1168x.html#pymeasure.instruments.siglenttechnologies.SPD1168X)
+- [`SPD1305X`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_spd1305x.html#pymeasure.instruments.siglenttechnologies.SPD1305X)
+- [`SDS1072CML`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_sds1072cml.html#pymeasure.instruments.siglenttechnologies.SDS1072CML)
+- [`VoltageChannel`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_sds1072cml.html#pymeasure.instruments.siglenttechnologies.siglent_sds1072cml.VoltageChannel)
+- [`TriggerChannel`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_sds1072cml.html#pymeasure.instruments.siglenttechnologies.siglent_sds1072cml.TriggerChannel)
+- [`SDS1000XHD`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_sds1000xhd.html#pymeasure.instruments.siglenttechnologies.SDS1000XHD)
+- [`AnalogChannel`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_sds1000xhd.html#pymeasure.instruments.siglenttechnologies.siglent_sds1000xhd.AnalogChannel)
+- [`WaveformChannel`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_sds1000xhd.html#pymeasure.instruments.siglenttechnologies.siglent_sds1000xhd.WaveformChannel)
+- [`AdvancedMeasurementItem`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_sds1000xhd.html#pymeasure.instruments.siglenttechnologies.siglent_sds1000xhd.AdvancedMeasurementItem)
+- [`MeasureChannel`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_sds1000xhd.html#pymeasure.instruments.siglenttechnologies.siglent_sds1000xhd.MeasureChannel)
+- [`TriggerChannel`](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_sds1000xhd.html#pymeasure.instruments.siglenttechnologies.siglent_sds1000xhd.TriggerChannel)

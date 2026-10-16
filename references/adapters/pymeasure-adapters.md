@@ -1,0 +1,3 @@
+# pymeasure.adapters
+
+Adapters decouple instrument classes from the transport used to reach hardware. The instrument side handles protocol-specific behavior (see [protocol guidance](https://pymeasure.readthedocs.io/en/latest/dev/adding_instruments/advanced_communication.html#advanced-communication-protocols)); the adapter manages traffic over the device connection. In common use, the caller gives the instrument only a connection string or integer (see [connection guide](https://pymeasure.readthedocs.io/en/latest/tutorial/connecting.html#connecting-to-an-instrument)); internally that route selects `pymeasure.adapters.VISAAdapter`.

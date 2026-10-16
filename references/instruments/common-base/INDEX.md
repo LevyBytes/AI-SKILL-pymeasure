@@ -1,0 +1,21 @@
+# instruments — common-base reference index
+
+- [base channel creator](base-channel-creator/INDEX.md) — Open when using base channel creator within instruments / common-base.
+- [channel creator](channel-creator/INDEX.md) — Open when using channel creator within instruments / common-base.
+- [multi channel creator](multi-channel-creator/INDEX.md) — Open when using multi channel creator within instruments / common-base.
+- [pymeasure.instruments.common_base.CommonBase](overview.md) — Open when checking pymeasure.instruments.common_base.CommonBase.
+- [pymeasure.instruments.common_base.CommonBase.add_child](add-child.md) — Open when checking pymeasure.instruments.common_base.CommonBase.add_child.
+- [pymeasure.instruments.common_base.CommonBase.ask](ask.md) — Open when checking pymeasure.instruments.common_base.CommonBase.ask.
+- [pymeasure.instruments.common_base.CommonBase.binary_values](binary-values.md) — Open when checking pymeasure.instruments.common_base.CommonBase.binary_values.
+- [pymeasure.instruments.common_base.CommonBase.check_errors](check-errors.md) — Open when checking pymeasure.instruments.common_base.CommonBase.check_errors.
+- [pymeasure.instruments.common_base.CommonBase.check_get_errors](check-get-errors.md) — Open when checking pymeasure.instruments.common_base.CommonBase.check_get_errors.
+- [pymeasure.instruments.common_base.CommonBase.check_set_errors](check-set-errors.md) — Open when checking pymeasure.instruments.common_base.CommonBase.check_set_errors.
+- [pymeasure.instruments.common_base.CommonBase.control — control dynamic-property example and reserved-name warning](control-dynamic-example.md) — Open when checking pymeasure.instruments.common_base.CommonBase.control — control dynamic-property example and reserved-name warning.
+- [pymeasure.instruments.common_base.CommonBase.control — control signature, complete parameters and return type](control-parameters.md) — Open when checking pymeasure.instruments.common_base.CommonBase.control — control signature, complete parameters and return type.
+- [pymeasure.instruments.common_base.CommonBase.get_channel_pairs](get-channel-pairs.md) — Open when checking pymeasure.instruments.common_base.CommonBase.get_channel_pairs.
+- [pymeasure.instruments.common_base.CommonBase.get_channels](get-channels.md) — Open when checking pymeasure.instruments.common_base.CommonBase.get_channels.
+- [pymeasure.instruments.common_base.CommonBase.measurement](measurement.md) — Open when checking pymeasure.instruments.common_base.CommonBase.measurement.
+- [pymeasure.instruments.common_base.CommonBase.remove_child](remove-child.md) — Open when checking pymeasure.instruments.common_base.CommonBase.remove_child.
+- [pymeasure.instruments.common_base.CommonBase.setting](setting.md) — Open when checking pymeasure.instruments.common_base.CommonBase.setting.
+- [pymeasure.instruments.common_base.CommonBase.values](values.md) — Open when checking pymeasure.instruments.common_base.CommonBase.values.
+- [pymeasure.instruments.common_base.CommonBase.wait_for](wait-for.md) — Open when checking pymeasure.instruments.common_base.CommonBase.wait_for.
