@@ -10,4 +10,4 @@ Parameters:
 
 - **line** (*str*) – Line string
 
-- **digitalSignalSource** (*int*) — use `0` for FGEN start or `1` for MSO trigger
+- **digitalSignalSource** (*int*): use `0` for FGEN start or `1` for MSO trigger

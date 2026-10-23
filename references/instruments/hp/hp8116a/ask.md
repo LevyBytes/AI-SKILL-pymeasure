@@ -8,6 +8,6 @@ Sends a command to the instrument, reads the reply, and returns that reply as AS
 
 Parameters:
 
-- **command** — Command sent to the instrument.
+- **command**: Command sent to the instrument.
 
-- **num_bytes** — Number of bytes to read from the instrument. When omitted, the command determines the byte count automatically. (default: `None`)
+- **num_bytes**: Number of bytes to read from the instrument. When omitted, the command determines the byte count automatically. (default: `None`)

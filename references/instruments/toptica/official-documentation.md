@@ -1,4 +1,4 @@
-# instruments — toptica documentation links
+# instruments - toptica documentation links
 
 - [Toptica](https://pymeasure.readthedocs.io/en/latest/api/instruments/toptica/index.html)
 - [Toptica IBeam Smart Laser diode](https://pymeasure.readthedocs.io/en/latest/api/instruments/toptica/ibeamsmart.html)

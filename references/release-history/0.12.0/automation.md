@@ -1,4 +1,4 @@
-# Version 0.12.0 (2023-07-05) — Automation
+# Version 0.12.0 (2023-07-05) - Automation
 
 - Allows result files to open even when parameters are missing (@msmttchr, #780)
 

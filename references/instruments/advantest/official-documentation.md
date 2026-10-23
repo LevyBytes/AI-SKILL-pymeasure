@@ -1,4 +1,4 @@
-# instruments — advantest documentation links
+# instruments - advantest documentation links
 
 - [Advantest](https://pymeasure.readthedocs.io/en/latest/api/instruments/advantest/index.html)
 - [Advantest R3767CG Vector Network Analyzer](https://pymeasure.readthedocs.io/en/latest/api/instruments/advantest/advantestR3767CG.html)

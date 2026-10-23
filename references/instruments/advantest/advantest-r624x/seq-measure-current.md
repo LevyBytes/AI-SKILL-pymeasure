@@ -8,13 +8,13 @@ Create the command string for RI (current measurement).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
 - **enable** (*bool*) – Enable current measurement.
 
-- **internal_measurement** (*bool*) — Select the internal measurement input.
+- **internal_measurement** (*bool*): Select the internal measurement input.
 
-- **current_range** (int or `CurrentRange`) — Measurement range for current. (default: `<CurrentRange.AUTO: 0>`)
+- **current_range** (int or `CurrentRange`): Measurement range for current. (default: `<CurrentRange.AUTO: 0>`)
 
 Return type:
 

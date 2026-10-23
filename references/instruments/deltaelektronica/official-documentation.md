@@ -1,4 +1,4 @@
-# instruments — deltaelektronica documentation links
+# instruments - deltaelektronica documentation links
 
 - [Delta Elektronika](https://pymeasure.readthedocs.io/en/latest/api/instruments/deltaelektronica/index.html)
 - [Delta Elektronica SM7045D Power source](https://pymeasure.readthedocs.io/en/latest/api/instruments/deltaelektronica/sm7045d.html)

@@ -1,4 +1,4 @@
-# instruments — keysight documentation links
+# instruments - keysight documentation links
 
 - [Keysight](https://pymeasure.readthedocs.io/en/latest/api/instruments/keysight/index.html)
 - [Keysight DSOX1102G Oscilloscope](https://pymeasure.readthedocs.io/en/latest/api/instruments/keysight/keysightDSOX1102G.html)

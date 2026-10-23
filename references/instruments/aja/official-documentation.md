@@ -1,4 +1,4 @@
-# instruments — aja documentation links
+# instruments - aja documentation links
 
 - [AJA International](https://pymeasure.readthedocs.io/en/latest/api/instruments/aja/index.html)
 - [AJA DCXS-750 or 1500 power supply for DC magnetron sputtering](https://pymeasure.readthedocs.io/en/latest/api/instruments/aja/DCXS.html)

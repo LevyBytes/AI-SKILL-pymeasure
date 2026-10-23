@@ -1,4 +1,4 @@
-# Version 0.11.0 (2022-11-19) — Instruments
+# Version 0.11.0 (2022-11-19) - Instruments
 
 - New Active Technologies AWG-401x (@garzetti, #649)
 

@@ -1,8 +1,8 @@
-# display — widgets — fileinput-widget — file-input-widget reference index
+# display - widgets - fileinput-widget - file-input-widget reference index
 
 ## Class and connection contract
 
-- [pymeasure.display.widgets.fileinput_widget.FileInputWidget](overview.md) — Open when checking pymeasure.display.widgets.fileinput_widget.FileInputWidget.
+- [pymeasure.display.widgets.fileinput_widget.FileInputWidget](overview.md) - Open when checking pymeasure.display.widgets.fileinput_widget.FileInputWidget.
 
 ## Property contracts
 

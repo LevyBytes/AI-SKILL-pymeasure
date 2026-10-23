@@ -14,18 +14,18 @@ Leave the default collection and prefix parameter unchanged unless separate coll
 
 Parameters:
 
-- **cls** (`type`[`TypeVar`(`child`, bound= `Child`)]) — Channel class to instantiate.
+- **cls** (`type`[`TypeVar`(`child`, bound= `Child`)]): Channel class to instantiate.
 
-- **id** (`Union`[`int`, `str`, `None`]) — Child id as used during communication, for example “A”. (default: `None`)
+- **id** (`Union`[`int`, `str`, `None`]): Child id as used during communication, for example “A”. (default: `None`)
 
-- **collection** (`str`) — Collection name for dictionary access to the channel interfaces. (default: `'channels'`)
+- **collection** (`str`): Collection name for dictionary access to the channel interfaces. (default: `'channels'`)
 
-- **prefix** (`Optional`[`str`]) — When multiple channel interfaces are created, the prefix such as “ch_” is added before the channel interface attribute name self.ch_A. If prefix evaluates False, the child is attached directly beneath the collection name. (default: `'ch_'`)
+- **prefix** (`Optional`[`str`]): When multiple channel interfaces are created, the prefix such as “ch_” is added before the channel interface attribute name self.ch_A. If prefix evaluates False, the child is attached directly beneath the collection name. (default: `'ch_'`)
 
-- **attr_name** (`Optional`[`str`]) — For a single channel interface, attr_name supplies the attribute name assigned to that channel interface. (default: `''`)
+- **attr_name** (`Optional`[`str`]): For a single channel interface, attr_name supplies the attribute name assigned to that channel interface. (default: `''`)
 
 - ****kwargs** — Keyword arguments passed to the channel creator.
 
 Returns:
 
-`TypeVar`(`child`, bound= `Child`) — Created child instance.
+`TypeVar`(`child`, bound= `Child`): Created child instance.

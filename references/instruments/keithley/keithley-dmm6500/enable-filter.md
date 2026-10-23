@@ -8,11 +8,11 @@ Turn on the averaging filter for the active mode, or pass a mode name to affect 
 
 Parameters:
 
-- **mode** — A valid `mode` name, or None to use the active mode (default: `None`)
+- **mode**: A valid `mode` name, or None to use the active mode (default: `None`)
 
-- **type** — Averaging filter type; valid choices are `REPeat`, `MOVing`, or `HYBRid`. (default: `'repeat'`)
+- **type**: Averaging filter type; valid choices are `REPeat`, `MOVing`, or `HYBRid`. (default: `'repeat'`)
 
-- **count** — Number of averages, with allowed values from 1 to 100 (default: `1`)
+- **count**: Number of averages, with allowed values from 1 to 100 (default: `1`)
 
 Returns:
 

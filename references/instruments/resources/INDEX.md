@@ -1,3 +1,3 @@
-# instruments — resources reference index
+# instruments - resources reference index
 
-- [Resource Manager](official-documentation.md) — Open when checking Resource Manager.
+- [Resource Manager](official-documentation.md) - Open when checking Resource Manager.

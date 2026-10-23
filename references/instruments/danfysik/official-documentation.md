@@ -1,4 +1,4 @@
-# instruments — danfysik documentation links
+# instruments - danfysik documentation links
 
 - [Danfysik](https://pymeasure.readthedocs.io/en/latest/api/instruments/danfysik/index.html)
 - [Danfysik 8500 Power Supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/danfysik/danfysik8500.html)

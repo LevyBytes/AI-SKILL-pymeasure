@@ -1,4 +1,4 @@
-# instruments — tcpowerconversion documentation links
+# instruments - tcpowerconversion documentation links
 
 - [T&C Power Conversion](https://pymeasure.readthedocs.io/en/latest/api/instruments/tcpowerconversion/index.html)
 - [T&C Power Conversion AG Series Plasma Generator CXN](https://pymeasure.readthedocs.io/en/latest/api/instruments/tcpowerconversion/tccxn.html)

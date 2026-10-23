@@ -1,24 +1,24 @@
-# instruments — agilent reference index
+# instruments - agilent reference index
 
-- [agilent b1500](agilent-b1500/INDEX.md) — Open when using agilent b1500 within instruments / agilent.
-- [agilent b2981](agilent-b2981/INDEX.md) — Open when using agilent b2981 within instruments / agilent.
-- [agilent b2983](agilent-b2983/INDEX.md) — Open when using agilent b2983 within instruments / agilent.
-- [agilent b2985](agilent-b2985/INDEX.md) — Open when using agilent b2985 within instruments / agilent.
-- [agilent b2987](agilent-b2987/INDEX.md) — Open when using agilent b2987 within instruments / agilent.
-- [agilent b298x](agilent-b298x/INDEX.md) — Open when using agilent b298x within instruments / agilent.
-- [agilent e4408b](agilent-e4408b/INDEX.md) — Open when using agilent e4408b within instruments / agilent.
-- [agilent e4980](agilent-e4980/INDEX.md) — Open when using agilent e4980 within instruments / agilent.
-- [agilent e5062a](agilent-e5062a/INDEX.md) — Open when using agilent e5062a within instruments / agilent.
-- [agilent e5270b](agilent-e5270b/INDEX.md) — Open when using agilent e5270b within instruments / agilent.
-- [agilent n8975a](agilent-n8975a/INDEX.md) — Open when using agilent n8975a within instruments / agilent.
-- [agilent33220a](agilent33220a/INDEX.md) — Open when using agilent33220a within instruments / agilent.
-- [agilent33500](agilent33500/INDEX.md) — Open when using agilent33500 within instruments / agilent.
-- [agilent33521a](agilent33521a/INDEX.md) — Open when using agilent33521a within instruments / agilent.
-- [agilent34410a](agilent34410a/INDEX.md) — Open when using agilent34410a within instruments / agilent.
-- [agilent34450a](agilent34450a/INDEX.md) — Open when using agilent34450a within instruments / agilent.
-- [agilent4156](agilent4156/INDEX.md) — Open when using agilent4156 within instruments / agilent.
-- [agilent4284a](agilent4284a/INDEX.md) — Open when using agilent4284a within instruments / agilent.
-- [agilent4294a](agilent4294a/INDEX.md) — Open when using agilent4294a within instruments / agilent.
-- [agilent8257d](agilent8257d/INDEX.md) — Open when using agilent8257d within instruments / agilent.
-- [agilent8722es](agilent8722es/INDEX.md) — Open when using agilent8722es within instruments / agilent.
-- [instruments — agilent documentation links](official-documentation.md) — Open when checking instruments — agilent documentation links.
+- [agilent b1500](agilent-b1500/INDEX.md) - Open when using agilent b1500 within instruments / agilent.
+- [agilent b2981](agilent-b2981/INDEX.md) - Open when using agilent b2981 within instruments / agilent.
+- [agilent b2983](agilent-b2983/INDEX.md) - Open when using agilent b2983 within instruments / agilent.
+- [agilent b2985](agilent-b2985/INDEX.md) - Open when using agilent b2985 within instruments / agilent.
+- [agilent b2987](agilent-b2987/INDEX.md) - Open when using agilent b2987 within instruments / agilent.
+- [agilent b298x](agilent-b298x/INDEX.md) - Open when using agilent b298x within instruments / agilent.
+- [agilent e4408b](agilent-e4408b/INDEX.md) - Open when using agilent e4408b within instruments / agilent.
+- [agilent e4980](agilent-e4980/INDEX.md) - Open when using agilent e4980 within instruments / agilent.
+- [agilent e5062a](agilent-e5062a/INDEX.md) - Open when using agilent e5062a within instruments / agilent.
+- [agilent e5270b](agilent-e5270b/INDEX.md) - Open when using agilent e5270b within instruments / agilent.
+- [agilent n8975a](agilent-n8975a/INDEX.md) - Open when using agilent n8975a within instruments / agilent.
+- [agilent33220a](agilent33220a/INDEX.md) - Open when using agilent33220a within instruments / agilent.
+- [agilent33500](agilent33500/INDEX.md) - Open when using agilent33500 within instruments / agilent.
+- [agilent33521a](agilent33521a/INDEX.md) - Open when using agilent33521a within instruments / agilent.
+- [agilent34410a](agilent34410a/INDEX.md) - Open when using agilent34410a within instruments / agilent.
+- [agilent34450a](agilent34450a/INDEX.md) - Open when using agilent34450a within instruments / agilent.
+- [agilent4156](agilent4156/INDEX.md) - Open when using agilent4156 within instruments / agilent.
+- [agilent4284a](agilent4284a/INDEX.md) - Open when using agilent4284a within instruments / agilent.
+- [agilent4294a](agilent4294a/INDEX.md) - Open when using agilent4294a within instruments / agilent.
+- [agilent8257d](agilent8257d/INDEX.md) - Open when using agilent8257d within instruments / agilent.
+- [agilent8722es](agilent8722es/INDEX.md) - Open when using agilent8722es within instruments / agilent.
+- [instruments - agilent documentation links](official-documentation.md) - Open when checking instruments - agilent documentation links.

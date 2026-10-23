@@ -1,4 +1,4 @@
-# instruments — tektronix documentation links
+# instruments - tektronix documentation links
 
 - [Tektronix](https://pymeasure.readthedocs.io/en/latest/api/instruments/tektronix/index.html)
 - [TDS2000 Oscilloscope](https://pymeasure.readthedocs.io/en/latest/api/instruments/tektronix/tds2000.html)

@@ -1,4 +1,4 @@
-# Version 0.11.0 (2022-11-19) — GUI
+# Version 0.11.0 (2022-11-19) - GUI
 
 - Add compatibility with Qt 6 (@CasperSchippers, #688)
 

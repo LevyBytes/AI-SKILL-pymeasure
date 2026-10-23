@@ -1,4 +1,4 @@
-# instruments — activetechnologies documentation links
+# instruments - activetechnologies documentation links
 
 - [Active Technologies](https://pymeasure.readthedocs.io/en/latest/api/instruments/activetechnologies/index.html)
 - [Active Technologies AWG-401x 1.2GS/s Arbitrary Waveform Generator](https://pymeasure.readthedocs.io/en/latest/api/instruments/activetechnologies/AWG401x.html)

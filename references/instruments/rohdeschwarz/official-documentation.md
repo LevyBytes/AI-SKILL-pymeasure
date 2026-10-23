@@ -1,4 +1,4 @@
-# instruments — rohdeschwarz documentation links
+# instruments - rohdeschwarz documentation links
 
 - [Rohde & Schwarz](https://pymeasure.readthedocs.io/en/latest/api/instruments/rohdeschwarz/index.html)
 - [R&S SFM TV test transmitter](https://pymeasure.readthedocs.io/en/latest/api/instruments/rohdeschwarz/sfm.html)

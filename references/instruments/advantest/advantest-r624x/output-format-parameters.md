@@ -1,4 +1,4 @@
-# pymeasure.instruments.advantest.advantestR624X.AdvantestR624X.set_output_format — set_output_format signature, delimiters and terminator selection
+# pymeasure.instruments.advantest.advantestR624X.AdvantestR624X.set_output_format - set_output_format signature, delimiters and terminator selection
 
 [Owning PyMeasure class, adapter and connection contract](overview.md) / [set_output_format complete four header-character tables](output-format-headers.md)
 

@@ -10,7 +10,7 @@ Parameters:
 
 - **command** (`str`) – Command to send.
 
-- **values** (`Sequence`[`Union`[`int`, `float`]]) — Values that will be transmitted.
+- **values** (`Sequence`[`Union`[`int`, `float`]]): Values that will be transmitted.
 
 - ****kwargs** (**args**,*) — Additional arguments passed through to the Adapter.
 

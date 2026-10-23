@@ -1,36 +1,36 @@
-# instruments — thyracont — smartline-v2 reference index
+# instruments - thyracont - smartline-v2 reference index
 
-- [sources](../smartline-v2-sources/INDEX.md) — Open when using sources within instruments / thyracont / smartline-v2.
-- [vsh](../smartline-v2-vsh/INDEX.md) — Open when using vsh within instruments / thyracont / smartline-v2.
-- [vsm](../smartline-v2-vsm/INDEX.md) — Open when using vsm within instruments / thyracont / smartline-v2.
-- [vsp](../smartline-v2-vsp/INDEX.md) — Open when using vsp within instruments / thyracont / smartline-v2.
-- [vsr](../smartline-v2-vsr/INDEX.md) — Open when using vsr within instruments / thyracont / smartline-v2.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2](overview.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.analog_output_setting](analog-output-setting.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.analog_output_setting.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.ask_manually](ask-manually.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.ask_manually.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.ask](ask.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.ask.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.baud_rate](baud-rate.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.baud_rate.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.bootloader_version](bootloader-version.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.bootloader_version.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.check_set_errors](check-set-errors.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.check_set_errors.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_address](device-address.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_address.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_serial](device-serial.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_serial.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_type](device-type.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_type.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_version](device-version.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_version.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_data](display-data.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_data.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_orientation](display-orientation.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_orientation.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_unit](display-unit.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_unit.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.firmware_version](firmware-version.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.firmware_version.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.get_sensor_transition](get-sensor-transition.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.get_sensor_transition.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.operating_hours](operating-hours.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.operating_hours.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.pressure](pressure.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.pressure.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.product_name](product-name.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.product_name.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.range](range.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.range.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.read](read.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.read.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.sensor_serial](sensor-serial.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.sensor_serial.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_continuous_sensor_transition](set-continuous-sensor-transition.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_continuous_sensor_transition.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_default_sensor_transition](set-default-sensor-transition.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_default_sensor_transition.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_direct_sensor_transition](set-direct-sensor-transition.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_direct_sensor_transition.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_high](set-high.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_high.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_low](set-low.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_low.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.write_composition](write-composition.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.write_composition.
-- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.write](write.md) — Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.write.
+- [sources](../smartline-v2-sources/INDEX.md) - Open when using sources within instruments / thyracont / smartline-v2.
+- [vsh](../smartline-v2-vsh/INDEX.md) - Open when using vsh within instruments / thyracont / smartline-v2.
+- [vsm](../smartline-v2-vsm/INDEX.md) - Open when using vsm within instruments / thyracont / smartline-v2.
+- [vsp](../smartline-v2-vsp/INDEX.md) - Open when using vsp within instruments / thyracont / smartline-v2.
+- [vsr](../smartline-v2-vsr/INDEX.md) - Open when using vsr within instruments / thyracont / smartline-v2.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2](overview.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.analog_output_setting](analog-output-setting.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.analog_output_setting.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.ask_manually](ask-manually.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.ask_manually.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.ask](ask.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.ask.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.baud_rate](baud-rate.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.baud_rate.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.bootloader_version](bootloader-version.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.bootloader_version.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.check_set_errors](check-set-errors.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.check_set_errors.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_address](device-address.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_address.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_serial](device-serial.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_serial.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_type](device-type.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_type.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_version](device-version.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.device_version.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_data](display-data.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_data.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_orientation](display-orientation.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_orientation.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_unit](display-unit.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.display_unit.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.firmware_version](firmware-version.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.firmware_version.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.get_sensor_transition](get-sensor-transition.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.get_sensor_transition.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.operating_hours](operating-hours.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.operating_hours.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.pressure](pressure.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.pressure.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.product_name](product-name.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.product_name.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.range](range.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.range.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.read](read.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.read.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.sensor_serial](sensor-serial.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.sensor_serial.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_continuous_sensor_transition](set-continuous-sensor-transition.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_continuous_sensor_transition.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_default_sensor_transition](set-default-sensor-transition.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_default_sensor_transition.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_direct_sensor_transition](set-direct-sensor-transition.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_direct_sensor_transition.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_high](set-high.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_high.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_low](set-low.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.set_low.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.write_composition](write-composition.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.write_composition.
+- [pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.write](write.md) - Open when checking pymeasure.instruments.thyracont.smartline_v2.SmartlineV2.write.

@@ -1,4 +1,4 @@
-# Version 0.16.0 (2026-05-20) — Miscellaneous
+# Version 0.16.0 (2026-05-20) - Miscellaneous
 
 - The documentation now lists related projects (@BenediktBurger, #1335).
 

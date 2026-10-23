@@ -1,4 +1,4 @@
-# instruments — rigol documentation links
+# instruments - rigol documentation links
 
 - [Rigol](https://pymeasure.readthedocs.io/en/latest/api/instruments/rigol/index.html)
 - [Rigol DG800 waveform generator](https://pymeasure.readthedocs.io/en/latest/api/instruments/rigol/rigol_dg800.html)

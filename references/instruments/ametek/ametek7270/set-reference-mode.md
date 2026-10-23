@@ -8,4 +8,4 @@ Configure Single, Dual, or harmonic mode on the instrument.
 
 Parameters:
 
-**mode** (`int`) — Integer mode selector: 0 means Single, 1 means Dual harmonic, and 2 means Dual reference. (default: `0`)
+**mode** (`int`) - Integer mode selector: 0 means Single, 1 means Dual harmonic, and 2 means Dual reference. (default: `0`)

@@ -8,11 +8,11 @@ Create the command string for CMD (comparison limits).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **comparison** (*bool*) — Turn comparison on or off (True=ON, False=OFF).
+- **comparison** (*bool*): Turn comparison on or off (True=ON, False=OFF).
 
-- **voltage_value** (*bool*) — Set True for voltage and False for current.
+- **voltage_value** (*bool*): Set True for voltage and False for current.
 
 - **upper_limit** (*float*) – Upper comparison limit.
 

@@ -1,4 +1,4 @@
-# Version 0.16.0 (2026-05-20) — Removed
+# Version 0.16.0 (2026-05-20) - Removed
 
 - Remove support for Python 3.8
 

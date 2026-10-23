@@ -1,4 +1,4 @@
-# Version 0.10.0 (2022-04-09) — GUI
+# Version 0.10.0 (2022-04-09) - GUI
 
 - Add time-estimator widget (@CasperSchippers)
 

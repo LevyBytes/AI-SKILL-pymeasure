@@ -1,4 +1,4 @@
-# instruments — texio documentation links
+# instruments - texio documentation links
 
 - [TEXIO](https://pymeasure.readthedocs.io/en/latest/api/instruments/texio/index.html)
 - [TEXIO PSW-360L30 Power Supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/texio/texioPSW360L30.html)

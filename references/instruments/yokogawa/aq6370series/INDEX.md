@@ -1,47 +1,47 @@
-# instruments — yokogawa — aq6370series reference index
+# instruments - yokogawa - aq6370series reference index
 
-- [aq6370c](../aq6370series-aq6370c/INDEX.md) — Open when using aq6370c within instruments / yokogawa / aq6370series.
-- [aq6370d](../aq6370series-aq6370d/INDEX.md) — Open when using aq6370d within instruments / yokogawa / aq6370series.
-- [aq6370e](../aq6370series-aq6370e/INDEX.md) — Open when using aq6370e within instruments / yokogawa / aq6370series.
-- [aq6373](../aq6370series-aq6373/INDEX.md) — Open when using aq6373 within instruments / yokogawa / aq6370series.
-- [aq6373b](../aq6370series-aq6373b/INDEX.md) — Open when using aq6373b within instruments / yokogawa / aq6370series.
-- [aq6375](../aq6370series-aq6375/INDEX.md) — Open when using aq6375 within instruments / yokogawa / aq6370series.
-- [aq6375b](../aq6370series-aq6375b/INDEX.md) — Open when using aq6375b within instruments / yokogawa / aq6370series.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series](overview.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.abort](abort.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.abort.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.active_trace](active-trace.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.active_trace.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.authenticate_ethernet](authenticate-ethernet.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.authenticate_ethernet.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.automatic_sample_number](automatic-sample-number.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.automatic_sample_number.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.calc_result](calc-result.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.calc_result.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.copy_trace](copy-trace.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.copy_trace.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.delete_trace](delete-trace.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.delete_trace.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.execute_analysis](execute-analysis.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.execute_analysis.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_analysis](get-analysis.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_analysis.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_xdata](get-xdata.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_xdata.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_ydata](get-ydata.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_ydata.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.initiate_sweep](initiate-sweep.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.initiate_sweep.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.level_position](level-position.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.level_position.
-- [Yokogawa — Yokogawa AQ6370 Series of Optical Spectrum Analyzers](official-documentation.md) — Open when checking Yokogawa — Yokogawa AQ6370 Series of Optical Spectrum Analyzers.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.reference_level](reference-level.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.reference_level.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.resolution_bandwidth](resolution-bandwidth.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.resolution_bandwidth.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sample_number](sample-number.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sample_number.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sensitivity](sensitivity.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sensitivity.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.set_level_position_to_max](set-level-position-to-max.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.set_level_position_to_max.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_complete](sweep-complete.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_complete.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_mode](sweep-mode.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_mode.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_time_interval](sweep-time-interval.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_time_interval.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRA](tra.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRA.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.transfer_format](transfer-format.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.transfer_format.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRB](trb.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRB.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRC](trc.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRC.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRD](trd.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRD.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRE](tre.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRE.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRF](trf.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRF.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRG](trg.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRG.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.trigger](trigger.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.trigger.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wait_for_sweep_complete](wait-for-sweep-complete.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wait_for_sweep_complete.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_automatic_center](wavelength-automatic-center.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_automatic_center.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_center](wavelength-center.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_center.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_span](wavelength-span.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_span.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_start](wavelength-start.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_start.
-- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_stop](wavelength-stop.md) — Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_stop.
+- [aq6370c](../aq6370series-aq6370c/INDEX.md) - Open when using aq6370c within instruments / yokogawa / aq6370series.
+- [aq6370d](../aq6370series-aq6370d/INDEX.md) - Open when using aq6370d within instruments / yokogawa / aq6370series.
+- [aq6370e](../aq6370series-aq6370e/INDEX.md) - Open when using aq6370e within instruments / yokogawa / aq6370series.
+- [aq6373](../aq6370series-aq6373/INDEX.md) - Open when using aq6373 within instruments / yokogawa / aq6370series.
+- [aq6373b](../aq6370series-aq6373b/INDEX.md) - Open when using aq6373b within instruments / yokogawa / aq6370series.
+- [aq6375](../aq6370series-aq6375/INDEX.md) - Open when using aq6375 within instruments / yokogawa / aq6370series.
+- [aq6375b](../aq6370series-aq6375b/INDEX.md) - Open when using aq6375b within instruments / yokogawa / aq6370series.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series](overview.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.abort](abort.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.abort.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.active_trace](active-trace.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.active_trace.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.authenticate_ethernet](authenticate-ethernet.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.authenticate_ethernet.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.automatic_sample_number](automatic-sample-number.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.automatic_sample_number.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.calc_result](calc-result.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.calc_result.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.copy_trace](copy-trace.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.copy_trace.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.delete_trace](delete-trace.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.delete_trace.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.execute_analysis](execute-analysis.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.execute_analysis.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_analysis](get-analysis.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_analysis.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_xdata](get-xdata.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_xdata.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_ydata](get-ydata.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.get_ydata.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.initiate_sweep](initiate-sweep.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.initiate_sweep.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.level_position](level-position.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.level_position.
+- [Yokogawa - Yokogawa AQ6370 Series of Optical Spectrum Analyzers](official-documentation.md) - Open when checking Yokogawa - Yokogawa AQ6370 Series of Optical Spectrum Analyzers.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.reference_level](reference-level.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.reference_level.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.resolution_bandwidth](resolution-bandwidth.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.resolution_bandwidth.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sample_number](sample-number.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sample_number.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sensitivity](sensitivity.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sensitivity.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.set_level_position_to_max](set-level-position-to-max.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.set_level_position_to_max.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_complete](sweep-complete.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_complete.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_mode](sweep-mode.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_mode.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_time_interval](sweep-time-interval.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.sweep_time_interval.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRA](tra.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRA.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.transfer_format](transfer-format.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.transfer_format.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRB](trb.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRB.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRC](trc.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRC.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRD](trd.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRD.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRE](tre.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRE.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRF](trf.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRF.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRG](trg.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.TRG.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.trigger](trigger.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.trigger.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wait_for_sweep_complete](wait-for-sweep-complete.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wait_for_sweep_complete.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_automatic_center](wavelength-automatic-center.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_automatic_center.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_center](wavelength-center.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_center.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_span](wavelength-span.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_span.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_start](wavelength-start.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_start.
+- [pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_stop](wavelength-stop.md) - Open when checking pymeasure.instruments.yokogawa.aq6370series.AQ6370Series.wavelength_stop.

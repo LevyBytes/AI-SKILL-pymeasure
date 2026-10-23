@@ -8,15 +8,15 @@ Sets a standard waveform output on the instrument. Refer to the instrument manua
 
 Parameters:
 
-- **waveform_function** (*int** or **str*) — Waveform function choice (`"SINE", "SQUARE", "TRIANGLE/RAMP", "DC"`)
+- **waveform_function** (*int** or **str*): Waveform function choice (`"SINE", "SQUARE", "TRIANGLE/RAMP", "DC"`)
 
 - **amplitude** (*float*) – Amplitude in volts
 
-- **dc_offset** (*float*) — DC offset value in volts
+- **dc_offset** (*float*): DC offset value in volts
 
 - **frequency** (*float*) – Frequency in Hz
 
-- **duty_cycle** (*int*) — Duty cycle expressed in %
+- **duty_cycle** (*int*): Duty cycle expressed in %
 
 ## Related property contracts
 

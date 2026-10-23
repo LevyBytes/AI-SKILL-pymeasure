@@ -8,7 +8,7 @@ sweep to a specified setpoint.
 
 Parameters:
 
-**set_temp** — target DUT temperature (float)
+**set_temp**: target DUT temperature (float)
 
 Returns:
 

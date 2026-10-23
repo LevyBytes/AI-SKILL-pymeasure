@@ -29,8 +29,8 @@ inst.output_A.extreme_temp = 42
 
 Parameters:
 
-- **cls** (`type`[`Child`]) — Channel class used for the channel interface
+- **cls** (`type`[`Child`]): Channel class used for the channel interface
 
-- **id** (`Union`[`int`, `str`, `None`]) — Instrument channel id, supplied as an integer or string. (default: `None`)
+- **id** (`Union`[`int`, `str`, `None`]): Instrument channel id, supplied as an integer or string. (default: `None`)
 
 - ****kwargs** — Keyword arguments supplied to every child.

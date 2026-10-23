@@ -8,4 +8,4 @@ Configure DC voltage input resistance
 
 Parameters:
 
-**dmm_input_resistance** (*int** or **str*) — Input resistance selection (`'TEN_MEGA_OHM'` or `'TEN_GIGA_OHM'`)
+**dmm_input_resistance** (*int** or **str*): Input resistance selection (`'TEN_MEGA_OHM'` or `'TEN_GIGA_OHM'`)

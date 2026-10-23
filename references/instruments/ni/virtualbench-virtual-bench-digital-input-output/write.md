@@ -10,4 +10,4 @@ Parameters:
 
 - **lines** (*str*) – Line string
 
-- **data** (*list** or **tuple*) — Data list where `True` = High and `False` = Low
+- **data** (*list** or **tuple*): Data list where `True` = High and `False` = Low

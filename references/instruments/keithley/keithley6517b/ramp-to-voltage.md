@@ -8,8 +8,8 @@ Move from the currently set voltage to target voltage through a chosen number of
 
 Parameters:
 
-- **target_voltage** — Voltage value in Volts.
+- **target_voltage**: Voltage value in Volts.
 
-- **steps** — Integer step count. (default: `30`)
+- **steps** - Integer step count. (default: `30`)
 
-- **pause** — Pause duration in seconds between steps. (default: `0.02`)
+- **pause**: Pause duration in seconds between steps. (default: `0.02`)

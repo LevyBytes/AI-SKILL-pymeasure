@@ -1,8 +1,8 @@
-# instruments — fakes — swiss-army-fake reference index
+# instruments - fakes - swiss-army-fake reference index
 
 ## Class and connection contract
 
-- [pymeasure.instruments.fakes.SwissArmyFake](overview.md) — Open when checking pymeasure.instruments.fakes.SwissArmyFake.
+- [pymeasure.instruments.fakes.SwissArmyFake](overview.md) - Open when checking pymeasure.instruments.fakes.SwissArmyFake.
 
 ## Property contracts
 

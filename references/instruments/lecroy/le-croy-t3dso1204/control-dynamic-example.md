@@ -1,4 +1,4 @@
-# pymeasure.instruments.lecroy.LeCroyT3DSO1204.control — control dynamic-property example and reserved-name warning
+# pymeasure.instruments.lecroy.LeCroyT3DSO1204.control - control dynamic-property example and reserved-name warning
 
 [Owning PyMeasure class, adapter and connection contract](overview.md) / [control signature, complete parameters and return type](control-parameters.md)
 

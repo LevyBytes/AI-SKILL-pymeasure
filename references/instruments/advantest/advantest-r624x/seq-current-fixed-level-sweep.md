@@ -8,13 +8,13 @@ Create the command string for FXI (fixed level current sweep).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **current_range** (int or `CurrentRange`) — Source range for current.
+- **current_range** (int or `CurrentRange`): Source range for current.
 
 - **current_level** (*float*) – Current level value.
 
-- **measurement_count** (*int*) — Count of measurements.
+- **measurement_count** (*int*): Count of measurements.
 
 - **voltage_compliance** (*float*) – Voltage compliance value.
 

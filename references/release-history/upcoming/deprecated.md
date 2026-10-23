@@ -1,4 +1,4 @@
-# Upcoming release — Deprecated
+# Upcoming release - Deprecated
 
 - The behavior that silently returns str from `values` and property creators such as `control` when casting fails is now deprecated. Use an explicit helper, for example `cast_or_str(float)`, for that case.
 

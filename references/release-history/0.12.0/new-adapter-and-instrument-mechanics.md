@@ -1,4 +1,4 @@
-# Version 0.12.0 (2023-07-05) — New adapter and instrument mechanics
+# Version 0.12.0 (2023-07-05) - New adapter and instrument mechanics
 
 - Every instrument constructor must accept a `name` argument.
 

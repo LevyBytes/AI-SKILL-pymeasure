@@ -10,7 +10,7 @@ Configure instrument channel setup and sweep behavior from a JSON configuration 
 
 Parameters:
 
-**config_file** — JSON file used to configure instrument channels.
+**config_file**: JSON file used to configure instrument channels.
 
 ```python
 instr.configure('config.json')

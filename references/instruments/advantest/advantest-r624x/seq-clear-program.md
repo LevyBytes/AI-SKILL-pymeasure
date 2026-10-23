@@ -10,7 +10,7 @@ Parameters:
 
 - **program_number** (*int*) – Program number (1-20).
 
-- **clear_mode** (int or `ProgramClearMode`) — Clear mode selector.
+- **clear_mode** (int or `ProgramClearMode`): Clear mode selector.
 
 Return type:
 

@@ -1,4 +1,4 @@
-# instruments — anritsu documentation links
+# instruments - anritsu documentation links
 
 - [Anritsu](https://pymeasure.readthedocs.io/en/latest/api/instruments/anritsu/index.html)
 - [Anritsu MG3692C Signal Generator](https://pymeasure.readthedocs.io/en/latest/api/instruments/anritsu/anritsuMG3692C.html)

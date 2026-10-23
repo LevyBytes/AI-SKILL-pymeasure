@@ -8,7 +8,7 @@ Opens (disconnects) the specified channel.
 
 Parameters:
 
-**channel** (*int*) — 3-digit channel number.
+**channel** (*int*): 3-digit channel number.
 
 Returns:
 

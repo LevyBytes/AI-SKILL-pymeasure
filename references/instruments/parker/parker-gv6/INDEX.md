@@ -1,8 +1,8 @@
-# instruments — parker — parker-gv6 reference index
+# instruments - parker - parker-gv6 reference index
 
 ## Class and connection contract
 
-- [pymeasure.instruments.parker.ParkerGV6](overview.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.
+- [pymeasure.instruments.parker.ParkerGV6](overview.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.
 
 ## Property contracts
 
@@ -18,16 +18,16 @@
 
 ## Methods and related types
 
-- [pymeasure.instruments.parker.ParkerGV6.disable](disable.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.disable.
-- [pymeasure.instruments.parker.ParkerGV6.enable](enable.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.enable.
-- [pymeasure.instruments.parker.ParkerGV6.is_moving](is-moving.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.is_moving.
-- [pymeasure.instruments.parker.ParkerGV6.kill](kill.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.kill.
-- [pymeasure.instruments.parker.ParkerGV6.move](move.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.move.
-- [pymeasure.instruments.parker.ParkerGV6.read](read.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.read.
-- [pymeasure.instruments.parker.ParkerGV6.reset](reset.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.reset.
-- [pymeasure.instruments.parker.ParkerGV6.set_defaults](set-defaults.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.set_defaults.
-- [pymeasure.instruments.parker.ParkerGV6.set_hardware_limits](set-hardware-limits.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.set_hardware_limits.
-- [pymeasure.instruments.parker.ParkerGV6.set_software_limits](set-software-limits.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.set_software_limits.
-- [pymeasure.instruments.parker.ParkerGV6.stop](stop.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.stop.
-- [pymeasure.instruments.parker.ParkerGV6.use_absolute_position](use-absolute-position.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.use_absolute_position.
-- [pymeasure.instruments.parker.ParkerGV6.use_relative_position](use-relative-position.md) — Open when checking pymeasure.instruments.parker.ParkerGV6.use_relative_position.
+- [pymeasure.instruments.parker.ParkerGV6.disable](disable.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.disable.
+- [pymeasure.instruments.parker.ParkerGV6.enable](enable.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.enable.
+- [pymeasure.instruments.parker.ParkerGV6.is_moving](is-moving.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.is_moving.
+- [pymeasure.instruments.parker.ParkerGV6.kill](kill.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.kill.
+- [pymeasure.instruments.parker.ParkerGV6.move](move.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.move.
+- [pymeasure.instruments.parker.ParkerGV6.read](read.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.read.
+- [pymeasure.instruments.parker.ParkerGV6.reset](reset.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.reset.
+- [pymeasure.instruments.parker.ParkerGV6.set_defaults](set-defaults.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.set_defaults.
+- [pymeasure.instruments.parker.ParkerGV6.set_hardware_limits](set-hardware-limits.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.set_hardware_limits.
+- [pymeasure.instruments.parker.ParkerGV6.set_software_limits](set-software-limits.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.set_software_limits.
+- [pymeasure.instruments.parker.ParkerGV6.stop](stop.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.stop.
+- [pymeasure.instruments.parker.ParkerGV6.use_absolute_position](use-absolute-position.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.use_absolute_position.
+- [pymeasure.instruments.parker.ParkerGV6.use_relative_position](use-relative-position.md) - Open when checking pymeasure.instruments.parker.ParkerGV6.use_relative_position.

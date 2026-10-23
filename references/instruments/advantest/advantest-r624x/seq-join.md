@@ -8,7 +8,7 @@ Combine multiple sequence command strings using semicolons.
 
 Parameters:
 
-**commands** — One or more command strings returned by `seq_*` functions.
+**commands**: One or more command strings returned by `seq_*` functions.
 
 Return type:
 

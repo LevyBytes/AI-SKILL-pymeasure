@@ -1,4 +1,4 @@
-# instruments — fwbell documentation links
+# instruments - fwbell documentation links
 
 - [F.W. Bell](https://pymeasure.readthedocs.io/en/latest/api/instruments/fwbell/index.html)
 - [F.W. Bell 5080 Handheld Gaussmeter](https://pymeasure.readthedocs.io/en/latest/api/instruments/fwbell/fwbell5080.html)

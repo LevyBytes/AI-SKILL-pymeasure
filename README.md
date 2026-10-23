@@ -25,7 +25,7 @@ flowchart LR
 
 PyMeasure references for building scientific measurement workflows from instrument control through data collection and display. The package connects driver APIs, adapters, measurement procedures and Qt interfaces, with instrument material organized by manufacturer and model.
 
-Use when working with PyMeasure scientific measurement, instrument control and experiment automation: Instrument/Channel APIs, instrument drivers, dynamic properties and validators, VISA/serial/Prologix adapters, Procedures, Parameters, Experiments, Workers, Results, plotting, Qt windows or measurement sequencing. Use the bundled model, driver version and interface requirements. Not for raw PyVISA alone, unrelated instrument libraries or general Python.
+Use when working with PyMeasure scientific measurement, instrument control and experiment automation: Instrument/Channel APIs, instrument drivers, dynamic properties and validators, VISA/serial/Prologix adapters, Procedures, Parameters, Experiments, Workers, Results, plotting, Qt windows or measurement sequencing. Not for raw PyVISA alone, unrelated instrument libraries or general Python.
 
 ## What this skill helps with
 
@@ -50,4 +50,4 @@ Match the driver, interface, firmware constraints, physical units and allowed va
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://pymeasure.readthedocs.io/en/latest/) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

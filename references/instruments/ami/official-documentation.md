@@ -1,4 +1,4 @@
-# instruments — ami documentation links
+# instruments - ami documentation links
 
 - [AMI](https://pymeasure.readthedocs.io/en/latest/api/instruments/ami/index.html)
 - [AMI 430 Power Supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/ami/ami430.html)

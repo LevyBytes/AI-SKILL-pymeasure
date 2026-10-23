@@ -1,4 +1,4 @@
-# instruments — agilent documentation links
+# instruments - agilent documentation links
 
 - [Agilent](https://pymeasure.readthedocs.io/en/latest/api/instruments/agilent/index.html)
 - [Agilent 8257D Signal Generator](https://pymeasure.readthedocs.io/en/latest/api/instruments/agilent/agilent8257D.html)

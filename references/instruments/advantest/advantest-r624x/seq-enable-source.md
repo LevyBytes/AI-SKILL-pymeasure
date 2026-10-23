@@ -8,7 +8,7 @@ Create the command string for CN (enable output).
 
 Parameters:
 
-**channel** (*int*) — Channel identifier (1=A, 2=B).
+**channel** (*int*): Channel identifier (1=A, 2=B).
 
 Return type:
 

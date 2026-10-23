@@ -8,9 +8,9 @@ Create the command string for FL (fast/slow response).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **fast** (*bool*) — Set True for fast response and False for slow.
+- **fast** (*bool*): Set True for fast response and False for slow.
 
 Return type:
 

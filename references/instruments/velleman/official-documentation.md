@@ -1,4 +1,4 @@
-# instruments — velleman documentation links
+# instruments - velleman documentation links
 
 - [Velleman](https://pymeasure.readthedocs.io/en/latest/api/instruments/velleman/index.html)
 - [Velleman K8090 8-channel relay board](https://pymeasure.readthedocs.io/en/latest/api/instruments/velleman/k8090.html)

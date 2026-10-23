@@ -1,4 +1,4 @@
-# instruments — signalrecovery documentation links
+# instruments - signalrecovery documentation links
 
 - [Signal Recovery](https://pymeasure.readthedocs.io/en/latest/api/instruments/signalrecovery/index.html)
 - [DSP 7225 lock-in amplifier](https://pymeasure.readthedocs.io/en/latest/api/instruments/signalrecovery/dsp7225.html)

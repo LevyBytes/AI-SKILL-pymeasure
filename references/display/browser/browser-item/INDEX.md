@@ -1,3 +1,3 @@
-# display — browser — browser-item reference index
+# display - browser - browser-item reference index
 
-- [pymeasure.display.browser.BrowserItem](overview.md) — Open when checking pymeasure.display.browser.BrowserItem.
+- [pymeasure.display.browser.BrowserItem](overview.md) - Open when checking pymeasure.display.browser.BrowserItem.

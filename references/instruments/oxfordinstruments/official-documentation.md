@@ -1,4 +1,4 @@
-# instruments — oxfordinstruments documentation links
+# instruments - oxfordinstruments documentation links
 
 - [Oxford Instruments](https://pymeasure.readthedocs.io/en/latest/api/instruments/oxfordinstruments/index.html)
 - [Oxford Instruments Base Instrument](https://pymeasure.readthedocs.io/en/latest/api/instruments/oxfordinstruments/base.html)

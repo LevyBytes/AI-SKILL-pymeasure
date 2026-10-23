@@ -1,4 +1,4 @@
-# instruments — kepco documentation links
+# instruments - kepco documentation links
 
 - [KEPCO INC.](https://pymeasure.readthedocs.io/en/latest/api/instruments/kepco/index.html)
 - [BOP bipolar power supply using a BIT 4886 digital interface card](https://pymeasure.readthedocs.io/en/latest/api/instruments/kepco/KepcoBOP.html)

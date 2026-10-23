@@ -1,3 +1,3 @@
-# instruments — deltaelektronica reference index
+# instruments - deltaelektronica reference index
 
-- [instruments — deltaelektronica documentation links](official-documentation.md) — Open when checking instruments — deltaelektronica documentation links.
+- [instruments - deltaelektronica documentation links](official-documentation.md) - Open when checking instruments - deltaelektronica documentation links.

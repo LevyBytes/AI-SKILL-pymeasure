@@ -1,4 +1,4 @@
-# Version 0.11.0 (2022-11-19) — Automation
+# Version 0.11.0 (2022-11-19) - Automation
 
 - Add storing unitful experiment results (@bmoneke, #642)
 

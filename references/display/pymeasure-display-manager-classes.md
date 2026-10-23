@@ -1,4 +1,4 @@
-# pymeasure.display — Manager classes
+# pymeasure.display - Manager classes
 
 - [Manager classes](https://pymeasure.readthedocs.io/en/latest/api/display/manager.html)
   - [`BaseManager`](https://pymeasure.readthedocs.io/en/latest/api/display/manager.html#pymeasure.display.manager.BaseManager)

@@ -1,4 +1,4 @@
-# instruments — fluke documentation links
+# instruments - fluke documentation links
 
 - [Fluke](https://pymeasure.readthedocs.io/en/latest/api/instruments/fluke/index.html)
 - [Fluke 7341 Temperature bath](https://pymeasure.readthedocs.io/en/latest/api/instruments/fluke/fluke7341.html)

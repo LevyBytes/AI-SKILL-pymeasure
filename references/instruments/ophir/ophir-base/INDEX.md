@@ -1,55 +1,55 @@
-# instruments — ophir — ophir-base reference index
+# instruments - ophir - ophir-base reference index
 
-- [average mixin](../ophir-base-average-mixin/INDEX.md) — Open when using average mixin within instruments / ophir / ophir-base.
-- [capabilities](../ophir-base-capabilities/INDEX.md) — Open when using capabilities within instruments / ophir / ophir-base.
-- [channel mixin](../ophir-base-channel-mixin/INDEX.md) — Open when using channel mixin within instruments / ophir / ophir-base.
-- [key mixin](../ophir-base-key-mixin/INDEX.md) — Open when using key mixin within instruments / ophir / ophir-base.
-- [legacy modes](../ophir-base-legacy-modes/INDEX.md) — Open when using legacy modes within instruments / ophir / ophir-base.
-- [modes](../ophir-base-modes/INDEX.md) — Open when using modes within instruments / ophir / ophir-base.
-- [ophir communication](../ophir-base-ophir-communication/INDEX.md) — Open when using ophir communication within instruments / ophir / ophir-base.
-- [screen modes](../ophir-base-screen-modes/INDEX.md) — Open when using screen modes within instruments / ophir / ophir-base.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase](overview.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.actual_range](actual-range.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.actual_range.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.baud_rate](baud-rate.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.baud_rate.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.bc20_mode](bc20-mode.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.bc20_mode.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.clear_wavelength_entry](clear-wavelength-entry.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.clear_wavelength_entry.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.define_wavelength_entry](define-wavelength-entry.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.define_wavelength_entry.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.diffuser](diffuser.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.diffuser.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.energy_flag](energy-flag.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.energy_flag.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.energy_ready](energy-ready.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.energy_ready.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.energy_threshold](energy-threshold.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.energy_threshold.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.energy](energy.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.energy.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.exposure_energy](exposure-energy.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.exposure_energy.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.frequency](frequency.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.frequency.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.head_information](head-information.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.head_information.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.head_type](head-type.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.head_type.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.id](id.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.id.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.mains](mains.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.mains.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.maximum_frequency](maximum-frequency.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.maximum_frequency.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.mode_legacy](mode-legacy.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.mode_legacy.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.mode](mode.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.mode.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.position](position.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.position.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.power](power.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.power.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.pulse_length](pulse-length.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.pulse_length.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.range_entries](range-entries.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.range_entries.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.range_index](range-index.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.range_index.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.range_max](range-max.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.range_max.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.range](range.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.range.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.reset](reset.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.reset.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.save_head_configuration](save-head-configuration.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.save_head_configuration.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.save_instrument_configuration](save-instrument-configuration.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.save_instrument_configuration.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.save_zero](save-zero.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.save_zero.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.screen_mode](screen-mode.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.screen_mode.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.sensor_filter](sensor-filter.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.sensor_filter.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.software_version](software-version.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.software_version.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.start_streaming](start-streaming.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.start_streaming.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.stop_streaming](stop-streaming.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.stop_streaming.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.threshold](threshold.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.threshold.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.units](units.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.units.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_index](wavelength-index.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_index.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_list](wavelength-list.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_list.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_value](wavelength-value.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_value.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength](wavelength.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.zero_abort](zero-abort.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.zero_abort.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.zero_status](zero-status.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.zero_status.
-- [pymeasure.instruments.ophir.ophir_base.OphirBase.zero](zero.md) — Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.zero.
+- [average mixin](../ophir-base-average-mixin/INDEX.md) - Open when using average mixin within instruments / ophir / ophir-base.
+- [capabilities](../ophir-base-capabilities/INDEX.md) - Open when using capabilities within instruments / ophir / ophir-base.
+- [channel mixin](../ophir-base-channel-mixin/INDEX.md) - Open when using channel mixin within instruments / ophir / ophir-base.
+- [key mixin](../ophir-base-key-mixin/INDEX.md) - Open when using key mixin within instruments / ophir / ophir-base.
+- [legacy modes](../ophir-base-legacy-modes/INDEX.md) - Open when using legacy modes within instruments / ophir / ophir-base.
+- [modes](../ophir-base-modes/INDEX.md) - Open when using modes within instruments / ophir / ophir-base.
+- [ophir communication](../ophir-base-ophir-communication/INDEX.md) - Open when using ophir communication within instruments / ophir / ophir-base.
+- [screen modes](../ophir-base-screen-modes/INDEX.md) - Open when using screen modes within instruments / ophir / ophir-base.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase](overview.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.actual_range](actual-range.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.actual_range.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.baud_rate](baud-rate.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.baud_rate.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.bc20_mode](bc20-mode.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.bc20_mode.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.clear_wavelength_entry](clear-wavelength-entry.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.clear_wavelength_entry.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.define_wavelength_entry](define-wavelength-entry.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.define_wavelength_entry.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.diffuser](diffuser.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.diffuser.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.energy_flag](energy-flag.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.energy_flag.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.energy_ready](energy-ready.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.energy_ready.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.energy_threshold](energy-threshold.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.energy_threshold.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.energy](energy.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.energy.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.exposure_energy](exposure-energy.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.exposure_energy.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.frequency](frequency.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.frequency.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.head_information](head-information.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.head_information.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.head_type](head-type.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.head_type.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.id](id.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.id.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.mains](mains.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.mains.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.maximum_frequency](maximum-frequency.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.maximum_frequency.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.mode_legacy](mode-legacy.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.mode_legacy.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.mode](mode.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.mode.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.position](position.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.position.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.power](power.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.power.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.pulse_length](pulse-length.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.pulse_length.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.range_entries](range-entries.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.range_entries.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.range_index](range-index.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.range_index.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.range_max](range-max.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.range_max.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.range](range.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.range.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.reset](reset.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.reset.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.save_head_configuration](save-head-configuration.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.save_head_configuration.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.save_instrument_configuration](save-instrument-configuration.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.save_instrument_configuration.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.save_zero](save-zero.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.save_zero.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.screen_mode](screen-mode.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.screen_mode.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.sensor_filter](sensor-filter.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.sensor_filter.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.software_version](software-version.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.software_version.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.start_streaming](start-streaming.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.start_streaming.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.stop_streaming](stop-streaming.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.stop_streaming.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.threshold](threshold.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.threshold.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.units](units.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.units.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_index](wavelength-index.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_index.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_list](wavelength-list.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_list.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_value](wavelength-value.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength_value.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength](wavelength.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.wavelength.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.zero_abort](zero-abort.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.zero_abort.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.zero_status](zero-status.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.zero_status.
+- [pymeasure.instruments.ophir.ophir_base.OphirBase.zero](zero.md) - Open when checking pymeasure.instruments.ophir.ophir_base.OphirBase.zero.

@@ -1,4 +1,4 @@
-# pymeasure.display — Inputs classes
+# pymeasure.display - Inputs classes
 
 - [Inputs classes](https://pymeasure.readthedocs.io/en/latest/api/display/inputs.html)
   - [`BooleanInput`](https://pymeasure.readthedocs.io/en/latest/api/display/inputs.html#pymeasure.display.inputs.BooleanInput)

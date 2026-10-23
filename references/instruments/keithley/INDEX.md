@@ -1,21 +1,21 @@
-# instruments — keithley reference index
+# instruments - keithley reference index
 
-- [keithley daq6510](keithley-daq6510/INDEX.md) — Open when using keithley daq6510 within instruments / keithley.
-- [keithley dmm6500](keithley-dmm6500/INDEX.md) — Open when using keithley dmm6500 within instruments / keithley.
-- [keithley2000](keithley2000/INDEX.md) — Open when using keithley2000 within instruments / keithley.
-- [keithley2182](keithley2182/INDEX.md) — Open when using keithley2182 within instruments / keithley.
-- [keithley2200](keithley2200/INDEX.md) — Open when using keithley2200 within instruments / keithley.
-- [keithley2260b](keithley2260b/INDEX.md) — Open when using keithley2260b within instruments / keithley.
-- [keithley2281s](keithley2281s/INDEX.md) — Open when using keithley2281s within instruments / keithley.
-- [keithley2306](keithley2306/INDEX.md) — Open when using keithley2306 within instruments / keithley.
-- [keithley2400](keithley2400/INDEX.md) — Open when using keithley2400 within instruments / keithley.
-- [keithley2400legacy](keithley2400legacy/INDEX.md) — Open when using keithley2400legacy within instruments / keithley.
-- [keithley2450](keithley2450/INDEX.md) — Open when using keithley2450 within instruments / keithley.
-- [keithley2510](keithley2510/INDEX.md) — Open when using keithley2510 within instruments / keithley.
-- [keithley2600](keithley2600/INDEX.md) — Open when using keithley2600 within instruments / keithley.
-- [keithley2700](keithley2700/INDEX.md) — Open when using keithley2700 within instruments / keithley.
-- [keithley2750](keithley2750/INDEX.md) — Open when using keithley2750 within instruments / keithley.
-- [keithley4200](keithley4200/INDEX.md) — Open when using keithley4200 within instruments / keithley.
-- [keithley6221](keithley6221/INDEX.md) — Open when using keithley6221 within instruments / keithley.
-- [keithley6517b](keithley6517b/INDEX.md) — Open when using keithley6517b within instruments / keithley.
-- [instruments — keithley documentation links](official-documentation.md) — Open when checking instruments — keithley documentation links.
+- [keithley daq6510](keithley-daq6510/INDEX.md) - Open when using keithley daq6510 within instruments / keithley.
+- [keithley dmm6500](keithley-dmm6500/INDEX.md) - Open when using keithley dmm6500 within instruments / keithley.
+- [keithley2000](keithley2000/INDEX.md) - Open when using keithley2000 within instruments / keithley.
+- [keithley2182](keithley2182/INDEX.md) - Open when using keithley2182 within instruments / keithley.
+- [keithley2200](keithley2200/INDEX.md) - Open when using keithley2200 within instruments / keithley.
+- [keithley2260b](keithley2260b/INDEX.md) - Open when using keithley2260b within instruments / keithley.
+- [keithley2281s](keithley2281s/INDEX.md) - Open when using keithley2281s within instruments / keithley.
+- [keithley2306](keithley2306/INDEX.md) - Open when using keithley2306 within instruments / keithley.
+- [keithley2400](keithley2400/INDEX.md) - Open when using keithley2400 within instruments / keithley.
+- [keithley2400legacy](keithley2400legacy/INDEX.md) - Open when using keithley2400legacy within instruments / keithley.
+- [keithley2450](keithley2450/INDEX.md) - Open when using keithley2450 within instruments / keithley.
+- [keithley2510](keithley2510/INDEX.md) - Open when using keithley2510 within instruments / keithley.
+- [keithley2600](keithley2600/INDEX.md) - Open when using keithley2600 within instruments / keithley.
+- [keithley2700](keithley2700/INDEX.md) - Open when using keithley2700 within instruments / keithley.
+- [keithley2750](keithley2750/INDEX.md) - Open when using keithley2750 within instruments / keithley.
+- [keithley4200](keithley4200/INDEX.md) - Open when using keithley4200 within instruments / keithley.
+- [keithley6221](keithley6221/INDEX.md) - Open when using keithley6221 within instruments / keithley.
+- [keithley6517b](keithley6517b/INDEX.md) - Open when using keithley6517b within instruments / keithley.
+- [instruments - keithley documentation links](official-documentation.md) - Open when checking instruments - keithley documentation links.

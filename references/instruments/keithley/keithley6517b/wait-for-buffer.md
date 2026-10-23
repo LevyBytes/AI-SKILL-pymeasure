@@ -8,8 +8,8 @@ Block execution until the buffer is full. The call returns earlier if `should_st
 
 Parameters:
 
-- **should_stop** — Function returning True when this call should exit early. (default: `<function KeithleyBuffer.<lambda> at 0x7aa583874f60>`)
+- **should_stop**: Function returning True when this call should exit early. (default: `<function KeithleyBuffer.<lambda> at 0x7aa583874f60>`)
 
-- **timeout** — Time in seconds after which the call exits early. (default: `60`)
+- **timeout**: Time in seconds after which the call exits early. (default: `60`)
 
-- **interval** — Time in seconds between buffer-full checks. (default: `0.1`)
+- **interval**: Time in seconds between buffer-full checks. (default: `0.1`)

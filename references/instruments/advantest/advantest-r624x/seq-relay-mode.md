@@ -8,7 +8,7 @@ Create the command string for OPM (relay mode).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
 - **mode** (*int*) – Relay mode (1-4).
 

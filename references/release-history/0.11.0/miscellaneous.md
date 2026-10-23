@@ -1,4 +1,4 @@
-# Version 0.11.0 (2022-11-19) — Miscellaneous
+# Version 0.11.0 (2022-11-19) - Miscellaneous
 
 - Refreshes and expands documentation (@bilderbuchi, #712, @bmoneke, #655)
 

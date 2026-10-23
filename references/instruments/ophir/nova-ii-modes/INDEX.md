@@ -1,3 +1,3 @@
-# instruments — ophir — nova-ii — modes reference index
+# instruments - ophir - nova-ii - modes reference index
 
-- [pymeasure.instruments.ophir.novaII.NovaII.Modes](overview.md) — Open when checking pymeasure.instruments.ophir.novaII.NovaII.Modes.
+- [pymeasure.instruments.ophir.novaII.NovaII.Modes](overview.md) - Open when checking pymeasure.instruments.ophir.novaII.NovaII.Modes.

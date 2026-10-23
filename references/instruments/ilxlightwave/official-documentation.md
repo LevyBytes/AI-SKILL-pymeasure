@@ -1,4 +1,4 @@
-# instruments — ilxlightwave documentation links
+# instruments - ilxlightwave documentation links
 
 - [ILX Lightwave](https://pymeasure.readthedocs.io/en/latest/api/instruments/ilxlightwave/index.html)
 - [ILX Lighwave LDP3811](https://pymeasure.readthedocs.io/en/latest/api/instruments/ilxlightwave/ldp3811.html)

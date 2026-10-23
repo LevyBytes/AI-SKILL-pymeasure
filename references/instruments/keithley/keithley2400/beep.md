@@ -8,9 +8,9 @@ Sound a system beep.
 
 Parameters:
 
-- **frequency** — Frequency in Hz from 65 Hz through 2 MHz
+- **frequency**: Frequency in Hz from 65 Hz through 2 MHz
 
-- **duration** — Time in seconds from 0 through 7.9 seconds
+- **duration**: Time in seconds from 0 through 7.9 seconds
 
 ## Related property contracts
 

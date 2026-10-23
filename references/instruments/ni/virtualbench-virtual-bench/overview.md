@@ -27,4 +27,4 @@ Parameters:
 
 - **device_name** (*str*) – Full unique device name
 
-- **name** (*str*) — Display label used by pymeasure
+- **name** (*str*): Display label used by pymeasure

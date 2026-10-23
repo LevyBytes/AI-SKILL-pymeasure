@@ -10,6 +10,6 @@ Parameters:
 
 - **channel** (*str*) – Channel string
 
-- **input_impedance** (*int** or **str*) — Input Impedance choice (`'ONE_MEGA_OHM'` or `'FIFTY_OHMS'`)
+- **input_impedance** (*int** or **str*): Input Impedance choice (`'ONE_MEGA_OHM'` or `'FIFTY_OHMS'`)
 
-- **bandwidth_limit** (*int*) — Bandwidth limit value (100MHz or 20MHz)
+- **bandwidth_limit** (*int*): Bandwidth limit value (100MHz or 20MHz)

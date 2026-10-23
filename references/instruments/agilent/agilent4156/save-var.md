@@ -10,7 +10,7 @@ Use this when saving one or two additional variables beyond the 8 variables perm
 
 Parameters:
 
-**trace_list** — Channel-variable list whose measured data should be saved. Up to 2 variables are allowed. When saving a single variable, a string may be used.
+**trace_list**: Channel-variable list whose measured data should be saved. Up to 2 variables are allowed. When saving a single variable, a string may be used.
 
 ```python
 instr.save_var(['VA', 'VB'])

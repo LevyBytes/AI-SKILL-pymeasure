@@ -8,9 +8,9 @@ Create the command string for MST (sample/hold mode).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **mode** (int or `SampleHold`) — Integration time mode selection.
+- **mode** (int or `SampleHold`): Integration time mode selection.
 
 Return type:
 

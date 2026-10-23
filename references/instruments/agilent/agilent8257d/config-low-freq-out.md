@@ -8,6 +8,6 @@ Sets up the low-frequency output signal.
 
 Parameters:
 
-- **source** — Low-frequency output signal source. (default: `'internal'`)
+- **source**: Low-frequency output signal source. (default: `'internal'`)
 
-- **amplitude** — Low-frequency output amplitude (default: `3`)
+- **amplitude** - Low-frequency output amplitude (default: `3`)

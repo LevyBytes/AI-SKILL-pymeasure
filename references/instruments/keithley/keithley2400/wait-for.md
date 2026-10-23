@@ -8,7 +8,7 @@ Pause for a period; ?ask? uses this wait before reading.
 
 Parameters:
 
-**query_delay** (`Optional`[`float`]) — Delay between writing and reading, in seconds. None uses the default delay. (default: `None`)
+**query_delay** (`Optional`[`float`]): Delay between writing and reading, in seconds. None uses the default delay. (default: `None`)
 
 Return type:
 

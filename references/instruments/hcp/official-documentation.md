@@ -1,4 +1,4 @@
-# instruments — hcp documentation links
+# instruments - hcp documentation links
 
 - [HC Photonics](https://pymeasure.readthedocs.io/en/latest/api/instruments/hcp/index.html)
 - [HCP TC038 crystal oven](https://pymeasure.readthedocs.io/en/latest/api/instruments/hcp/tc038.html)

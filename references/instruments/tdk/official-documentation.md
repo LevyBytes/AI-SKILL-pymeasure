@@ -1,4 +1,4 @@
-# instruments — tdk documentation links
+# instruments - tdk documentation links
 
 - [TDK Lambda](https://pymeasure.readthedocs.io/en/latest/api/instruments/tdk/index.html)
 - [TDK Lambda Genesys 40-38 DC power supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/tdk/tdk_gen40_38.html)

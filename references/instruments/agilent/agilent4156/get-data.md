@@ -10,7 +10,7 @@ When `measure()` uses measurement period `INF`, call `stop()` before retrieving 
 
 Parameters:
 
-**path** — Optional CSV export path. (default: `None`)
+**path**: Optional CSV export path. (default: `None`)
 
 Returns:
 

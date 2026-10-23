@@ -8,9 +8,9 @@ Create the command string for PV (pulsed voltage source).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **source_range** (int or `VoltageRange`) — Source range for voltage.
+- **source_range** (int or `VoltageRange`): Source range for voltage.
 
 - **pulse_value** (*float*) – Pulse voltage value.
 

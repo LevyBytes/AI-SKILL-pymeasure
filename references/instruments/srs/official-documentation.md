@@ -1,4 +1,4 @@
-# instruments — srs documentation links
+# instruments - srs documentation links
 
 - [Stanford Research Systems](https://pymeasure.readthedocs.io/en/latest/api/instruments/srs/index.html)
 - [LDC500 Series Laser-diode Controllers](https://pymeasure.readthedocs.io/en/latest/api/instruments/srs/ldc500series.html)

@@ -8,7 +8,7 @@ Turn off the averaging filter for the active mode, or provide a mode name to aff
 
 Parameters:
 
-**mode** — A valid `mode` name, or None to use the active mode (default: `None`)
+**mode**: A valid `mode` name, or None to use the active mode (default: `None`)
 
 Returns:
 

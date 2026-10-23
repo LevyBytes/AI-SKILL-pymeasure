@@ -1,4 +1,4 @@
-# instruments — ametek documentation links
+# instruments - ametek documentation links
 
 - [Ametek](https://pymeasure.readthedocs.io/en/latest/api/instruments/ametek/index.html)
 - [Ametek 7270 DSP Lockin Amplifier](https://pymeasure.readthedocs.io/en/latest/api/instruments/ametek/ametek7270.html)

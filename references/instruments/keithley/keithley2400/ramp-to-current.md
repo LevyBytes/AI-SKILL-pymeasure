@@ -8,8 +8,8 @@ Move from the set current value to the target current in linear steps, waiting t
 
 Parameters:
 
-- **target_current** — Current value in Amps
+- **target_current**: Current value in Amps
 
-- **steps** — Integer count of steps (default: `30`)
+- **steps**: Integer count of steps (default: `30`)
 
-- **pause** — Pause duration in seconds between steps (default: `0.02`)
+- **pause**: Pause duration in seconds between steps (default: `0.02`)

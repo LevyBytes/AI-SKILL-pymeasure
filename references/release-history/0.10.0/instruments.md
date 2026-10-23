@@ -1,4 +1,4 @@
-# Version 0.10.0 (2022-04-09) — Instruments
+# Version 0.10.0 (2022-04-09) - Instruments
 
 - Adds Agilent B1500 Data Formats and Documentation (@moritzj29)
 

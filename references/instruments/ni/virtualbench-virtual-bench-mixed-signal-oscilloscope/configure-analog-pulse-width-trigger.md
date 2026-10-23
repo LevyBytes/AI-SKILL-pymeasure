@@ -10,14 +10,14 @@ Parameters:
 
 - **trigger_source** (*str*) – Channel string
 
-- **trigger_polarity** (*int** or **str*) — Trigger slope selection (`'POSITIVE'` or `'NEGATIVE'`)
+- **trigger_polarity** (*int** or **str*): Trigger slope selection (`'POSITIVE'` or `'NEGATIVE'`)
 
 - **trigger_level** (*float*) – Trigger level
 
-- **comparison_mode** (*int** or **str*) — Comparison mode (`'GREATER_THAN_UPPER_LIMIT'`, `'LESS_THAN_LOWER_LIMIT'`, `'INSIDE_LIMITS'` or `'OUTSIDE_LIMITS'`)
+- **comparison_mode** (*int** or **str*): Comparison mode (`'GREATER_THAN_UPPER_LIMIT'`, `'LESS_THAN_LOWER_LIMIT'`, `'INSIDE_LIMITS'` or `'OUTSIDE_LIMITS'`)
 
 - **lower_limit** (*float*) – Lower limit
 
 - **upper_limit** (*float*) – Upper limit
 
-- **trigger_instance** (*int** or **str*) — Trigger instance
+- **trigger_instance** (*int** or **str*): Trigger instance

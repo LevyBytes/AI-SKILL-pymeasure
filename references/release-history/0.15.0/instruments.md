@@ -1,4 +1,4 @@
-# Version 0.15.0 (2025-01-15) — Instruments
+# Version 0.15.0 (2025-01-15) - Instruments
 
 - Add Agilent E5062A (@AlecVercruysse, #1146)
 

@@ -1,4 +1,4 @@
-# instruments — teledyne documentation links
+# instruments - teledyne documentation links
 
 - [Teledyne](https://pymeasure.readthedocs.io/en/latest/api/instruments/teledyne/index.html)
 - [Teledyne T3AFG Arbitrary Waveform Generator](https://pymeasure.readthedocs.io/en/latest/api/instruments/teledyne/teledyneT3AFG.html)

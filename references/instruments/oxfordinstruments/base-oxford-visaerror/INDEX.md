@@ -1,3 +1,3 @@
-# instruments — oxfordinstruments — base — oxford-visaerror reference index
+# instruments - oxfordinstruments - base - oxford-visaerror reference index
 
-- [pymeasure.instruments.oxfordinstruments.base.OxfordVISAError](overview.md) — Open when checking pymeasure.instruments.oxfordinstruments.base.OxfordVISAError.
+- [pymeasure.instruments.oxfordinstruments.base.OxfordVISAError](overview.md) - Open when checking pymeasure.instruments.oxfordinstruments.base.OxfordVISAError.

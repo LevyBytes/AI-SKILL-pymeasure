@@ -8,9 +8,9 @@ Create the command string for WAIT (sequence wait).
 
 Parameters:
 
-- **wait_mode** (int or `SequenceWaitMode`) — Wait mode selection (1=wait time, 2=trigger input count).
+- **wait_mode** (int or `SequenceWaitMode`): Wait mode selection (1=wait time, 2=trigger input count).
 
-- **wait_value** (*float*) — Wait duration or trigger count.
+- **wait_value** (*float*): Wait duration or trigger count.
 
 Return type:
 

@@ -1,4 +1,4 @@
-# Yokogawa — Yokogawa GS200 Source
+# Yokogawa - Yokogawa GS200 Source
 
 - [Yokogawa GS200 Source](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawags200.html)
 - [`YokogawaGS200`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawags200.html#pymeasure.instruments.yokogawa.YokogawaGS200)

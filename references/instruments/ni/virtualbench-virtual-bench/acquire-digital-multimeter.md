@@ -8,4 +8,4 @@ Opens communication with the DMM module. Call this once per session.
 
 Parameters:
 
-**reset** (*bool**, **optional*) — Whether to reset the DMM module, defaults to False (default: `False`)
+**reset** (*bool**, **optional*): Whether to reset the DMM module, defaults to False (default: `False`)

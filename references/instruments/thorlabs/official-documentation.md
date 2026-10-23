@@ -1,4 +1,4 @@
-# instruments — thorlabs documentation links
+# instruments - thorlabs documentation links
 
 - [Thorlabs](https://pymeasure.readthedocs.io/en/latest/api/instruments/thorlabs/index.html)
 - [Thorlabs PM100USB Powermeter](https://pymeasure.readthedocs.io/en/latest/api/instruments/thorlabs/thorlabspm100usb.html)

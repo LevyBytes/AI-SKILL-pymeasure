@@ -1,4 +1,4 @@
-# instruments — lecroy documentation links
+# instruments - lecroy documentation links
 
 - [LeCroy](https://pymeasure.readthedocs.io/en/latest/api/instruments/lecroy/index.html)
 - [LeCroy T3DSO1204 Oscilloscope](https://pymeasure.readthedocs.io/en/latest/api/instruments/lecroy/lecroyT3DSO1204.html)

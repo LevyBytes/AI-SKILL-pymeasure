@@ -1,4 +1,4 @@
-# Version 0.10.0 (2022-04-09) — Miscellaneous
+# Version 0.10.0 (2022-04-09) - Miscellaneous
 
 - Improve SCPI property support (@msmttchr)
 

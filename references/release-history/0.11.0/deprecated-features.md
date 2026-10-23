@@ -1,4 +1,4 @@
-# Version 0.11.0 (2022-11-19) — Deprecated features
+# Version 0.11.0 (2022-11-19) - Deprecated features
 
 For the stable 1.0 path and a more uniform API, several features are now formally deprecated. Using them should emit warnings.
 

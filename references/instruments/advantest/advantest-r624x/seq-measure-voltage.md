@@ -8,13 +8,13 @@ Create the command string for RV (voltage measurement).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
 - **enable** (*bool*) – Enable voltage measurement.
 
-- **internal_measurement** (*bool*) — Select the internal measurement input.
+- **internal_measurement** (*bool*): Select the internal measurement input.
 
-- **voltage_range** (int or `VoltageRange`) — Measurement range for voltage. (default: `<VoltageRange.AUTO: 0>`)
+- **voltage_range** (int or `VoltageRange`): Measurement range for voltage. (default: `<VoltageRange.AUTO: 0>`)
 
 Return type:
 

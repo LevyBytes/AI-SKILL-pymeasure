@@ -1,4 +1,4 @@
-# Version 0.12.0 (2023-07-05) — GUI
+# Version 0.12.0 (2023-07-05) - GUI
 
 - Adds docking windows (@mcdo0486, #722, #762)
 

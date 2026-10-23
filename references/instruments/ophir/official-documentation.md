@@ -1,4 +1,4 @@
-# instruments — ophir documentation links
+# instruments - ophir documentation links
 
 - [Ophir](https://pymeasure.readthedocs.io/en/latest/api/instruments/ophir/index.html)
 - [Ophir Base](https://pymeasure.readthedocs.io/en/latest/api/instruments/ophir/ophir_base.html)

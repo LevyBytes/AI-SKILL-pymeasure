@@ -8,7 +8,7 @@ Builds a timestamp from seconds and fractional seconds
 
 Parameters:
 
-- **seconds_since_1970** (*int*) — Date/Time expressed as seconds since 1970
+- **seconds_since_1970** (*int*): Date/Time expressed as seconds since 1970
 
 - **fractional_seconds** (*float*) – Fractional seconds
 

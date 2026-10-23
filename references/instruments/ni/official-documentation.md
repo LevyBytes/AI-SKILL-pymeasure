@@ -1,4 +1,4 @@
-# instruments — ni documentation links
+# instruments - ni documentation links
 
 - [National Instruments](https://pymeasure.readthedocs.io/en/latest/api/instruments/ni/index.html)
 - [NI Virtual Bench](https://pymeasure.readthedocs.io/en/latest/api/instruments/ni/virtualbench.html)

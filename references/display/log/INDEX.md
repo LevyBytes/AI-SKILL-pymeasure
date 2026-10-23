@@ -1,3 +1,3 @@
-# display — log reference index
+# display - log reference index
 
-- [log handler](log-handler/INDEX.md) — Open when using log handler within display / log.
+- [log handler](log-handler/INDEX.md) - Open when using log handler within display / log.

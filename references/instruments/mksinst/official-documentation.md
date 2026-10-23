@@ -1,4 +1,4 @@
-# instruments — mksinst documentation links
+# instruments - mksinst documentation links
 
 - [MKS Instruments](https://pymeasure.readthedocs.io/en/latest/api/instruments/mksinst/index.html)
 - [MKS Instruments Abstract Instrument](https://pymeasure.readthedocs.io/en/latest/api/instruments/mksinst/mksinst.html)

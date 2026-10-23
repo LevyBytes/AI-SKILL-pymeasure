@@ -1,4 +1,4 @@
-# pymeasure.display — Console class
+# pymeasure.display - Console class
 
 - [Console class](https://pymeasure.readthedocs.io/en/latest/api/display/console.html)
   - [`ConsoleArgumentParser`](https://pymeasure.readthedocs.io/en/latest/api/display/console.html#pymeasure.display.console.ConsoleArgumentParser)

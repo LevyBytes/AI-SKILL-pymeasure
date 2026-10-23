@@ -1,6 +1,6 @@
 # Related Projects
 
-Covers: Related Projects; Authors; License.
+Covers: Related Projects.
 
 ## Related Projects
 

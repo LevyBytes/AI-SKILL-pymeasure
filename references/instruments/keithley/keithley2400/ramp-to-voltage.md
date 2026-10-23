@@ -8,8 +8,8 @@ Move from the present voltage value to the target voltage in linear steps, waiti
 
 Parameters:
 
-- **target_voltage** — Voltage value in Amps
+- **target_voltage**: Voltage value in Amps
 
-- **steps** — Integer count of steps (default: `30`)
+- **steps**: Integer count of steps (default: `30`)
 
-- **pause** — Pause duration in seconds between steps (default: `0.02`)
+- **pause**: Pause duration in seconds between steps (default: `0.02`)

@@ -8,7 +8,7 @@ Shut down TS by disabling flow and remote operation.
 
 Parameters:
 
-**head** — Lift head when `True` (default: `False`)
+**head**: Lift head when `True` (default: `False`)
 
 Returns:
 

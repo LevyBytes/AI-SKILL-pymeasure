@@ -8,15 +8,15 @@ Create the command string for WT (timing parameters).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **hold_time** (*float*) — Hold interval, in seconds.
+- **hold_time** (*float*): Hold interval, in seconds.
 
-- **measurement_delay** (*float*) — Measurement delay interval, in seconds.
+- **measurement_delay** (*float*): Measurement delay interval, in seconds.
 
-- **pulsed_width** (*float*) — Pulse width, in seconds.
+- **pulsed_width** (*float*): Pulse width, in seconds.
 
-- **pulsed_period** (*float*) — Pulse period, in seconds.
+- **pulsed_period** (*float*): Pulse period, in seconds.
 
 Return type:
 

@@ -8,7 +8,7 @@ Validate that `trigger_instance` is an allowed choice
 
 Parameters:
 
-**trigger_instance** (*int** or **str*) — Trigger instance selection (`'A'` or `'B'`)
+**trigger_instance** (*int** or **str*): Trigger instance selection (`'A'` or `'B'`)
 
 Returns:
 

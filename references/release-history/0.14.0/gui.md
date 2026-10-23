@@ -1,4 +1,4 @@
-# Version 0.14.0 (2024-05-22) — GUI
+# Version 0.14.0 (2024-05-22) - GUI
 
 - A `FileInputWidget` was added so users can choose whether and where experiment data is stored (@CasperSchippers, #964).
 

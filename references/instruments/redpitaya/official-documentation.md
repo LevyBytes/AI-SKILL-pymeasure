@@ -1,4 +1,4 @@
-# instruments — redpitaya documentation links
+# instruments - redpitaya documentation links
 
 - [Redpitaya](https://pymeasure.readthedocs.io/en/latest/api/instruments/redpitaya/index.html)
 - [Redpitaya board for analog acquisition, analog generation, and digital input/output](https://pymeasure.readthedocs.io/en/latest/api/instruments/redpitaya/redpitaya_scpi.html)

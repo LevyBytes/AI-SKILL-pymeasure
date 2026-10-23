@@ -10,9 +10,9 @@ Parameters:
 
 - **channel** (*str*) – Channel string (`"ps/+6V","ps/+25V","ps/-25V"`)
 
-- **current** (*bool**, **optional*) — Current output flag, defaults to False (default: `False`)
+- **current** (*bool**, **optional*): Current output flag, defaults to False (default: `False`)
 
-- **voltage** (*bool**, **optional*) — Voltage output flag, defaults to False (default: `False`)
+- **voltage** (*bool**, **optional*): Voltage output flag, defaults to False (default: `False`)
 
 Returns:
 

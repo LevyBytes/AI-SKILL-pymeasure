@@ -1,4 +1,4 @@
-# instruments — anapico documentation links
+# instruments - anapico documentation links
 
 - [Anapico](https://pymeasure.readthedocs.io/en/latest/api/instruments/anapico/index.html)
 - [Anapico APSIN12G Signal Generator](https://pymeasure.readthedocs.io/en/latest/api/instruments/anapico/apsin12G.html)

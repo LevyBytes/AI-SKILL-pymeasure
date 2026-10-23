@@ -1,41 +1,41 @@
-# instruments — keysight — keysight-e3631a reference index
+# instruments - keysight - keysight-e3631a reference index
 
-- [base channel creator](../keysight-e3631a-base-channel-creator/INDEX.md) — Open when using base channel creator within instruments / keysight / keysight-e3631a.
-- [channel creator](../keysight-e3631a-channel-creator/INDEX.md) — Open when using channel creator within instruments / keysight / keysight-e3631a.
-- [multi channel creator](../keysight-e3631a-multi-channel-creator/INDEX.md) — Open when using multi channel creator within instruments / keysight / keysight-e3631a.
-- [voltage channel](../keysight-e3631a-voltage-channel/INDEX.md) — Open when using voltage channel within instruments / keysight / keysight-e3631a.
-- [pymeasure.instruments.keysight.KeysightE3631A](overview.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.
-- [pymeasure.instruments.keysight.KeysightE3631A.add_child](add-child.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.add_child.
-- [pymeasure.instruments.keysight.KeysightE3631A.ask](ask.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.ask.
-- [pymeasure.instruments.keysight.KeysightE3631A.binary_values](binary-values.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.binary_values.
-- [pymeasure.instruments.keysight.KeysightE3631A.ch_1](ch-1.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.ch_1.
-- [pymeasure.instruments.keysight.KeysightE3631A.ch_2](ch-2.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.ch_2.
-- [pymeasure.instruments.keysight.KeysightE3631A.ch_3](ch-3.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.ch_3.
-- [pymeasure.instruments.keysight.KeysightE3631A.check_errors](check-errors.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.check_errors.
-- [pymeasure.instruments.keysight.KeysightE3631A.check_get_errors](check-get-errors.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.check_get_errors.
-- [pymeasure.instruments.keysight.KeysightE3631A.check_set_errors](check-set-errors.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.check_set_errors.
-- [pymeasure.instruments.keysight.KeysightE3631A.clear](clear.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.clear.
-- [pymeasure.instruments.keysight.KeysightE3631A.complete](complete.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.complete.
-- [pymeasure.instruments.keysight.KeysightE3631A.control — control dynamic-property example and reserved-name warning](control-dynamic-example.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.control — control dynamic-property example and reserved-name warning.
-- [pymeasure.instruments.keysight.KeysightE3631A.control — control signature, complete parameters and return type](control-parameters.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.control — control signature, complete parameters and return type.
-- [pymeasure.instruments.keysight.KeysightE3631A.get_channel_pairs](get-channel-pairs.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.get_channel_pairs.
-- [pymeasure.instruments.keysight.KeysightE3631A.get_channels](get-channels.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.get_channels.
-- [pymeasure.instruments.keysight.KeysightE3631A.id](id.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.id.
-- [pymeasure.instruments.keysight.KeysightE3631A.measurement](measurement.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.measurement.
-- [pymeasure.instruments.keysight.KeysightE3631A.next_error](next-error.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.next_error.
-- [pymeasure.instruments.keysight.KeysightE3631A.options](options.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.options.
-- [pymeasure.instruments.keysight.KeysightE3631A.output_enabled](output-enabled.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.output_enabled.
-- [pymeasure.instruments.keysight.KeysightE3631A.read_binary_values](read-binary-values.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.read_binary_values.
-- [pymeasure.instruments.keysight.KeysightE3631A.read_bytes](read-bytes.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.read_bytes.
-- [pymeasure.instruments.keysight.KeysightE3631A.read](read.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.read.
-- [pymeasure.instruments.keysight.KeysightE3631A.remove_child](remove-child.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.remove_child.
-- [pymeasure.instruments.keysight.KeysightE3631A.reset](reset.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.reset.
-- [pymeasure.instruments.keysight.KeysightE3631A.setting](setting.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.setting.
-- [pymeasure.instruments.keysight.KeysightE3631A.shutdown](shutdown.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.shutdown.
-- [pymeasure.instruments.keysight.KeysightE3631A.status](status.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.status.
-- [pymeasure.instruments.keysight.KeysightE3631A.tracking_enabled](tracking-enabled.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.tracking_enabled.
-- [pymeasure.instruments.keysight.KeysightE3631A.values](values.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.values.
-- [pymeasure.instruments.keysight.KeysightE3631A.wait_for](wait-for.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.wait_for.
-- [pymeasure.instruments.keysight.KeysightE3631A.write_binary_values](write-binary-values.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.write_binary_values.
-- [pymeasure.instruments.keysight.KeysightE3631A.write_bytes](write-bytes.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.write_bytes.
-- [pymeasure.instruments.keysight.KeysightE3631A.write](write.md) — Open when checking pymeasure.instruments.keysight.KeysightE3631A.write.
+- [base channel creator](../keysight-e3631a-base-channel-creator/INDEX.md) - Open when using base channel creator within instruments / keysight / keysight-e3631a.
+- [channel creator](../keysight-e3631a-channel-creator/INDEX.md) - Open when using channel creator within instruments / keysight / keysight-e3631a.
+- [multi channel creator](../keysight-e3631a-multi-channel-creator/INDEX.md) - Open when using multi channel creator within instruments / keysight / keysight-e3631a.
+- [voltage channel](../keysight-e3631a-voltage-channel/INDEX.md) - Open when using voltage channel within instruments / keysight / keysight-e3631a.
+- [pymeasure.instruments.keysight.KeysightE3631A](overview.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.
+- [pymeasure.instruments.keysight.KeysightE3631A.add_child](add-child.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.add_child.
+- [pymeasure.instruments.keysight.KeysightE3631A.ask](ask.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.ask.
+- [pymeasure.instruments.keysight.KeysightE3631A.binary_values](binary-values.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.binary_values.
+- [pymeasure.instruments.keysight.KeysightE3631A.ch_1](ch-1.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.ch_1.
+- [pymeasure.instruments.keysight.KeysightE3631A.ch_2](ch-2.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.ch_2.
+- [pymeasure.instruments.keysight.KeysightE3631A.ch_3](ch-3.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.ch_3.
+- [pymeasure.instruments.keysight.KeysightE3631A.check_errors](check-errors.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.check_errors.
+- [pymeasure.instruments.keysight.KeysightE3631A.check_get_errors](check-get-errors.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.check_get_errors.
+- [pymeasure.instruments.keysight.KeysightE3631A.check_set_errors](check-set-errors.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.check_set_errors.
+- [pymeasure.instruments.keysight.KeysightE3631A.clear](clear.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.clear.
+- [pymeasure.instruments.keysight.KeysightE3631A.complete](complete.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.complete.
+- [pymeasure.instruments.keysight.KeysightE3631A.control - control dynamic-property example and reserved-name warning](control-dynamic-example.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.control - control dynamic-property example and reserved-name warning.
+- [pymeasure.instruments.keysight.KeysightE3631A.control - control signature, complete parameters and return type](control-parameters.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.control - control signature, complete parameters and return type.
+- [pymeasure.instruments.keysight.KeysightE3631A.get_channel_pairs](get-channel-pairs.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.get_channel_pairs.
+- [pymeasure.instruments.keysight.KeysightE3631A.get_channels](get-channels.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.get_channels.
+- [pymeasure.instruments.keysight.KeysightE3631A.id](id.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.id.
+- [pymeasure.instruments.keysight.KeysightE3631A.measurement](measurement.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.measurement.
+- [pymeasure.instruments.keysight.KeysightE3631A.next_error](next-error.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.next_error.
+- [pymeasure.instruments.keysight.KeysightE3631A.options](options.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.options.
+- [pymeasure.instruments.keysight.KeysightE3631A.output_enabled](output-enabled.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.output_enabled.
+- [pymeasure.instruments.keysight.KeysightE3631A.read_binary_values](read-binary-values.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.read_binary_values.
+- [pymeasure.instruments.keysight.KeysightE3631A.read_bytes](read-bytes.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.read_bytes.
+- [pymeasure.instruments.keysight.KeysightE3631A.read](read.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.read.
+- [pymeasure.instruments.keysight.KeysightE3631A.remove_child](remove-child.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.remove_child.
+- [pymeasure.instruments.keysight.KeysightE3631A.reset](reset.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.reset.
+- [pymeasure.instruments.keysight.KeysightE3631A.setting](setting.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.setting.
+- [pymeasure.instruments.keysight.KeysightE3631A.shutdown](shutdown.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.shutdown.
+- [pymeasure.instruments.keysight.KeysightE3631A.status](status.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.status.
+- [pymeasure.instruments.keysight.KeysightE3631A.tracking_enabled](tracking-enabled.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.tracking_enabled.
+- [pymeasure.instruments.keysight.KeysightE3631A.values](values.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.values.
+- [pymeasure.instruments.keysight.KeysightE3631A.wait_for](wait-for.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.wait_for.
+- [pymeasure.instruments.keysight.KeysightE3631A.write_binary_values](write-binary-values.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.write_binary_values.
+- [pymeasure.instruments.keysight.KeysightE3631A.write_bytes](write-bytes.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.write_bytes.
+- [pymeasure.instruments.keysight.KeysightE3631A.write](write.md) - Open when checking pymeasure.instruments.keysight.KeysightE3631A.write.

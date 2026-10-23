@@ -1,22 +1,22 @@
-# instruments — toptica — ibeamsmart — ibeam-smart reference index
+# instruments - toptica - ibeamsmart - ibeam-smart reference index
 
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart](overview.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_1](ch-1.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_1.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_2](ch-2.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_2.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_3](ch-3.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_3.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_4](ch-4.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_4.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_5](ch-5.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_5.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.check_set_errors](check-set-errors.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.check_set_errors.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.current](current.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.current.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.disable](disable.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.disable.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.emission](emission.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.emission.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_continous](enable-continous.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_continous.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_continuous](enable-continuous.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_continuous.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_pulsing](enable-pulsing.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_pulsing.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.power](power.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.power.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.read](read.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.read.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.serial](serial.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.serial.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.shutdown](shutdown.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.shutdown.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.system_temp](system-temp.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.system_temp.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.temp](temp.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.temp.
-- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.version](version.md) — Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.version.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart](overview.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_1](ch-1.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_1.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_2](ch-2.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_2.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_3](ch-3.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_3.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_4](ch-4.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_4.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_5](ch-5.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.ch_5.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.check_set_errors](check-set-errors.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.check_set_errors.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.current](current.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.current.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.disable](disable.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.disable.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.emission](emission.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.emission.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_continous](enable-continous.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_continous.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_continuous](enable-continuous.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_continuous.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_pulsing](enable-pulsing.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.enable_pulsing.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.power](power.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.power.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.read](read.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.read.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.serial](serial.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.serial.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.shutdown](shutdown.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.shutdown.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.system_temp](system-temp.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.system_temp.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.temp](temp.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.temp.
+- [pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.version](version.md) - Open when checking pymeasure.instruments.toptica.ibeamsmart.IBeamSmart.version.

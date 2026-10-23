@@ -8,7 +8,7 @@ Pause for a specified interval. Used by “ask” before the read step.
 
 Parameters:
 
-**query_delay** (`Optional`[`float`]) — Seconds to wait between write and read operations. None means the default delay. (default: `None`)
+**query_delay** (`Optional`[`float`]): Seconds to wait between write and read operations. None means the default delay. (default: `None`)
 
 Return type:
 

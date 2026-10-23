@@ -8,4 +8,4 @@ Configure the measurement trigger to come from a selected external trigger line
 
 Parameters:
 
-**line** — Trigger line from 1 to 4 (default: `1`)
+**line**: Trigger line from 1 to 4 (default: `1`)

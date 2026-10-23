@@ -8,9 +8,9 @@ Create the command string for DI (DC current source).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **source_range** (int or `CurrentRange`) — Source range for current.
+- **source_range** (int or `CurrentRange`): Source range for current.
 
 - **source_value** (*float*) – Source current value.
 

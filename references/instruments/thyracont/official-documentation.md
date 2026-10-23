@@ -1,4 +1,4 @@
-# instruments — thyracont documentation links
+# instruments - thyracont documentation links
 
 - [Thyracont](https://pymeasure.readthedocs.io/en/latest/api/instruments/thyracont/index.html)
 - [Smartline V1 Transmitter Series](https://pymeasure.readthedocs.io/en/latest/api/instruments/thyracont/smartline_v1.html)

@@ -8,6 +8,6 @@ Set up resistance measurement, using the maximum resistance for range selection 
 
 Parameters:
 
-- **max_resistance** — Resistance in ohms used to set the resistance range (default: `10000000.0`)
+- **max_resistance**: Resistance in ohms used to set the resistance range (default: `10000000.0`)
 
-- **wires** — Number of wires employed, either 2 or 4 (default: `2`)
+- **wires**: Number of wires employed, either 2 or 4 (default: `2`)

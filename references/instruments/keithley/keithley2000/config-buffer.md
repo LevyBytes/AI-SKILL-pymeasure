@@ -8,6 +8,6 @@ Prepare the measurement buffer for a chosen point count, using the requested del
 
 Parameters:
 
-- **points** — Number of points configured for the buffer. (default: `64`)
+- **points**: Number of points configured for the buffer. (default: `64`)
 
-- **delay** — Delay time in seconds. (default: `0`)
+- **delay**: Delay time in seconds. (default: `0`)

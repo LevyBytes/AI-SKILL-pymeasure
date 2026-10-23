@@ -1,4 +1,4 @@
-# Version 0.14.0 (2024-05-22) — Deprecated features
+# Version 0.14.0 (2024-05-22) - Deprecated features
 
 - `TelnetAdapter` was removed because its library is deprecated (@BenediktBurger, #1045).
 

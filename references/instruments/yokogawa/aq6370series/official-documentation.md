@@ -1,4 +1,4 @@
-# Yokogawa — Yokogawa AQ6370 Series of Optical Spectrum Analyzers
+# Yokogawa - Yokogawa AQ6370 Series of Optical Spectrum Analyzers
 
 - [Yokogawa AQ6370 Series of Optical Spectrum Analyzers](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/aq6370series.html)
 - [`AQ6370Series`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/aq6370series.html#pymeasure.instruments.yokogawa.aq6370series.AQ6370Series)

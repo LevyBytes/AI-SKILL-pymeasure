@@ -1,22 +1,22 @@
-# instruments — inficon — sqm160 reference index
+# instruments - inficon - sqm160 reference index
 
-- [sensor channel](../sqm160-sensor-channel/INDEX.md) — Open when using sensor channel within instruments / inficon / sqm160.
-- [pymeasure.instruments.inficon.sqm160.SQM160](overview.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.
-- [pymeasure.instruments.inficon.sqm160.SQM160.all_values](all-values.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.all_values.
-- [pymeasure.instruments.inficon.sqm160.SQM160.average_rate](average-rate.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.average_rate.
-- [pymeasure.instruments.inficon.sqm160.SQM160.average_thickness](average-thickness.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.average_thickness.
-- [pymeasure.instruments.inficon.sqm160.SQM160.check_set_errors](check-set-errors.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.check_set_errors.
-- [pymeasure.instruments.inficon.sqm160.SQM160.firmware_version](firmware-version.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.firmware_version.
-- [pymeasure.instruments.inficon.sqm160.SQM160.number_of_channels](number-of-channels.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.number_of_channels.
-- [pymeasure.instruments.inficon.sqm160.SQM160.read](read.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.read.
-- [pymeasure.instruments.inficon.sqm160.SQM160.reset_flag](reset-flag.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.reset_flag.
-- [pymeasure.instruments.inficon.sqm160.SQM160.reset_system_parameters](reset-system-parameters.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.reset_system_parameters.
-- [pymeasure.instruments.inficon.sqm160.SQM160.reset_thickness_rate](reset-thickness-rate.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.reset_thickness_rate.
-- [pymeasure.instruments.inficon.sqm160.SQM160.reset_time](reset-time.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.reset_time.
-- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_1](sensor-1.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_1.
-- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_2](sensor-2.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_2.
-- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_3](sensor-3.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_3.
-- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_4](sensor-4.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_4.
-- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_5](sensor-5.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_5.
-- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_6](sensor-6.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_6.
-- [pymeasure.instruments.inficon.sqm160.SQM160.write](write.md) — Open when checking pymeasure.instruments.inficon.sqm160.SQM160.write.
+- [sensor channel](../sqm160-sensor-channel/INDEX.md) - Open when using sensor channel within instruments / inficon / sqm160.
+- [pymeasure.instruments.inficon.sqm160.SQM160](overview.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.
+- [pymeasure.instruments.inficon.sqm160.SQM160.all_values](all-values.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.all_values.
+- [pymeasure.instruments.inficon.sqm160.SQM160.average_rate](average-rate.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.average_rate.
+- [pymeasure.instruments.inficon.sqm160.SQM160.average_thickness](average-thickness.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.average_thickness.
+- [pymeasure.instruments.inficon.sqm160.SQM160.check_set_errors](check-set-errors.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.check_set_errors.
+- [pymeasure.instruments.inficon.sqm160.SQM160.firmware_version](firmware-version.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.firmware_version.
+- [pymeasure.instruments.inficon.sqm160.SQM160.number_of_channels](number-of-channels.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.number_of_channels.
+- [pymeasure.instruments.inficon.sqm160.SQM160.read](read.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.read.
+- [pymeasure.instruments.inficon.sqm160.SQM160.reset_flag](reset-flag.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.reset_flag.
+- [pymeasure.instruments.inficon.sqm160.SQM160.reset_system_parameters](reset-system-parameters.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.reset_system_parameters.
+- [pymeasure.instruments.inficon.sqm160.SQM160.reset_thickness_rate](reset-thickness-rate.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.reset_thickness_rate.
+- [pymeasure.instruments.inficon.sqm160.SQM160.reset_time](reset-time.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.reset_time.
+- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_1](sensor-1.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_1.
+- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_2](sensor-2.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_2.
+- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_3](sensor-3.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_3.
+- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_4](sensor-4.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_4.
+- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_5](sensor-5.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_5.
+- [pymeasure.instruments.inficon.sqm160.SQM160.sensor_6](sensor-6.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.sensor_6.
+- [pymeasure.instruments.inficon.sqm160.SQM160.write](write.md) - Open when checking pymeasure.instruments.inficon.sqm160.SQM160.write.

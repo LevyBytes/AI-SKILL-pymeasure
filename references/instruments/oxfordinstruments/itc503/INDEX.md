@@ -1,34 +1,34 @@
-# instruments — oxfordinstruments — itc503 reference index
+# instruments - oxfordinstruments - itc503 reference index
 
-- [flow control status](../itc503-flow-control-status/INDEX.md) — Open when using flow control status within instruments / oxfordinstruments / itc503.
-- [pymeasure.instruments.oxfordinstruments.ITC503](overview.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.
-- [pymeasure.instruments.oxfordinstruments.ITC503.auto_pid_table](auto-pid-table.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.auto_pid_table.
-- [pymeasure.instruments.oxfordinstruments.ITC503.auto_pid](auto-pid.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.auto_pid.
-- [pymeasure.instruments.oxfordinstruments.ITC503.control_mode](control-mode.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.control_mode.
-- [pymeasure.instruments.oxfordinstruments.ITC503.derivative_action_time](derivative-action-time.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.derivative_action_time.
-- [pymeasure.instruments.oxfordinstruments.ITC503.front_panel_display](front-panel-display.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.front_panel_display.
-- [pymeasure.instruments.oxfordinstruments.ITC503.gasflow_configuration_parameter](gasflow-configuration-parameter.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.gasflow_configuration_parameter.
-- [pymeasure.instruments.oxfordinstruments.ITC503.gasflow_control_status](gasflow-control-status.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.gasflow_control_status.
-- [pymeasure.instruments.oxfordinstruments.ITC503.gasflow](gasflow.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.gasflow.
-- [pymeasure.instruments.oxfordinstruments.ITC503.heater_gas_mode](heater-gas-mode.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.heater_gas_mode.
-- [pymeasure.instruments.oxfordinstruments.ITC503.heater_voltage](heater-voltage.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.heater_voltage.
-- [pymeasure.instruments.oxfordinstruments.ITC503.heater](heater.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.heater.
-- [pymeasure.instruments.oxfordinstruments.ITC503.integral_action_time](integral-action-time.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.integral_action_time.
-- [pymeasure.instruments.oxfordinstruments.ITC503.pointer](pointer.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.pointer.
-- [pymeasure.instruments.oxfordinstruments.ITC503.program_sweep](program-sweep.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.program_sweep.
-- [pymeasure.instruments.oxfordinstruments.ITC503.proportional_band](proportional-band.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.proportional_band.
-- [pymeasure.instruments.oxfordinstruments.ITC503.sweep_status](sweep-status.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.sweep_status.
-- [pymeasure.instruments.oxfordinstruments.ITC503.sweep_table](sweep-table.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.sweep_table.
-- [pymeasure.instruments.oxfordinstruments.ITC503.target_voltage_table](target-voltage-table.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.target_voltage_table.
-- [pymeasure.instruments.oxfordinstruments.ITC503.target_voltage](target-voltage.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.target_voltage.
-- [pymeasure.instruments.oxfordinstruments.ITC503.temperature_1](temperature-1.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.temperature_1.
-- [pymeasure.instruments.oxfordinstruments.ITC503.temperature_2](temperature-2.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.temperature_2.
-- [pymeasure.instruments.oxfordinstruments.ITC503.temperature_3](temperature-3.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.temperature_3.
-- [pymeasure.instruments.oxfordinstruments.ITC503.temperature_error](temperature-error.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.temperature_error.
-- [pymeasure.instruments.oxfordinstruments.ITC503.temperature_setpoint](temperature-setpoint.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.temperature_setpoint.
-- [pymeasure.instruments.oxfordinstruments.ITC503.valve_scaling](valve-scaling.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.valve_scaling.
-- [pymeasure.instruments.oxfordinstruments.ITC503.version](version.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.version.
-- [pymeasure.instruments.oxfordinstruments.ITC503.wait_for_temperature](wait-for-temperature.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.wait_for_temperature.
-- [pymeasure.instruments.oxfordinstruments.ITC503.wipe_sweep_table](wipe-sweep-table.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.wipe_sweep_table.
-- [pymeasure.instruments.oxfordinstruments.ITC503.x_pointer](x-pointer.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.x_pointer.
-- [pymeasure.instruments.oxfordinstruments.ITC503.y_pointer](y-pointer.md) — Open when checking pymeasure.instruments.oxfordinstruments.ITC503.y_pointer.
+- [flow control status](../itc503-flow-control-status/INDEX.md) - Open when using flow control status within instruments / oxfordinstruments / itc503.
+- [pymeasure.instruments.oxfordinstruments.ITC503](overview.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.
+- [pymeasure.instruments.oxfordinstruments.ITC503.auto_pid_table](auto-pid-table.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.auto_pid_table.
+- [pymeasure.instruments.oxfordinstruments.ITC503.auto_pid](auto-pid.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.auto_pid.
+- [pymeasure.instruments.oxfordinstruments.ITC503.control_mode](control-mode.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.control_mode.
+- [pymeasure.instruments.oxfordinstruments.ITC503.derivative_action_time](derivative-action-time.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.derivative_action_time.
+- [pymeasure.instruments.oxfordinstruments.ITC503.front_panel_display](front-panel-display.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.front_panel_display.
+- [pymeasure.instruments.oxfordinstruments.ITC503.gasflow_configuration_parameter](gasflow-configuration-parameter.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.gasflow_configuration_parameter.
+- [pymeasure.instruments.oxfordinstruments.ITC503.gasflow_control_status](gasflow-control-status.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.gasflow_control_status.
+- [pymeasure.instruments.oxfordinstruments.ITC503.gasflow](gasflow.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.gasflow.
+- [pymeasure.instruments.oxfordinstruments.ITC503.heater_gas_mode](heater-gas-mode.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.heater_gas_mode.
+- [pymeasure.instruments.oxfordinstruments.ITC503.heater_voltage](heater-voltage.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.heater_voltage.
+- [pymeasure.instruments.oxfordinstruments.ITC503.heater](heater.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.heater.
+- [pymeasure.instruments.oxfordinstruments.ITC503.integral_action_time](integral-action-time.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.integral_action_time.
+- [pymeasure.instruments.oxfordinstruments.ITC503.pointer](pointer.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.pointer.
+- [pymeasure.instruments.oxfordinstruments.ITC503.program_sweep](program-sweep.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.program_sweep.
+- [pymeasure.instruments.oxfordinstruments.ITC503.proportional_band](proportional-band.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.proportional_band.
+- [pymeasure.instruments.oxfordinstruments.ITC503.sweep_status](sweep-status.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.sweep_status.
+- [pymeasure.instruments.oxfordinstruments.ITC503.sweep_table](sweep-table.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.sweep_table.
+- [pymeasure.instruments.oxfordinstruments.ITC503.target_voltage_table](target-voltage-table.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.target_voltage_table.
+- [pymeasure.instruments.oxfordinstruments.ITC503.target_voltage](target-voltage.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.target_voltage.
+- [pymeasure.instruments.oxfordinstruments.ITC503.temperature_1](temperature-1.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.temperature_1.
+- [pymeasure.instruments.oxfordinstruments.ITC503.temperature_2](temperature-2.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.temperature_2.
+- [pymeasure.instruments.oxfordinstruments.ITC503.temperature_3](temperature-3.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.temperature_3.
+- [pymeasure.instruments.oxfordinstruments.ITC503.temperature_error](temperature-error.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.temperature_error.
+- [pymeasure.instruments.oxfordinstruments.ITC503.temperature_setpoint](temperature-setpoint.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.temperature_setpoint.
+- [pymeasure.instruments.oxfordinstruments.ITC503.valve_scaling](valve-scaling.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.valve_scaling.
+- [pymeasure.instruments.oxfordinstruments.ITC503.version](version.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.version.
+- [pymeasure.instruments.oxfordinstruments.ITC503.wait_for_temperature](wait-for-temperature.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.wait_for_temperature.
+- [pymeasure.instruments.oxfordinstruments.ITC503.wipe_sweep_table](wipe-sweep-table.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.wipe_sweep_table.
+- [pymeasure.instruments.oxfordinstruments.ITC503.x_pointer](x-pointer.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.x_pointer.
+- [pymeasure.instruments.oxfordinstruments.ITC503.y_pointer](y-pointer.md) - Open when checking pymeasure.instruments.oxfordinstruments.ITC503.y_pointer.

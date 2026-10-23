@@ -1,4 +1,4 @@
-# instruments — pendulum documentation links
+# instruments - pendulum documentation links
 
 - [Pendulum](https://pymeasure.readthedocs.io/en/latest/api/instruments/pendulum/index.html)
 - [Pendulum CNT91 frequency counter](https://pymeasure.readthedocs.io/en/latest/api/instruments/pendulum/cnt91.html)

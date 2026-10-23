@@ -14,4 +14,4 @@ Parameters:
 
 - **pretrigger_time** (*float*) – Pretrigger time (0s - 10s)
 
-- **sampling_mode** — Sampling mode selection (`'SAMPLE'` or `'PEAK_DETECT'`)
+- **sampling_mode**: Sampling mode selection (`'SAMPLE'` or `'PEAK_DETECT'`)

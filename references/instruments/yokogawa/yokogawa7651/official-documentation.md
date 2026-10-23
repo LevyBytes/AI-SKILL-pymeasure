@@ -1,4 +1,4 @@
-# Yokogawa — Yokogawa 7651 Programmable Supply
+# Yokogawa - Yokogawa 7651 Programmable Supply
 
 This section documents the supported Yokogawa instruments. For a device that is not listed here, consider [adding the instrument](https://pymeasure.readthedocs.io/en/latest/dev/adding_instruments/index.html).
 - [Yokogawa 7651 Programmable Supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/yokogawa7651.html)

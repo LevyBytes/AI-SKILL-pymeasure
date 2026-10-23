@@ -1,21 +1,21 @@
-# experiment — procedure reference index
+# experiment - procedure reference index
 
-- [unknown procedure](unknown-procedure/INDEX.md) — Open when using unknown procedure within experiment / procedure.
-- [pymeasure.experiment.procedure.Procedure](overview.md) — Open when checking pymeasure.experiment.procedure.Procedure.
-- [pymeasure.experiment.procedure.Procedure.check_parameters](check-parameters.md) — Open when checking pymeasure.experiment.procedure.Procedure.check_parameters.
-- [pymeasure.experiment.procedure.Procedure.evaluate_metadata](evaluate-metadata.md) — Open when checking pymeasure.experiment.procedure.Procedure.evaluate_metadata.
-- [pymeasure.experiment.procedure.Procedure.execute](execute.md) — Open when checking pymeasure.experiment.procedure.Procedure.execute.
-- [pymeasure.experiment.procedure.Procedure.gen_measurement](gen-measurement.md) — Open when checking pymeasure.experiment.procedure.Procedure.gen_measurement.
-- [pymeasure.experiment.procedure.Procedure.get_estimates](get-estimates.md) — Open when checking pymeasure.experiment.procedure.Procedure.get_estimates.
-- [pymeasure.experiment.procedure.Procedure.is_last](is-last.md) — Open when checking pymeasure.experiment.procedure.Procedure.is_last.
-- [pymeasure.experiment.procedure.Procedure.metadata_objects](metadata-objects.md) — Open when checking pymeasure.experiment.procedure.Procedure.metadata_objects.
-- [pymeasure.experiment.procedure.Procedure.parameter_objects](parameter-objects.md) — Open when checking pymeasure.experiment.procedure.Procedure.parameter_objects.
-- [pymeasure.experiment.procedure.Procedure.parameter_values](parameter-values.md) — Open when checking pymeasure.experiment.procedure.Procedure.parameter_values.
-- [pymeasure.experiment.procedure.Procedure.parameters_are_set](parameters-are-set.md) — Open when checking pymeasure.experiment.procedure.Procedure.parameters_are_set.
-- [pymeasure.experiment.procedure.Procedure.parse_columns](parse-columns.md) — Open when checking pymeasure.experiment.procedure.Procedure.parse_columns.
-- [pymeasure.experiment.procedure.Procedure.placeholder_names](placeholder-names.md) — Open when checking pymeasure.experiment.procedure.Procedure.placeholder_names.
-- [pymeasure.experiment.procedure.Procedure.placeholder_objects](placeholder-objects.md) — Open when checking pymeasure.experiment.procedure.Procedure.placeholder_objects.
-- [pymeasure.experiment.procedure.Procedure.refresh_parameters](refresh-parameters.md) — Open when checking pymeasure.experiment.procedure.Procedure.refresh_parameters.
-- [pymeasure.experiment.procedure.Procedure.set_parameters](set-parameters.md) — Open when checking pymeasure.experiment.procedure.Procedure.set_parameters.
-- [pymeasure.experiment.procedure.Procedure.shutdown](shutdown.md) — Open when checking pymeasure.experiment.procedure.Procedure.shutdown.
-- [pymeasure.experiment.procedure.Procedure.startup](startup.md) — Open when checking pymeasure.experiment.procedure.Procedure.startup.
+- [unknown procedure](unknown-procedure/INDEX.md) - Open when using unknown procedure within experiment / procedure.
+- [pymeasure.experiment.procedure.Procedure](overview.md) - Open when checking pymeasure.experiment.procedure.Procedure.
+- [pymeasure.experiment.procedure.Procedure.check_parameters](check-parameters.md) - Open when checking pymeasure.experiment.procedure.Procedure.check_parameters.
+- [pymeasure.experiment.procedure.Procedure.evaluate_metadata](evaluate-metadata.md) - Open when checking pymeasure.experiment.procedure.Procedure.evaluate_metadata.
+- [pymeasure.experiment.procedure.Procedure.execute](execute.md) - Open when checking pymeasure.experiment.procedure.Procedure.execute.
+- [pymeasure.experiment.procedure.Procedure.gen_measurement](gen-measurement.md) - Open when checking pymeasure.experiment.procedure.Procedure.gen_measurement.
+- [pymeasure.experiment.procedure.Procedure.get_estimates](get-estimates.md) - Open when checking pymeasure.experiment.procedure.Procedure.get_estimates.
+- [pymeasure.experiment.procedure.Procedure.is_last](is-last.md) - Open when checking pymeasure.experiment.procedure.Procedure.is_last.
+- [pymeasure.experiment.procedure.Procedure.metadata_objects](metadata-objects.md) - Open when checking pymeasure.experiment.procedure.Procedure.metadata_objects.
+- [pymeasure.experiment.procedure.Procedure.parameter_objects](parameter-objects.md) - Open when checking pymeasure.experiment.procedure.Procedure.parameter_objects.
+- [pymeasure.experiment.procedure.Procedure.parameter_values](parameter-values.md) - Open when checking pymeasure.experiment.procedure.Procedure.parameter_values.
+- [pymeasure.experiment.procedure.Procedure.parameters_are_set](parameters-are-set.md) - Open when checking pymeasure.experiment.procedure.Procedure.parameters_are_set.
+- [pymeasure.experiment.procedure.Procedure.parse_columns](parse-columns.md) - Open when checking pymeasure.experiment.procedure.Procedure.parse_columns.
+- [pymeasure.experiment.procedure.Procedure.placeholder_names](placeholder-names.md) - Open when checking pymeasure.experiment.procedure.Procedure.placeholder_names.
+- [pymeasure.experiment.procedure.Procedure.placeholder_objects](placeholder-objects.md) - Open when checking pymeasure.experiment.procedure.Procedure.placeholder_objects.
+- [pymeasure.experiment.procedure.Procedure.refresh_parameters](refresh-parameters.md) - Open when checking pymeasure.experiment.procedure.Procedure.refresh_parameters.
+- [pymeasure.experiment.procedure.Procedure.set_parameters](set-parameters.md) - Open when checking pymeasure.experiment.procedure.Procedure.set_parameters.
+- [pymeasure.experiment.procedure.Procedure.shutdown](shutdown.md) - Open when checking pymeasure.experiment.procedure.Procedure.shutdown.
+- [pymeasure.experiment.procedure.Procedure.startup](startup.md) - Open when checking pymeasure.experiment.procedure.Procedure.startup.

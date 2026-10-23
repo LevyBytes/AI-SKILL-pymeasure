@@ -10,7 +10,7 @@ Parameters:
 
 - **dmm_function** (*int*) – DMM Function
 
-- **range** (*int** or **float*) — Range value, for example the maximum measurable value
+- **range** (*int** or **float*): Range value, for example the maximum measurable value
 
 Returns:
 

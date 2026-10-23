@@ -1,4 +1,4 @@
-# Version 0.13.0 (2023-09-23) — Instruments
+# Version 0.13.0 (2023-09-23) - Instruments
 
 - Adds a test generator (@bmoneke, #882)
 

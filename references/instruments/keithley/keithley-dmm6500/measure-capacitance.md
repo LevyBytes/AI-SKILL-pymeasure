@@ -8,7 +8,7 @@ Set up the instrument for capacitance measurement.
 
 Parameters:
 
-**max_capacitance** — Value used to set `capacitance_range` after changing `mode` (default: `0.001`)
+**max_capacitance**: Value used to set `capacitance_range` after changing `mode` (default: `0.001`)
 
 Returns:
 

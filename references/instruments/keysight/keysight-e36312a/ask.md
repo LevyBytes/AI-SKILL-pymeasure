@@ -8,10 +8,10 @@ Send a command to the instrument, then return the response that is read back.
 
 Parameters:
 
-- **command** (`str`) — Command string sent to the instrument.
+- **command** (`str`): Command string sent to the instrument.
 
-- **query_delay** (`Optional`[`float`]) — Seconds to wait between write and read operations. (default: `None`)
+- **query_delay** (`Optional`[`float`]): Seconds to wait between write and read operations. (default: `None`)
 
 Returns:
 
-`str` — Device response string with read_termination removed.
+`str`: Device response string with read_termination removed.

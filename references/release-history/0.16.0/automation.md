@@ -1,4 +1,4 @@
-# Version 0.16.0 (2026-05-20) — Automation
+# Version 0.16.0 (2026-05-20) - Automation
 
 - The qtpy dependency was added for Qt version shimming (@Benbriel, #1285).
 

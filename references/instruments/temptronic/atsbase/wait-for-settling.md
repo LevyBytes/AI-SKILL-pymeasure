@@ -8,7 +8,7 @@ block script execution until TS reports settled.
 
 Parameters:
 
-**time_limit** — maximum blocking time allowed for TS to settle (float). (default: `300`)
+**time_limit**: maximum blocking time allowed for TS to settle (float). (default: `300`)
 
 Returns:
 

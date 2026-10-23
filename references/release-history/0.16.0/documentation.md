@@ -1,4 +1,4 @@
-# Version 0.16.0 (2026-05-20) — Documentation
+# Version 0.16.0 (2026-05-20) - Documentation
 
 - Update documentation regarding type hints (@BenediktBurger, #1324)
 

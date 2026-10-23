@@ -1,4 +1,4 @@
-# instruments — eurotest documentation links
+# instruments - eurotest documentation links
 
 - [EURO TEST](https://pymeasure.readthedocs.io/en/latest/api/instruments/eurotest/index.html)
 - [Euro Test HPP120256 High Voltage Power Supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/eurotest/eurotestHPP120256.html)

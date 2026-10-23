@@ -1,44 +1,44 @@
-# instruments — anritsu — anritsu-ms464x-b reference index
+# instruments - anritsu - anritsu-ms464x-b reference index
 
-- [measurement channel](../anritsu-ms464x-b-measurement-channel/INDEX.md) — Open when using measurement channel within instruments / anritsu / anritsu-ms464x-b.
-- [port](../anritsu-ms464x-b-port/INDEX.md) — Open when using port within instruments / anritsu / anritsu-ms464x-b.
-- [trace](../anritsu-ms464x-b-trace/INDEX.md) — Open when using trace within instruments / anritsu / anritsu-ms464x-b.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB](overview.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.active_channel](active-channel.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.active_channel.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.bandwidth_enhancer_enabled](bandwidth-enhancer-enabled.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.bandwidth_enhancer_enabled.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.binary_data_byte_order](binary-data-byte-order.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.binary_data_byte_order.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.check_errors](check-errors.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.check_errors.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.copy_data_file](copy-data-file.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.copy_data_file.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.create_directory](create-directory.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.create_directory.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.data_drawing_enabled](data-drawing-enabled.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.data_drawing_enabled.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.datablock_header_format](datablock-header-format.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.datablock_header_format.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.datablock_numeric_format](datablock-numeric-format.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.datablock_numeric_format.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_frequency_unit](datafile-frequency-unit.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_frequency_unit.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_include_heading](datafile-include-heading.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_include_heading.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_parameter_format](datafile-parameter-format.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_parameter_format.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.delete_data_file](delete-data-file.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.delete_data_file.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.delete_directory](delete-directory.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.delete_directory.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.display_layout](display-layout.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.display_layout.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.event_status_enable_bits](event-status-enable-bits.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.event_status_enable_bits.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_delay](external-trigger-delay.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_delay.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_edge](external-trigger-edge.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_edge.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_handshake](external-trigger-handshake.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_handshake.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_type](external-trigger-type.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_type.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.hold_function_all_channels](hold-function-all-channels.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.hold_function_all_channels.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.load_data_file_to_memory](load-data-file-to-memory.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.load_data_file_to_memory.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.load_data_file](load-data-file.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.load_data_file.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.manual_trigger_type](manual-trigger-type.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.manual_trigger_type.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.max_number_of_points](max-number-of-points.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.max_number_of_points.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.number_of_channels](number-of-channels.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.number_of_channels.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.number_of_ports](number-of-ports.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.number_of_ports.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.query_event_status_register](query-event-status-register.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.query_event_status_register.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.read_datafile](read-datafile.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.read_datafile.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.remote_trigger_type](remote-trigger-type.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.remote_trigger_type.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.return_to_local](return-to-local.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.return_to_local.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.service_request_enable_bits](service-request-enable-bits.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.service_request_enable_bits.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.store_image](store-image.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.store_image.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_continuous](trigger-continuous.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_continuous.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_single](trigger-single.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_single.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_source](trigger-source.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_source.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.trigger](trigger.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.trigger.
-- [pymeasure.instruments.anritsu.AnritsuMS464xB.update_channels](update-channels.md) — Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.update_channels.
+- [measurement channel](../anritsu-ms464x-b-measurement-channel/INDEX.md) - Open when using measurement channel within instruments / anritsu / anritsu-ms464x-b.
+- [port](../anritsu-ms464x-b-port/INDEX.md) - Open when using port within instruments / anritsu / anritsu-ms464x-b.
+- [trace](../anritsu-ms464x-b-trace/INDEX.md) - Open when using trace within instruments / anritsu / anritsu-ms464x-b.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB](overview.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.active_channel](active-channel.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.active_channel.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.bandwidth_enhancer_enabled](bandwidth-enhancer-enabled.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.bandwidth_enhancer_enabled.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.binary_data_byte_order](binary-data-byte-order.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.binary_data_byte_order.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.check_errors](check-errors.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.check_errors.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.copy_data_file](copy-data-file.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.copy_data_file.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.create_directory](create-directory.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.create_directory.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.data_drawing_enabled](data-drawing-enabled.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.data_drawing_enabled.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.datablock_header_format](datablock-header-format.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.datablock_header_format.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.datablock_numeric_format](datablock-numeric-format.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.datablock_numeric_format.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_frequency_unit](datafile-frequency-unit.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_frequency_unit.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_include_heading](datafile-include-heading.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_include_heading.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_parameter_format](datafile-parameter-format.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.datafile_parameter_format.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.delete_data_file](delete-data-file.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.delete_data_file.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.delete_directory](delete-directory.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.delete_directory.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.display_layout](display-layout.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.display_layout.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.event_status_enable_bits](event-status-enable-bits.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.event_status_enable_bits.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_delay](external-trigger-delay.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_delay.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_edge](external-trigger-edge.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_edge.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_handshake](external-trigger-handshake.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_handshake.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_type](external-trigger-type.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.external_trigger_type.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.hold_function_all_channels](hold-function-all-channels.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.hold_function_all_channels.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.load_data_file_to_memory](load-data-file-to-memory.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.load_data_file_to_memory.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.load_data_file](load-data-file.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.load_data_file.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.manual_trigger_type](manual-trigger-type.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.manual_trigger_type.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.max_number_of_points](max-number-of-points.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.max_number_of_points.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.number_of_channels](number-of-channels.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.number_of_channels.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.number_of_ports](number-of-ports.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.number_of_ports.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.query_event_status_register](query-event-status-register.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.query_event_status_register.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.read_datafile](read-datafile.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.read_datafile.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.remote_trigger_type](remote-trigger-type.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.remote_trigger_type.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.return_to_local](return-to-local.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.return_to_local.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.service_request_enable_bits](service-request-enable-bits.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.service_request_enable_bits.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.store_image](store-image.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.store_image.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_continuous](trigger-continuous.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_continuous.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_single](trigger-single.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_single.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_source](trigger-source.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.trigger_source.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.trigger](trigger.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.trigger.
+- [pymeasure.instruments.anritsu.AnritsuMS464xB.update_channels](update-channels.md) - Open when checking pymeasure.instruments.anritsu.AnritsuMS464xB.update_channels.

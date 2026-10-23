@@ -8,6 +8,6 @@ Prepare the measurement buffer for a specified point count and delay.
 
 Parameters:
 
-- **points** — Number of points assigned to the buffer. (default: `64`)
+- **points**: Number of points assigned to the buffer. (default: `64`)
 
-- **delay** — Delay duration in seconds. (default: `0`)
+- **delay**: Delay duration in seconds. (default: `0`)

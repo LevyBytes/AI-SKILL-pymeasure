@@ -8,7 +8,7 @@ Use the active reading as the relative value for the active mode, or provide a m
 
 Parameters:
 
-**mode** — A valid `mode` name, or None to use the active mode (default: `None`)
+**mode**: A valid `mode` name, or None to use the active mode (default: `None`)
 
 Returns:
 

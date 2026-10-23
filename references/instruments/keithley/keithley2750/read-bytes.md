@@ -8,9 +8,9 @@ Read a specified byte count from the instrument.
 
 Parameters:
 
-- **count** (*int*) — Bytes to read. Use -1 to consume the entire read buffer.
+- **count** (*int*): Bytes to read. Use -1 to consume the entire read buffer.
 
-- **kwargs** — Adapter-specific keyword arguments.
+- **kwargs**: Adapter-specific keyword arguments.
 
 Returns bytes:
 

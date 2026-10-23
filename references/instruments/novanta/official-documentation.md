@@ -1,4 +1,4 @@
-# instruments — novanta documentation links
+# instruments - novanta documentation links
 
 - [Novanta Photonics](https://pymeasure.readthedocs.io/en/latest/api/instruments/novanta/index.html)
 - [Novanta FPU60 laser power supply unit](https://pymeasure.readthedocs.io/en/latest/api/instruments/novanta/fpu60.html)

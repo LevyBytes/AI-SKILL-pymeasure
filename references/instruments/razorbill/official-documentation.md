@@ -1,4 +1,4 @@
-# instruments — razorbill documentation links
+# instruments - razorbill documentation links
 
 - [Razorbill](https://pymeasure.readthedocs.io/en/latest/api/instruments/razorbill/index.html)
 - [Razorbill RP100 custrom power supply for Razorbill Instrums stress and strain cells](https://pymeasure.readthedocs.io/en/latest/api/instruments/razorbill/razorbillRP100.html)

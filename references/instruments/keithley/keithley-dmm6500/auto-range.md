@@ -10,4 +10,4 @@ Autorange support covers these modes: `current` (DC) and `current ac`; `voltage`
 
 Parameters:
 
-**mode** — A valid `mode` name, or None to use the active mode (default: `None`)
+**mode**: A valid `mode` name, or None to use the active mode (default: `None`)

@@ -8,9 +8,9 @@ Set the instrument to source voltage, using auto range unless `voltage_range` is
 
 Parameters:
 
-- **compliance_current** — Float value in the valid `compliance_current` range (default: `0.1`)
+- **compliance_current**: Float value in the valid `compliance_current` range (default: `0.1`)
 
-- **voltage_range** — A `voltage_range` value, or None (default: `None`)
+- **voltage_range**: A `voltage_range` value, or None (default: `None`)
 
 Deprecated since version 0.16: Prefer configuring - source mode with `source_mode`. - source voltage range with `source_voltage_range` or `source_voltage_range_auto_enabled`. - compliance current with `compliance_current`
 

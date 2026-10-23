@@ -1,4 +1,4 @@
-# Version 0.11.0 (2022-11-19) — New adapter and instrument mechanics
+# Version 0.11.0 (2022-11-19) - New adapter and instrument mechanics
 
 - User-facing behavior should stay the same; this section mostly matters to instrument implementors.
 

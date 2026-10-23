@@ -1,4 +1,4 @@
-# instruments — anaheimautomation documentation links
+# instruments - anaheimautomation documentation links
 
 - [Anaheim Automation](https://pymeasure.readthedocs.io/en/latest/api/instruments/anaheimautomation/index.html)
 - [DP-Series Step Motor Controller](https://pymeasure.readthedocs.io/en/latest/api/instruments/anaheimautomation/dpseriesstepmotorcontroller.html)

@@ -8,6 +8,6 @@ Set up voltage measurement using a maximum voltage for range selection and a boo
 
 Parameters:
 
-- **max_voltage** — Voltage in Volts used to select the voltage range (default: `1`)
+- **max_voltage**: Voltage in Volts used to select the voltage range (default: `1`)
 
-- **ac** — False selects DC voltage, and True selects AC voltage (default: `False`)
+- **ac**: False selects DC voltage, and True selects AC voltage (default: `False`)

@@ -1,4 +1,4 @@
-# instruments — siglenttechnologies documentation links
+# instruments - siglenttechnologies documentation links
 
 - [Siglent Technologies](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/index.html)
 - [Siglent Technologies Base Class](https://pymeasure.readthedocs.io/en/latest/api/instruments/siglenttechnologies/siglent_spdbase.html)

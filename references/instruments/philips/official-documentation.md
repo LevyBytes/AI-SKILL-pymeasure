@@ -1,4 +1,4 @@
-# instruments — philips documentation links
+# instruments - philips documentation links
 
 - [Philips](https://pymeasure.readthedocs.io/en/latest/api/instruments/philips/index.html)
 - [Philips PM 6669 Universal Frequency Counter](https://pymeasure.readthedocs.io/en/latest/api/instruments/philips/PM6669.html)

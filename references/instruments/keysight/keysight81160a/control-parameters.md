@@ -1,4 +1,4 @@
-# pymeasure.instruments.keysight.Keysight81160A.control — control signature, complete parameters and return type
+# pymeasure.instruments.keysight.Keysight81160A.control - control signature, complete parameters and return type
 
 [Owning PyMeasure class, adapter and connection contract](overview.md) / [control dynamic-property example and reserved-name warning](control-dynamic-example.md)
 

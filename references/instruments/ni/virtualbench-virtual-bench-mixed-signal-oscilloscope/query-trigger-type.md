@@ -8,7 +8,7 @@ Reports trigger type for the specified instance.
 
 Parameters:
 
-**trigger_instance** — Trigger instance selection (`'A'` or `'B'`)
+**trigger_instance**: Trigger instance selection (`'A'` or `'B'`)
 
 Returns:
 

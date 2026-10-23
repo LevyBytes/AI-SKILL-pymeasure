@@ -1,4 +1,4 @@
-# instruments — santec documentation links
+# instruments - santec documentation links
 
 - [Santec](https://pymeasure.readthedocs.io/en/latest/api/instruments/santec/index.html)
 - [Santec TSL-500 Series Tunable Laser](https://pymeasure.readthedocs.io/en/latest/api/instruments/santec/tsl500series.html)

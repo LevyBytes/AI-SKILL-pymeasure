@@ -8,4 +8,4 @@ Turn off the reference for the active mode, or for another named mode.
 
 Parameters:
 
-**mode** — Valid `mode` name, or None to target the active mode (default: `None`)
+**mode**: Valid `mode` name, or None to target the active mode (default: `None`)

@@ -1,4 +1,4 @@
-# instruments — kuhneelectronic documentation links
+# instruments - kuhneelectronic documentation links
 
 - [Kuhne Electronic](https://pymeasure.readthedocs.io/en/latest/api/instruments/kuhneelectronic/index.html)
 - [KU SG 2.45 250 A microwave generator for the 2.45 GHz ISM-Band](https://pymeasure.readthedocs.io/en/latest/api/instruments/kuhneelectronic/kusg245_250a.html)

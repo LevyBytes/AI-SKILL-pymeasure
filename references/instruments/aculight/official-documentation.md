@@ -1,4 +1,4 @@
-# instruments — aculight documentation links
+# instruments - aculight documentation links
 
 - [Aculight](https://pymeasure.readthedocs.io/en/latest/api/instruments/aculight/index.html)
 - [Aculight Argos 2400 OPO system](https://pymeasure.readthedocs.io/en/latest/api/instruments/aculight/argos.html)

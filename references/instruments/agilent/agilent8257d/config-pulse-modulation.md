@@ -8,6 +8,6 @@ Sets up pulse modulation for the output signal.
 
 Parameters:
 
-- **frequency** — Pulse rate frequency in Hertz (default: `1000.0`)
+- **frequency**: Pulse rate frequency in Hertz (default: `1000.0`)
 
-- **input** — String describing the internal pulse input (default: `'square'`)
+- **input**: String describing the internal pulse input (default: `'square'`)

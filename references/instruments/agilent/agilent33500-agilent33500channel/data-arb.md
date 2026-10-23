@@ -10,7 +10,7 @@ data_points accepts one of three encodings: comma separated 16 bit DAC values (f
 
 Parameters:
 
-- **arb_name** — Trace name used inside volatile memory; later calls use this name to select that trace.
+- **arb_name**: Trace name used inside volatile memory; later calls use this name to select that trace.
 
 - **data_points** –
 
@@ -22,4 +22,4 @@ format = ?float?: Takes a list of floating point values from -1.0 to +1.0. Requi
 
 format = ?binary?: Takes an 8 bit binary stream.
 
-- **data_format** — Specifies the representation used for data_points: ?DAC? (default), ?float?, or ?binary?. See the data_points parameter notes above. (default: `'DAC'`)
+- **data_format**: Specifies the representation used for data_points: ?DAC? (default), ?float?, or ?binary?. See the data_points parameter notes above. (default: `'DAC'`)

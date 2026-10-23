@@ -8,13 +8,13 @@ Create the command string for PWI (pulsed current sweep).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **sweep_mode** (int or `SweepMode`) — Sweep mode selection.
+- **sweep_mode** (int or `SweepMode`): Sweep mode selection.
 
 - **repeat** (*int*) – Number of repeats (0-1024).
 
-- **current_range** (int or `CurrentRange`) — Source range for current.
+- **current_range** (int or `CurrentRange`): Source range for current.
 
 - **base** (*float*) – Base current value.
 

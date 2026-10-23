@@ -1,4 +1,4 @@
-# instruments — bkprecision documentation links
+# instruments - bkprecision documentation links
 
 - [BK Precision](https://pymeasure.readthedocs.io/en/latest/api/instruments/bkprecision/index.html)
 - [BK Precision 9130B DC Power Supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/bkprecision/bkprecision9130b.html)

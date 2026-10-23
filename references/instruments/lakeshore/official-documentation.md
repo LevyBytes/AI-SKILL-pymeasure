@@ -1,4 +1,4 @@
-# instruments — lakeshore documentation links
+# instruments - lakeshore documentation links
 
 - [Lake Shore Cryogenics](https://pymeasure.readthedocs.io/en/latest/api/instruments/lakeshore/index.html)
 - [Lake Shore 211 Temperature Monitor](https://pymeasure.readthedocs.io/en/latest/api/instruments/lakeshore/lakeshore211.html)

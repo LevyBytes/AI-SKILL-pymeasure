@@ -8,6 +8,6 @@ Set up current measurement, using the maximum current to choose range and the bo
 
 Parameters:
 
-- **max_current** — Current in Volts used to set the current range (default: `0.01`)
+- **max_current**: Current in Volts used to set the current range (default: `0.01`)
 
-- **ac** — False selects DC current, True selects AC current (default: `False`)
+- **ac**: False selects DC current, True selects AC current (default: `False`)

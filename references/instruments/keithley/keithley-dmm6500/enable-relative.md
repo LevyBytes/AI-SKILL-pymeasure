@@ -8,4 +8,4 @@ Enable relative-offset application for measurements in the active mode, or pass 
 
 Parameters:
 
-**mode** — A valid `mode` name, or None to use the active mode (default: `None`)
+**mode**: A valid `mode` name, or None to use the active mode (default: `None`)

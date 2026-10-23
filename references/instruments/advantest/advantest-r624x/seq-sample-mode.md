@@ -8,11 +8,11 @@ Create the command string for JM (sample mode).
 
 Parameters:
 
-- **mode** (int or `SampleMode`) — Sample mode selection.
+- **mode** (int or `SampleMode`): Sample mode selection.
 
-- **auto_sampling** (*bool*) — Controls auto sampling. With True, each trigger automatically returns measurement data. With False, data is returned only after an explicit request such as `FCH?`. For dual-channel synchronous modes (`PULSED_SYNC`, `SWEEP_SYNC`, etc.), use False so the returned values are the actual measurement results.
+- **auto_sampling** (*bool*): Controls auto sampling. With True, each trigger automatically returns measurement data. With False, data is returned only after an explicit request such as `FCH?`. For dual-channel synchronous modes (`PULSED_SYNC`, `SWEEP_SYNC`, etc.), use False so the returned values are the actual measurement results.
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
 Return type:
 

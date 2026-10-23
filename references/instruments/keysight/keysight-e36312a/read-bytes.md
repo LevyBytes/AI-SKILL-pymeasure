@@ -8,9 +8,9 @@ Read a specified byte count from the instrument.
 
 Parameters:
 
-- **count** (*int*) — Number of bytes requested. A value of -1 means the entire read buffer is read.
+- **count** (*int*): Number of bytes requested. A value of -1 means the entire read buffer is read.
 
-- **kwargs** — Keyword arguments passed to the adapter.
+- **kwargs**: Keyword arguments passed to the adapter.
 
 Returns bytes:
 

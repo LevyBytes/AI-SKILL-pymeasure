@@ -1,4 +1,4 @@
-# instruments — ptw documentation links
+# instruments - ptw documentation links
 
 - [PTW Freiburg](https://pymeasure.readthedocs.io/en/latest/api/instruments/ptw/index.html)
 - [PTW DIAMENTOR DAP dosemeters](https://pymeasure.readthedocs.io/en/latest/api/instruments/ptw/ptwDIAMENTOR.html)

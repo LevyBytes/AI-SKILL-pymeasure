@@ -1,8 +1,8 @@
-# instruments — hp — hp3437a reference index
+# instruments - hp - hp3437a reference index
 
 ## Class and connection contract
 
-- [pymeasure.instruments.hp.HP3437A](overview.md) — Open when checking pymeasure.instruments.hp.HP3437A.
+- [pymeasure.instruments.hp.HP3437A](overview.md) - Open when checking pymeasure.instruments.hp.HP3437A.
 
 ## Property contracts
 
@@ -15,8 +15,8 @@
 
 ## Methods and related types
 
-- [srq](../hp3437a-srq/INDEX.md) — Open when using srq within instruments / hp / hp3437a.
-- [pymeasure.instruments.hp.HP3437A.check_errors](check-errors.md) — Open when checking pymeasure.instruments.hp.HP3437A.check_errors.
-- [pymeasure.instruments.hp.HP3437A.pb_desc](pb-desc.md) — Open when checking pymeasure.instruments.hp.HP3437A.pb_desc.
-- [pymeasure.instruments.hp.HP3437A.read_data](read-data.md) — Open when checking pymeasure.instruments.hp.HP3437A.read_data.
-- [pymeasure.instruments.hp.HP3437A.status_desc](status-desc.md) — Open when checking pymeasure.instruments.hp.HP3437A.status_desc.
+- [srq](../hp3437a-srq/INDEX.md) - Open when using srq within instruments / hp / hp3437a.
+- [pymeasure.instruments.hp.HP3437A.check_errors](check-errors.md) - Open when checking pymeasure.instruments.hp.HP3437A.check_errors.
+- [pymeasure.instruments.hp.HP3437A.pb_desc](pb-desc.md) - Open when checking pymeasure.instruments.hp.HP3437A.pb_desc.
+- [pymeasure.instruments.hp.HP3437A.read_data](read-data.md) - Open when checking pymeasure.instruments.hp.HP3437A.read_data.
+- [pymeasure.instruments.hp.HP3437A.status_desc](status-desc.md) - Open when checking pymeasure.instruments.hp.HP3437A.status_desc.

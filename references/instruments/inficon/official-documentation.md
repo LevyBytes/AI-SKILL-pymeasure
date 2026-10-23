@@ -1,4 +1,4 @@
-# instruments — inficon documentation links
+# instruments - inficon documentation links
 
 - [Inficon](https://pymeasure.readthedocs.io/en/latest/api/instruments/inficon/index.html)
 - [Inficon SQM-160 multi-film rate/thickness monitor](https://pymeasure.readthedocs.io/en/latest/api/instruments/inficon/sqm160.html)

@@ -1,4 +1,4 @@
-# Version 0.12.0 (2023-07-05) — Deprecated features
+# Version 0.12.0 (2023-07-05) - Deprecated features
 
 - For HP 34401A, the `voltage_ac`, `current_dc`, `current_ac`, `resistance`, and `resistance_4w` properties should be replaced by `function_` and `reading`.
 

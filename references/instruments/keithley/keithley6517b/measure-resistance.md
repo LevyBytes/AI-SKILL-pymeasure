@@ -8,8 +8,8 @@ Configures the measurement of resistance.
 
 Parameters:
 
-- **nplc** — Power line cycle count (NPLC), from 0.01 to 10. (default: `1`)
+- **nplc**: Power line cycle count (NPLC), from 0.01 to 10. (default: `1`)
 
-- **resistance** — Upper resistance bound in Ohms, from -210 POhms to 210 POhms. (default: `210000.0`)
+- **resistance**: Upper resistance bound in Ohms, from -210 POhms to 210 POhms. (default: `210000.0`)
 
-- **auto_range** — Enables auto_range when True; otherwise the resistance_range attribute is used. (default: `True`)
+- **auto_range**: Enables auto_range when True; otherwise the resistance_range attribute is used. (default: `True`)

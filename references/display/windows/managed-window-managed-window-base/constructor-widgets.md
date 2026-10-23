@@ -1,4 +1,4 @@
-# pymeasure.display.windows.managed_window.ManagedWindowBase — ManagedWindowBase constructor and subclassing/widget requirements
+# pymeasure.display.windows.managed_window.ManagedWindowBase - ManagedWindowBase constructor and subclassing/widget requirements
 
 [ManagedWindowBase complete constructor parameters](constructor-parameters.md)
 

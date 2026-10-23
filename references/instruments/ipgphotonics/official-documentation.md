@@ -1,4 +1,4 @@
-# instruments — ipgphotonics documentation links
+# instruments - ipgphotonics documentation links
 
 - [IPG Photonics](https://pymeasure.readthedocs.io/en/latest/api/instruments/ipgphotonics/index.html)
 - [YAR fiber amplifier series](https://pymeasure.readthedocs.io/en/latest/api/instruments/ipgphotonics/yar.html)

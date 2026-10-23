@@ -10,11 +10,11 @@ If `scan_count` is greater than 1, another scan begins after `scan_interval` sec
 
 Parameters:
 
-- **block_communication** — Bool controlling the communication state during scanning. Default is `True`; communication waits for commands to complete before accepting new commands (default: `True`)
+- **block_communication**: Bool controlling the communication state during scanning. Default is `True`; communication waits for commands to complete before accepting new commands (default: `True`)
 
-- **count** — Alternate way to set `scan_count` before scanning. (default: `None`)
+- **count**: Alternate way to set `scan_count` before scanning. (default: `None`)
 
-- **interval** — Alternate way to set `scan_interval` in second before scanning. (default: `None`)
+- **interval**: Alternate way to set `scan_interval` in second before scanning. (default: `None`)
 
 Returns:
 

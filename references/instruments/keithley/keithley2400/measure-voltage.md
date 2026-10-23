@@ -8,11 +8,11 @@ Configure the measurement of voltage.
 
 Parameters:
 
-- **nplc** — NPLC power-line-cycle setting, from 0.01 to 10 (default: `1`)
+- **nplc**: NPLC power-line-cycle setting, from 0.01 to 10 (default: `1`)
 
-- **voltage** — Upper voltage limit in Volts, from -210 V to 210 V (default: `21.0`)
+- **voltage**: Upper voltage limit in Volts, from -210 V to 210 V (default: `21.0`)
 
-- **auto_range** — Turns on auto_range when True; otherwise uses the supplied voltage (default: `True`)
+- **auto_range**: Turns on auto_range when True; otherwise uses the supplied voltage (default: `True`)
 
 Deprecated since version 0.16: Voltage measurement setup now happens implicitly through `voltage`. Prefer - voltage nplc through `voltage_nplc`. - voltage range through `voltage_range` or `voltage_range_auto_enabled`.
 

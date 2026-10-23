@@ -1,4 +1,4 @@
-# instruments — parker documentation links
+# instruments - parker documentation links
 
 - [Parker](https://pymeasure.readthedocs.io/en/latest/api/instruments/parker/index.html)
 - [Parker GV6 Servo Motor Controller](https://pymeasure.readthedocs.io/en/latest/api/instruments/parker/parkerGV6.html)

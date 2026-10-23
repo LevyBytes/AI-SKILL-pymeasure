@@ -1,4 +1,4 @@
-# Yokogawa — AQ6373B
+# Yokogawa - AQ6373B
 
 - [`AQ6373B`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/aq6370series.html#pymeasure.instruments.yokogawa.aq6370series.AQ6373B)
 - [`AQ6373B.TRA`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/aq6370series.html#pymeasure.instruments.yokogawa.aq6370series.AQ6373B.TRA)

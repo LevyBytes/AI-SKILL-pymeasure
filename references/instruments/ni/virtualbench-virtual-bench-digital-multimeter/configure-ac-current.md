@@ -8,4 +8,4 @@ Set the auto range terminal used for AC current measurement
 
 Parameters:
 
-**auto_range_terminal** — Terminal used for auto ranging (`'LOW'` or `'HIGH'`)
+**auto_range_terminal**: Terminal used for auto ranging (`'LOW'` or `'HIGH'`)

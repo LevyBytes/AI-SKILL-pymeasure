@@ -1,4 +1,4 @@
-# instruments — andeenhagerling documentation links
+# instruments - andeenhagerling documentation links
 
 - [Andeen Hagerling](https://pymeasure.readthedocs.io/en/latest/api/instruments/andeenhagerling/index.html)
 - [Andeen Hagerling AH2500A capacitance bridge](https://pymeasure.readthedocs.io/en/latest/api/instruments/andeenhagerling/ah2500a.html)

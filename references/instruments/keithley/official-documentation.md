@@ -1,4 +1,4 @@
-# instruments — keithley documentation links
+# instruments - keithley documentation links
 
 - [Keithley](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/index.html)
 - [Keithley 2000 Multimeter](https://pymeasure.readthedocs.io/en/latest/api/instruments/keithley/keithley2000.html)

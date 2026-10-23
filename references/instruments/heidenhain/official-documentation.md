@@ -1,4 +1,4 @@
-# instruments — heidenhain documentation links
+# instruments - heidenhain documentation links
 
 - [Heidenhain](https://pymeasure.readthedocs.io/en/latest/api/instruments/heidenhain/index.html)
 - [Heidenhain ND287 Position Display Unit](https://pymeasure.readthedocs.io/en/latest/api/instruments/heidenhain/nd287.html)

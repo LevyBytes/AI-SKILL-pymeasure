@@ -1,4 +1,4 @@
-# Version 0.16.0 (2026-05-20) — Instruments mechanics
+# Version 0.16.0 (2026-05-20) - Instruments mechanics
 
 - Prologix adapter support now includes `_write_bytes()` and `_read_bytes()` (@dl8dtl, #1259).
 

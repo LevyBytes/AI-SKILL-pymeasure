@@ -1,3 +1,3 @@
-# instruments — lecroy — le-croy-t3dso1204 — base-channel-creator reference index
+# instruments - lecroy - le-croy-t3dso1204 - base-channel-creator reference index
 
-- [pymeasure.instruments.lecroy.LeCroyT3DSO1204.BaseChannelCreator](overview.md) — Open when checking pymeasure.instruments.lecroy.LeCroyT3DSO1204.BaseChannelCreator.
+- [pymeasure.instruments.lecroy.LeCroyT3DSO1204.BaseChannelCreator](overview.md) - Open when checking pymeasure.instruments.lecroy.LeCroyT3DSO1204.BaseChannelCreator.

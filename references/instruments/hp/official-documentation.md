@@ -1,4 +1,4 @@
-# instruments — hp documentation links
+# instruments - hp documentation links
 
 - [Hewlett Packard](https://pymeasure.readthedocs.io/en/latest/api/instruments/hp/index.html)
 - [HP 33120A arbitrary waveform generator](https://pymeasure.readthedocs.io/en/latest/api/instruments/hp/hp33120A.html)

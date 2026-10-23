@@ -10,6 +10,6 @@ Parent implementation shared by ChannelCreator and MultiChannelCreator.
 
 Parameters:
 
-- **cls** — Class applied to every child, or a tuple/list giving one class for each child.
+- **cls**: Class applied to every child, or a tuple/list giving one class for each child.
 
 - ****kwargs** — Keyword arguments supplied to every child.

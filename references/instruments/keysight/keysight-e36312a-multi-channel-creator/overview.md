@@ -26,10 +26,10 @@ class Extreme5000(Instrument):
 
 Parameters:
 
-- **cls** (`Union`[`type`[`Child`], `Sequence`[`type`[`Child`]]]) — Class shared by all children, or a tuple/list with one class per child.
+- **cls** (`Union`[`type`[`Child`], `Sequence`[`type`[`Child`]]]): Class shared by all children, or a tuple/list with one class per child.
 
-- **id** (`Union`[`int`, `str`, `None`]) — tuple/list containing the instrument channel ids. (default: `None`)
+- **id** (`Union`[`int`, `str`, `None`]): tuple/list containing the instrument channel ids. (default: `None`)
 
-- **prefix** (`Optional`[`str`]) — Collection prefix for attributes; for example, “ch_” creates self.ch_A. If prefix evaluates False, the child is placed directly under the variable name. Required when id is a tuple/list. (default: `'ch_'`)
+- **prefix** (`Optional`[`str`]): Collection prefix for attributes; for example, “ch_” creates self.ch_A. If prefix evaluates False, the child is placed directly under the variable name. Required when id is a tuple/list. (default: `'ch_'`)
 
 - ****kwargs** — Keyword arguments supplied to every child.

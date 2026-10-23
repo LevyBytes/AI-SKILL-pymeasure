@@ -8,7 +8,7 @@ Validate the value used to select the auto range terminal for DC current measure
 
 Parameters:
 
-**auto_range_terminal** (*int** or **str*) — Terminal used for auto ranging (`'LOW'` or `'HIGH'`)
+**auto_range_terminal** (*int** or **str*): Terminal used for auto ranging (`'LOW'` or `'HIGH'`)
 
 Returns:
 

@@ -8,13 +8,13 @@ Create the command string for FXV (fixed level voltage sweep).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **voltage_range** (int or `VoltageRange`) — Source range for voltage.
+- **voltage_range** (int or `VoltageRange`): Source range for voltage.
 
 - **voltage_level** (*float*) – Voltage level value.
 
-- **measurement_count** (*int*) — Count of measurements.
+- **measurement_count** (*int*): Count of measurements.
 
 - **current_compliance** (*float*) – Current compliance value.
 

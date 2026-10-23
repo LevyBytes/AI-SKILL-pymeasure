@@ -8,9 +8,9 @@ Create the command string for LTL (LO common connection relay).
 
 Parameters:
 
-- **enable** (*bool*) — Turn the connection relay on.
+- **enable** (*bool*): Turn the connection relay on.
 
-- **lo_relay** (*bool** or **None*) — Enable the internal analog common relay; None leaves it unchanged. (default: `None`)
+- **lo_relay** (*bool** or **None*): Enable the internal analog common relay; None leaves it unchanged. (default: `None`)
 
 Return type:
 

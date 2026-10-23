@@ -8,11 +8,11 @@ Send a command to the instrument, then return binary data as a numpy array.
 
 Parameters:
 
-- **command** (`str`) — Command sent to the instrument.
+- **command** (`str`): Command sent to the instrument.
 
-- **query_delay** (`Optional`[`float`]) — Seconds to wait between write and read operations. (default: `None`)
+- **query_delay** (`Optional`[`float`]): Seconds to wait between write and read operations. (default: `None`)
 
-- **kwargs** — Arguments forwarded to `read_binary_values()`.
+- **kwargs**: Arguments forwarded to `read_binary_values()`.
 
 Returns:
 

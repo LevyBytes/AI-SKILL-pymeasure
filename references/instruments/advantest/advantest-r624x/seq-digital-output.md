@@ -8,7 +8,7 @@ Create the command string for DIOS (digital output).
 
 Parameters:
 
-**values** (*int** or **list*) — Bit values for digital output.
+**values** (*int** or **list*): Bit values for digital output.
 
 Return type:
 

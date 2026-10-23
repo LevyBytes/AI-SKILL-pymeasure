@@ -1,4 +1,4 @@
-# instruments — newport documentation links
+# instruments - newport documentation links
 
 - [Newport](https://pymeasure.readthedocs.io/en/latest/api/instruments/newport/index.html)
 - [ESP 300 Motion Controller](https://pymeasure.readthedocs.io/en/latest/api/instruments/newport/esp300.html)

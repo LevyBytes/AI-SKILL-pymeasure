@@ -8,4 +8,4 @@ Enable auto-range for the active mode, or apply it to a different mode selected 
 
 Parameters:
 
-**mode** — Valid `mode` name, or None to target the active mode (default: `None`)
+**mode**: Valid `mode` name, or None to target the active mode (default: `None`)

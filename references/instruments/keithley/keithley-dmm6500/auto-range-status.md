@@ -8,7 +8,7 @@ Return whether auto-range is enabled for the active mode, or for a supplied mode
 
 Parameters:
 
-**mode** — A valid `mode` name, or None to use the active mode (default: `None`)
+**mode**: A valid `mode` name, or None to use the active mode (default: `None`)
 
 Returns:
 

@@ -8,4 +8,4 @@ Configure the instrument to source voltage, using auto range unless a voltage ra
 
 Parameters:
 
-**voltage_range** — A `voltage_range` setting, or None to enable auto range. (default: `None`)
+**voltage_range**: A `voltage_range` setting, or None to enable auto range. (default: `None`)

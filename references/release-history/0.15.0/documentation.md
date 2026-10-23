@@ -1,4 +1,4 @@
-# Version 0.15.0 (2025-01-15) — Documentation
+# Version 0.15.0 (2025-01-15) - Documentation
 
 - Several typos in procedure.rst were corrected (@kpet, #1141).
 

@@ -8,9 +8,9 @@ Send a string command to the instrument and append write_termination.
 
 Parameters:
 
-- **command** (`str`) — command string sent to the instrument
+- **command** (`str`): command string sent to the instrument
 
-- **kwargs** — Keyword arguments forwarded to the adapter.
+- **kwargs**: Keyword arguments forwarded to the adapter.
 
 Return type:
 

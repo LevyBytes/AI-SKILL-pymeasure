@@ -8,4 +8,4 @@ Opens communication with the MSO module. Call this once per session.
 
 Parameters:
 
-**reset** (*bool**, **optional*) — Whether to reset the MSO module, defaults to False (default: `False`)
+**reset** (*bool**, **optional*): Whether to reset the MSO module, defaults to False (default: `False`)

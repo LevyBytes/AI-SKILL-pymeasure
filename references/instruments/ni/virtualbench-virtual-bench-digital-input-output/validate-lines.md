@@ -19,11 +19,11 @@ Allowed Line Numbers: 0-7 or trig
 
 Parameters:
 
-- **lines** (*str*) — Line string being checked
+- **lines** (*str*): Line string being checked
 
-- **return_single_lines** (*bool**, **optional*) — Also return a list of line numbers, defaults to False (default: `False`)
+- **return_single_lines** (*bool**, **optional*): Also return a list of line numbers, defaults to False (default: `False`)
 
-- **validate_init** (*bool**, **optional*) — Verify that lines are initialized in `self._line_numbers`, defaults to False (default: `False`)
+- **validate_init** (*bool**, **optional*): Verify that lines are initialized in `self._line_numbers`, defaults to False (default: `False`)
 
 Returns:
 

@@ -1,4 +1,4 @@
-# Version 0.14.0 (2024-05-22) — Instruments mechanics
+# Version 0.14.0 (2024-05-22) - Instruments mechanics
 
 - A SCPI base class, `SCPIMixin`, was added to replace `includeSCPI=True` (@BenediktBurger, #905, #1007, #1019, #1047).
 

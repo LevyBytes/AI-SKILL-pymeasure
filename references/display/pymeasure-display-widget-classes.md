@@ -1,4 +1,4 @@
-# pymeasure.display — Widget classes
+# pymeasure.display - Widget classes
 
 - [Widget classes](https://pymeasure.readthedocs.io/en/latest/api/display/widgets.html)
   - [`BrowserWidget`](https://pymeasure.readthedocs.io/en/latest/api/display/widgets.html#pymeasure.display.widgets.browser_widget.BrowserWidget)

@@ -1,4 +1,4 @@
-# instruments — attocube documentation links
+# instruments - attocube documentation links
 
 - [Attocube](https://pymeasure.readthedocs.io/en/latest/api/instruments/attocube/index.html)
 - [Attocube ANC300 Motion Controller](https://pymeasure.readthedocs.io/en/latest/api/instruments/attocube/anc300.html)

@@ -1,24 +1,24 @@
-# instruments — teledyne — teledyne-t3afg reference index
+# instruments - teledyne - teledyne-t3afg reference index
 
-- [signal channel](../teledyne-t3afg-signal-channel/INDEX.md) — Open when using signal channel within instruments / teledyne / teledyne-t3afg.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG](overview.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.ch_1](ch-1.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.ch_1.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.ch_2](ch-2.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.ch_2.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.check_errors](check-errors.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.check_errors.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.check_get_errors](check-get-errors.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.check_get_errors.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.check_set_errors](check-set-errors.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.check_set_errors.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.clear](clear.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.clear.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.complete](complete.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.complete.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.id](id.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.id.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.next_error](next-error.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.next_error.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.options](options.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.options.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.read_binary_values](read-binary-values.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.read_binary_values.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.read_bytes](read-bytes.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.read_bytes.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.read](read.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.read.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.reset](reset.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.reset.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.shutdown](shutdown.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.shutdown.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.status](status.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.status.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.wait_for](wait-for.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.wait_for.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.write_binary_values](write-binary-values.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.write_binary_values.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.write_bytes](write-bytes.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.write_bytes.
-- [pymeasure.instruments.teledyne.TeledyneT3AFG.write](write.md) — Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.write.
+- [signal channel](../teledyne-t3afg-signal-channel/INDEX.md) - Open when using signal channel within instruments / teledyne / teledyne-t3afg.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG](overview.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.ch_1](ch-1.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.ch_1.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.ch_2](ch-2.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.ch_2.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.check_errors](check-errors.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.check_errors.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.check_get_errors](check-get-errors.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.check_get_errors.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.check_set_errors](check-set-errors.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.check_set_errors.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.clear](clear.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.clear.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.complete](complete.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.complete.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.id](id.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.id.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.next_error](next-error.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.next_error.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.options](options.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.options.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.read_binary_values](read-binary-values.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.read_binary_values.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.read_bytes](read-bytes.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.read_bytes.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.read](read.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.read.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.reset](reset.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.reset.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.shutdown](shutdown.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.shutdown.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.status](status.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.status.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.wait_for](wait-for.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.wait_for.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.write_binary_values](write-binary-values.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.write_binary_values.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.write_bytes](write-bytes.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.write_bytes.
+- [pymeasure.instruments.teledyne.TeledyneT3AFG.write](write.md) - Open when checking pymeasure.instruments.teledyne.TeledyneT3AFG.write.

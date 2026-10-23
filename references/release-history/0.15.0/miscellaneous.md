@@ -1,4 +1,4 @@
-# Version 0.15.0 (2025-01-15) — Miscellaneous
+# Version 0.15.0 (2025-01-15) - Miscellaneous
 
 - Prepare for v0.14.0 (@BenediktBurger, #1104)
 

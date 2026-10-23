@@ -8,6 +8,6 @@ Sets arbitrary waveform output with the requested gain and offset. If output is 
 
 Parameters:
 
-- **gain** (*float*) — Gain multiplier applied to waveform values
+- **gain** (*float*): Gain multiplier applied to waveform values
 
-- **dc_offset** (*float*) — DC offset value in volts
+- **dc_offset** (*float*): DC offset value in volts

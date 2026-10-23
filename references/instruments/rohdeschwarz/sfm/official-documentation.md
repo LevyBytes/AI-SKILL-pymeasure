@@ -1,4 +1,4 @@
-# instruments — rohdeschwarz — sfm documentation links
+# instruments - rohdeschwarz - sfm documentation links
 
 - [`SFM.TV_country`](https://pymeasure.readthedocs.io/en/latest/api/instruments/rohdeschwarz/sfm.html#pymeasure.instruments.rohdeschwarz.sfm.SFM.TV_country)
 - [`SFM.TV_standard`](https://pymeasure.readthedocs.io/en/latest/api/instruments/rohdeschwarz/sfm.html#pymeasure.instruments.rohdeschwarz.sfm.SFM.TV_standard)

@@ -1,4 +1,4 @@
-# Version 0.12.0 (2023-07-05) — Instruments
+# Version 0.12.0 (2023-07-05) - Instruments
 
 - New Advantest R624X DC Voltage/Current Sources/Monitors (@wichers, #802)
 

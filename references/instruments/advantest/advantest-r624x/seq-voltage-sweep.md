@@ -8,13 +8,13 @@ Create the command string for WV (staircase voltage sweep).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **sweep_mode** (int or `SweepMode`) — Sweep mode selection.
+- **sweep_mode** (int or `SweepMode`): Sweep mode selection.
 
 - **repeat** (*int*) – Number of repeats (0-1024).
 
-- **voltage_range** (int or `VoltageRange`) — Source range for voltage.
+- **voltage_range** (int or `VoltageRange`): Source range for voltage.
 
 - **start_value** (*float*) – Start voltage value.
 

@@ -1,4 +1,4 @@
-# pymeasure.display.windows.managed_window.ManagedWindowBase — ManagedWindowBase complete constructor parameters
+# pymeasure.display.windows.managed_window.ManagedWindowBase - ManagedWindowBase complete constructor parameters
 
 [Owning PyMeasure class, adapter and connection contract](constructor-widgets.md) / [ManagedWindowBase constructor and subclassing/widget requirements](constructor-widgets.md)
 

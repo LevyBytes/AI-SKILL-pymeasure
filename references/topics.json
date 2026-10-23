@@ -10,6 +10,6 @@
   {"topic": "Instrument APIs", "file": "references/instruments/INDEX.md", "summary": "Open when selecting an instrument manufacturer, model, channel or exact operation.", "keywords": []},
   {"topic": "Contributing to PyMeasure", "file": "references/development/INDEX.md", "summary": "Open when testing or contributing changes to the PyMeasure package.", "keywords": []},
   {"topic": "Release history", "file": "references/release-history/INDEX.md", "summary": "Open when checking version-specific changes and migration requirements.", "keywords": []},
-  {"topic": "Authorship and license", "file": "references/about/INDEX.md", "summary": "Open when checking PyMeasure attribution, licensing or related projects.", "keywords": []},
+  {"topic": "Related projects", "file": "references/about/INDEX.md", "summary": "Open when checking laboratory automation projects related to PyMeasure.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of this skill's references other than English.", "keywords": []}
 ]}

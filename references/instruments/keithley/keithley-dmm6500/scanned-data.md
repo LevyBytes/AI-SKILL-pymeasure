@@ -8,11 +8,11 @@ Return scan values from the buffer as a list.
 
 Parameters:
 
-- **start_idx** — Bool value controlling communication state during scanning. Default is `True`, meaning communication waits for command completion before new commands are accepted (default: `None`)
+- **start_idx**: Bool value controlling communication state during scanning. Default is `True`, meaning communication waits for command completion before new commands are accepted (default: `None`)
 
-- **end_idx** — Alternate way to set `scan_count` (default: `None`)
+- **end_idx**: Alternate way to set `scan_count` (default: `None`)
 
-- **raw** — Alternate way to set `scan_interval` in second (default: `False`)
+- **raw**: Alternate way to set `scan_interval` in second (default: `False`)
 
 Returns:
 

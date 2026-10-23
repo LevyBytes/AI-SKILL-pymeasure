@@ -1,22 +1,22 @@
-# instruments — eurotest — eurotest-hpp120256 reference index
+# instruments - eurotest - eurotest-hpp120256 reference index
 
-- [eurotest hpp120256status](../eurotest-hpp120256-eurotest-hpp120256status/INDEX.md) — Open when using eurotest hpp120256status within instruments / eurotest / eurotest-hpp120256.
-- [pymeasure.instruments.eurotest.EurotestHPP120256](overview.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.ask](ask.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.ask.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.current_limit](current-limit.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.current_limit.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.current_range](current-range.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.current_range.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.current](current.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.current.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.emergency_off](emergency-off.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.emergency_off.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.id](id.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.id.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.kill_enabled](kill-enabled.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.kill_enabled.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.lam_status](lam-status.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.lam_status.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.output_enabled](output-enabled.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.output_enabled.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.ramp_to_zero](ramp-to-zero.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.ramp_to_zero.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.shutdown](shutdown.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.shutdown.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.status](status.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.status.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.voltage_ramp](voltage-ramp.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.voltage_ramp.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.voltage_range](voltage-range.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.voltage_range.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.voltage_setpoint](voltage-setpoint.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.voltage_setpoint.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.voltage](voltage.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.voltage.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.wait_for_output_voltage_reached](wait-for-output-voltage-reached.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.wait_for_output_voltage_reached.
-- [pymeasure.instruments.eurotest.EurotestHPP120256.write](write.md) — Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.write.
+- [eurotest hpp120256status](../eurotest-hpp120256-eurotest-hpp120256status/INDEX.md) - Open when using eurotest hpp120256status within instruments / eurotest / eurotest-hpp120256.
+- [pymeasure.instruments.eurotest.EurotestHPP120256](overview.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.ask](ask.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.ask.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.current_limit](current-limit.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.current_limit.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.current_range](current-range.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.current_range.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.current](current.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.current.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.emergency_off](emergency-off.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.emergency_off.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.id](id.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.id.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.kill_enabled](kill-enabled.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.kill_enabled.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.lam_status](lam-status.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.lam_status.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.output_enabled](output-enabled.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.output_enabled.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.ramp_to_zero](ramp-to-zero.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.ramp_to_zero.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.shutdown](shutdown.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.shutdown.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.status](status.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.status.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.voltage_ramp](voltage-ramp.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.voltage_ramp.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.voltage_range](voltage-range.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.voltage_range.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.voltage_setpoint](voltage-setpoint.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.voltage_setpoint.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.voltage](voltage.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.voltage.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.wait_for_output_voltage_reached](wait-for-output-voltage-reached.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.wait_for_output_voltage_reached.
+- [pymeasure.instruments.eurotest.EurotestHPP120256.write](write.md) - Open when checking pymeasure.instruments.eurotest.EurotestHPP120256.write.

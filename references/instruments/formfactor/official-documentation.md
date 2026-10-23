@@ -1,4 +1,4 @@
-# instruments — formfactor documentation links
+# instruments - formfactor documentation links
 
 - [FormFactor](https://pymeasure.readthedocs.io/en/latest/api/instruments/formfactor/index.html)
 - [FormFactor Velox Wafer Prober](https://pymeasure.readthedocs.io/en/latest/api/instruments/formfactor/velox.html)

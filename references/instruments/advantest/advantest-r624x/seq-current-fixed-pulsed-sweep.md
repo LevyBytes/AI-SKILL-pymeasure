@@ -8,15 +8,15 @@ Create the command string for PXI (fixed pulsed current sweep).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **current_range** (int or `CurrentRange`) — Source range for current.
+- **current_range** (int or `CurrentRange`): Source range for current.
 
 - **pulse** (*float*) – Pulse current value.
 
 - **base** (*float*) – Base current value.
 
-- **measurement_count** (*int*) — Count of measurements.
+- **measurement_count** (*int*): Count of measurements.
 
 - **voltage_compliance** (*float*) – Voltage compliance value.
 

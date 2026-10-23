@@ -1,4 +1,4 @@
-# Version 0.14.0 (2024-05-22) — Miscellaneous
+# Version 0.14.0 (2024-05-22) - Miscellaneous
 
 - Add support for python 3.12 (@BenediktBurger, #1051)
 

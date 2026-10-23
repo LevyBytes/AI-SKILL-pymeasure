@@ -1,8 +1,8 @@
-# instruments — agilent — agilent4156 — vsu reference index
+# instruments - agilent - agilent4156 - vsu reference index
 
 ## Class and connection contract
 
-- [pymeasure.instruments.agilent.agilent4156.VSU](overview.md) — Open when checking pymeasure.instruments.agilent.agilent4156.VSU.
+- [pymeasure.instruments.agilent.agilent4156.VSU](overview.md) - Open when checking pymeasure.instruments.agilent.agilent4156.VSU.
 
 ## Property contracts
 

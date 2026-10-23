@@ -8,6 +8,6 @@ Sets the instrument to generate a waveform. When output is already enabled, the 
 
 Parameters:
 
-- **waveform** (*list*) — Waveform represented as a list of values
+- **waveform** (*list*): Waveform represented as a list of values
 
-- **sample_period** (*float*) — Time spacing between waveform points (maximum of 125MS/s, which equals 80ns)
+- **sample_period** (*float*): Time spacing between waveform points (maximum of 125MS/s, which equals 80ns)

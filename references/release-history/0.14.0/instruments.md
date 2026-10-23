@@ -1,4 +1,4 @@
-# Version 0.14.0 (2024-05-22) — Instruments
+# Version 0.14.0 (2024-05-22) - Instruments
 
 - Add Agilent4294A (@driftregion, #998)
 

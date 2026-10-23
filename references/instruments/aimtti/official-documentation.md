@@ -1,4 +1,4 @@
-# instruments — aimtti documentation links
+# instruments - aimtti documentation links
 
 - [Aim-TTI](https://pymeasure.readthedocs.io/en/latest/api/instruments/aimtti/index.html)
 - [Aim-TTI PL Series Power Supplies](https://pymeasure.readthedocs.io/en/latest/api/instruments/aimtti/aimttiPL.html)

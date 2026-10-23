@@ -8,6 +8,6 @@ Opens communication with the DIO module. Call this once per session.
 
 Parameters:
 
-- **lines** (*str*) — Lines to acquire; all lines can be read
+- **lines** (*str*): Lines to acquire; all lines can be read
 
-- **reset** (*bool**, **optional*) — Whether to reset DIO module, defaults to False (default: `False`)
+- **reset** (*bool**, **optional*): Whether to reset DIO module, defaults to False (default: `False`)

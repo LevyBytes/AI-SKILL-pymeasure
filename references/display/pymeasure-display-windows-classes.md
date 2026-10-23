@@ -1,4 +1,4 @@
-# pymeasure.display — Windows classes
+# pymeasure.display - Windows classes
 
 - [Windows classes](https://pymeasure.readthedocs.io/en/latest/api/display/windows.html)
   - [`ManagedImageWindow`](https://pymeasure.readthedocs.io/en/latest/api/display/windows.html#pymeasure.display.windows.managed_image_window.ManagedImageWindow)

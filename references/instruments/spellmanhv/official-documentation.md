@@ -1,4 +1,4 @@
-# instruments — spellmanhv documentation links
+# instruments - spellmanhv documentation links
 
 - [Spellman HV](https://pymeasure.readthedocs.io/en/latest/api/instruments/spellmanhv/index.html)
 - [Spellman XRV High Voltage Power Supply](https://pymeasure.readthedocs.io/en/latest/api/instruments/spellmanhv/spellmanXRV.html)

@@ -1,21 +1,21 @@
-# instruments — aja — dcxs reference index
+# instruments - aja - dcxs reference index
 
-- [pymeasure.instruments.aja.DCXS](overview.md) — Open when checking pymeasure.instruments.aja.DCXS.
-- [pymeasure.instruments.aja.DCXS.active_gun](active-gun.md) — Open when checking pymeasure.instruments.aja.DCXS.active_gun.
-- [pymeasure.instruments.aja.DCXS.ask](ask.md) — Open when checking pymeasure.instruments.aja.DCXS.ask.
-- [pymeasure.instruments.aja.DCXS.current](current.md) — Open when checking pymeasure.instruments.aja.DCXS.current.
-- [pymeasure.instruments.aja.DCXS.deposition_time_min](deposition-time-min.md) — Open when checking pymeasure.instruments.aja.DCXS.deposition_time_min.
-- [pymeasure.instruments.aja.DCXS.deposition_time_sec](deposition-time-sec.md) — Open when checking pymeasure.instruments.aja.DCXS.deposition_time_sec.
-- [pymeasure.instruments.aja.DCXS.enabled](enabled.md) — Open when checking pymeasure.instruments.aja.DCXS.enabled.
-- [pymeasure.instruments.aja.DCXS.fault_code](fault-code.md) — Open when checking pymeasure.instruments.aja.DCXS.fault_code.
-- [pymeasure.instruments.aja.DCXS.id](id.md) — Open when checking pymeasure.instruments.aja.DCXS.id.
-- [pymeasure.instruments.aja.DCXS.material](material.md) — Open when checking pymeasure.instruments.aja.DCXS.material.
-- [pymeasure.instruments.aja.DCXS.power](power.md) — Open when checking pymeasure.instruments.aja.DCXS.power.
-- [pymeasure.instruments.aja.DCXS.ramp_time](ramp-time.md) — Open when checking pymeasure.instruments.aja.DCXS.ramp_time.
-- [pymeasure.instruments.aja.DCXS.read](read.md) — Open when checking pymeasure.instruments.aja.DCXS.read.
-- [pymeasure.instruments.aja.DCXS.regulation_mode](regulation-mode.md) — Open when checking pymeasure.instruments.aja.DCXS.regulation_mode.
-- [pymeasure.instruments.aja.DCXS.setpoint](setpoint.md) — Open when checking pymeasure.instruments.aja.DCXS.setpoint.
-- [pymeasure.instruments.aja.DCXS.shutter_delay](shutter-delay.md) — Open when checking pymeasure.instruments.aja.DCXS.shutter_delay.
-- [pymeasure.instruments.aja.DCXS.shutter_state](shutter-state.md) — Open when checking pymeasure.instruments.aja.DCXS.shutter_state.
-- [pymeasure.instruments.aja.DCXS.software_version](software-version.md) — Open when checking pymeasure.instruments.aja.DCXS.software_version.
-- [pymeasure.instruments.aja.DCXS.voltage](voltage.md) — Open when checking pymeasure.instruments.aja.DCXS.voltage.
+- [pymeasure.instruments.aja.DCXS](overview.md) - Open when checking pymeasure.instruments.aja.DCXS.
+- [pymeasure.instruments.aja.DCXS.active_gun](active-gun.md) - Open when checking pymeasure.instruments.aja.DCXS.active_gun.
+- [pymeasure.instruments.aja.DCXS.ask](ask.md) - Open when checking pymeasure.instruments.aja.DCXS.ask.
+- [pymeasure.instruments.aja.DCXS.current](current.md) - Open when checking pymeasure.instruments.aja.DCXS.current.
+- [pymeasure.instruments.aja.DCXS.deposition_time_min](deposition-time-min.md) - Open when checking pymeasure.instruments.aja.DCXS.deposition_time_min.
+- [pymeasure.instruments.aja.DCXS.deposition_time_sec](deposition-time-sec.md) - Open when checking pymeasure.instruments.aja.DCXS.deposition_time_sec.
+- [pymeasure.instruments.aja.DCXS.enabled](enabled.md) - Open when checking pymeasure.instruments.aja.DCXS.enabled.
+- [pymeasure.instruments.aja.DCXS.fault_code](fault-code.md) - Open when checking pymeasure.instruments.aja.DCXS.fault_code.
+- [pymeasure.instruments.aja.DCXS.id](id.md) - Open when checking pymeasure.instruments.aja.DCXS.id.
+- [pymeasure.instruments.aja.DCXS.material](material.md) - Open when checking pymeasure.instruments.aja.DCXS.material.
+- [pymeasure.instruments.aja.DCXS.power](power.md) - Open when checking pymeasure.instruments.aja.DCXS.power.
+- [pymeasure.instruments.aja.DCXS.ramp_time](ramp-time.md) - Open when checking pymeasure.instruments.aja.DCXS.ramp_time.
+- [pymeasure.instruments.aja.DCXS.read](read.md) - Open when checking pymeasure.instruments.aja.DCXS.read.
+- [pymeasure.instruments.aja.DCXS.regulation_mode](regulation-mode.md) - Open when checking pymeasure.instruments.aja.DCXS.regulation_mode.
+- [pymeasure.instruments.aja.DCXS.setpoint](setpoint.md) - Open when checking pymeasure.instruments.aja.DCXS.setpoint.
+- [pymeasure.instruments.aja.DCXS.shutter_delay](shutter-delay.md) - Open when checking pymeasure.instruments.aja.DCXS.shutter_delay.
+- [pymeasure.instruments.aja.DCXS.shutter_state](shutter-state.md) - Open when checking pymeasure.instruments.aja.DCXS.shutter_state.
+- [pymeasure.instruments.aja.DCXS.software_version](software-version.md) - Open when checking pymeasure.instruments.aja.DCXS.software_version.
+- [pymeasure.instruments.aja.DCXS.voltage](voltage.md) - Open when checking pymeasure.instruments.aja.DCXS.voltage.

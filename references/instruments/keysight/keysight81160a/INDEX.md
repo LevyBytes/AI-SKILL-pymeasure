@@ -1,73 +1,73 @@
-# instruments — keysight — keysight81160a reference index
+# instruments - keysight - keysight81160a reference index
 
-- [base channel creator](../keysight81160a-base-channel-creator/INDEX.md) — Open when using base channel creator within instruments / keysight / keysight81160a.
-- [channel creator](../keysight81160a-channel-creator/INDEX.md) — Open when using channel creator within instruments / keysight / keysight81160a.
-- [keysight81160achannel](../keysight81160a-keysight81160achannel/INDEX.md) — Open when using keysight81160achannel within instruments / keysight / keysight81160a.
-- [multi channel creator](../keysight81160a-multi-channel-creator/INDEX.md) — Open when using multi channel creator within instruments / keysight / keysight81160a.
-- [pymeasure.instruments.keysight.Keysight81160A](overview.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.
-- [pymeasure.instruments.keysight.Keysight81160A.add_child](add-child.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.add_child.
-- [pymeasure.instruments.keysight.Keysight81160A.amplitude_unit](amplitude-unit.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.amplitude_unit.
-- [pymeasure.instruments.keysight.Keysight81160A.amplitude](amplitude.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.amplitude.
-- [pymeasure.instruments.keysight.Keysight81160A.arb_advance](arb-advance.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.arb_advance.
-- [pymeasure.instruments.keysight.Keysight81160A.arb_file](arb-file.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.arb_file.
-- [pymeasure.instruments.keysight.Keysight81160A.arb_filter](arb-filter.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.arb_filter.
-- [pymeasure.instruments.keysight.Keysight81160A.arb_srate](arb-srate.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.arb_srate.
-- [pymeasure.instruments.keysight.Keysight81160A.ask](ask.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.ask.
-- [pymeasure.instruments.keysight.Keysight81160A.beep](beep.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.beep.
-- [pymeasure.instruments.keysight.Keysight81160A.binary_values](binary-values.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.binary_values.
-- [pymeasure.instruments.keysight.Keysight81160A.burst_mode](burst-mode.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.burst_mode.
-- [pymeasure.instruments.keysight.Keysight81160A.burst_ncycles](burst-ncycles.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.burst_ncycles.
-- [pymeasure.instruments.keysight.Keysight81160A.burst_period](burst-period.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.burst_period.
-- [pymeasure.instruments.keysight.Keysight81160A.burst_state](burst-state.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.burst_state.
-- [pymeasure.instruments.keysight.Keysight81160A.ch_1](ch-1.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.ch_1.
-- [pymeasure.instruments.keysight.Keysight81160A.ch_2](ch-2.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.ch_2.
-- [pymeasure.instruments.keysight.Keysight81160A.check_errors](check-errors.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.check_errors.
-- [pymeasure.instruments.keysight.Keysight81160A.check_get_errors](check-get-errors.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.check_get_errors.
-- [pymeasure.instruments.keysight.Keysight81160A.check_set_errors](check-set-errors.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.check_set_errors.
-- [pymeasure.instruments.keysight.Keysight81160A.clear_display](clear-display.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.clear_display.
-- [pymeasure.instruments.keysight.Keysight81160A.clear](clear.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.clear.
-- [pymeasure.instruments.keysight.Keysight81160A.complete](complete.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.complete.
-- [pymeasure.instruments.keysight.Keysight81160A.control — control dynamic-property example and reserved-name warning](control-dynamic-example.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.control — control dynamic-property example and reserved-name warning.
-- [pymeasure.instruments.keysight.Keysight81160A.control — control signature, complete parameters and return type](control-parameters.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.control — control signature, complete parameters and return type.
-- [pymeasure.instruments.keysight.Keysight81160A.data_arb](data-arb.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.data_arb.
-- [pymeasure.instruments.keysight.Keysight81160A.data_volatile_clear](data-volatile-clear.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.data_volatile_clear.
-- [pymeasure.instruments.keysight.Keysight81160A.display](display.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.display.
-- [pymeasure.instruments.keysight.Keysight81160A.ext_trig_out](ext-trig-out.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.ext_trig_out.
-- [pymeasure.instruments.keysight.Keysight81160A.frequency](frequency.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.frequency.
-- [pymeasure.instruments.keysight.Keysight81160A.get_channel_pairs](get-channel-pairs.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.get_channel_pairs.
-- [pymeasure.instruments.keysight.Keysight81160A.get_channels](get-channels.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.get_channels.
-- [pymeasure.instruments.keysight.Keysight81160A.id](id.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.id.
-- [pymeasure.instruments.keysight.Keysight81160A.measurement](measurement.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.measurement.
-- [pymeasure.instruments.keysight.Keysight81160A.next_error](next-error.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.next_error.
-- [pymeasure.instruments.keysight.Keysight81160A.offset](offset.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.offset.
-- [pymeasure.instruments.keysight.Keysight81160A.options](options.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.options.
-- [pymeasure.instruments.keysight.Keysight81160A.output_load](output-load.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.output_load.
-- [pymeasure.instruments.keysight.Keysight81160A.output](output.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.output.
-- [pymeasure.instruments.keysight.Keysight81160A.phase_sync](phase-sync.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.phase_sync.
-- [pymeasure.instruments.keysight.Keysight81160A.phase](phase.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.phase.
-- [pymeasure.instruments.keysight.Keysight81160A.pulse_dutycycle](pulse-dutycycle.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.pulse_dutycycle.
-- [pymeasure.instruments.keysight.Keysight81160A.pulse_hold](pulse-hold.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.pulse_hold.
-- [pymeasure.instruments.keysight.Keysight81160A.pulse_period](pulse-period.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.pulse_period.
-- [pymeasure.instruments.keysight.Keysight81160A.pulse_transition](pulse-transition.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.pulse_transition.
-- [pymeasure.instruments.keysight.Keysight81160A.pulse_width](pulse-width.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.pulse_width.
-- [pymeasure.instruments.keysight.Keysight81160A.ramp_symmetry](ramp-symmetry.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.ramp_symmetry.
-- [pymeasure.instruments.keysight.Keysight81160A.read_binary_values](read-binary-values.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.read_binary_values.
-- [pymeasure.instruments.keysight.Keysight81160A.read_bytes](read-bytes.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.read_bytes.
-- [pymeasure.instruments.keysight.Keysight81160A.read](read.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.read.
-- [pymeasure.instruments.keysight.Keysight81160A.remove_child](remove-child.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.remove_child.
-- [pymeasure.instruments.keysight.Keysight81160A.reset](reset.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.reset.
-- [pymeasure.instruments.keysight.Keysight81160A.setting](setting.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.setting.
-- [pymeasure.instruments.keysight.Keysight81160A.shape](shape.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.shape.
-- [pymeasure.instruments.keysight.Keysight81160A.shutdown](shutdown.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.shutdown.
-- [pymeasure.instruments.keysight.Keysight81160A.square_dutycycle](square-dutycycle.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.square_dutycycle.
-- [pymeasure.instruments.keysight.Keysight81160A.status](status.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.status.
-- [pymeasure.instruments.keysight.Keysight81160A.trigger_source](trigger-source.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.trigger_source.
-- [pymeasure.instruments.keysight.Keysight81160A.trigger](trigger.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.trigger.
-- [pymeasure.instruments.keysight.Keysight81160A.values](values.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.values.
-- [pymeasure.instruments.keysight.Keysight81160A.voltage_high](voltage-high.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.voltage_high.
-- [pymeasure.instruments.keysight.Keysight81160A.voltage_low](voltage-low.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.voltage_low.
-- [pymeasure.instruments.keysight.Keysight81160A.wait_for_trigger](wait-for-trigger.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.wait_for_trigger.
-- [pymeasure.instruments.keysight.Keysight81160A.wait_for](wait-for.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.wait_for.
-- [pymeasure.instruments.keysight.Keysight81160A.write_binary_values](write-binary-values.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.write_binary_values.
-- [pymeasure.instruments.keysight.Keysight81160A.write_bytes](write-bytes.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.write_bytes.
-- [pymeasure.instruments.keysight.Keysight81160A.write](write.md) — Open when checking pymeasure.instruments.keysight.Keysight81160A.write.
+- [base channel creator](../keysight81160a-base-channel-creator/INDEX.md) - Open when using base channel creator within instruments / keysight / keysight81160a.
+- [channel creator](../keysight81160a-channel-creator/INDEX.md) - Open when using channel creator within instruments / keysight / keysight81160a.
+- [keysight81160achannel](../keysight81160a-keysight81160achannel/INDEX.md) - Open when using keysight81160achannel within instruments / keysight / keysight81160a.
+- [multi channel creator](../keysight81160a-multi-channel-creator/INDEX.md) - Open when using multi channel creator within instruments / keysight / keysight81160a.
+- [pymeasure.instruments.keysight.Keysight81160A](overview.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.
+- [pymeasure.instruments.keysight.Keysight81160A.add_child](add-child.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.add_child.
+- [pymeasure.instruments.keysight.Keysight81160A.amplitude_unit](amplitude-unit.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.amplitude_unit.
+- [pymeasure.instruments.keysight.Keysight81160A.amplitude](amplitude.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.amplitude.
+- [pymeasure.instruments.keysight.Keysight81160A.arb_advance](arb-advance.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.arb_advance.
+- [pymeasure.instruments.keysight.Keysight81160A.arb_file](arb-file.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.arb_file.
+- [pymeasure.instruments.keysight.Keysight81160A.arb_filter](arb-filter.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.arb_filter.
+- [pymeasure.instruments.keysight.Keysight81160A.arb_srate](arb-srate.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.arb_srate.
+- [pymeasure.instruments.keysight.Keysight81160A.ask](ask.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.ask.
+- [pymeasure.instruments.keysight.Keysight81160A.beep](beep.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.beep.
+- [pymeasure.instruments.keysight.Keysight81160A.binary_values](binary-values.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.binary_values.
+- [pymeasure.instruments.keysight.Keysight81160A.burst_mode](burst-mode.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.burst_mode.
+- [pymeasure.instruments.keysight.Keysight81160A.burst_ncycles](burst-ncycles.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.burst_ncycles.
+- [pymeasure.instruments.keysight.Keysight81160A.burst_period](burst-period.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.burst_period.
+- [pymeasure.instruments.keysight.Keysight81160A.burst_state](burst-state.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.burst_state.
+- [pymeasure.instruments.keysight.Keysight81160A.ch_1](ch-1.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.ch_1.
+- [pymeasure.instruments.keysight.Keysight81160A.ch_2](ch-2.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.ch_2.
+- [pymeasure.instruments.keysight.Keysight81160A.check_errors](check-errors.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.check_errors.
+- [pymeasure.instruments.keysight.Keysight81160A.check_get_errors](check-get-errors.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.check_get_errors.
+- [pymeasure.instruments.keysight.Keysight81160A.check_set_errors](check-set-errors.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.check_set_errors.
+- [pymeasure.instruments.keysight.Keysight81160A.clear_display](clear-display.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.clear_display.
+- [pymeasure.instruments.keysight.Keysight81160A.clear](clear.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.clear.
+- [pymeasure.instruments.keysight.Keysight81160A.complete](complete.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.complete.
+- [pymeasure.instruments.keysight.Keysight81160A.control - control dynamic-property example and reserved-name warning](control-dynamic-example.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.control - control dynamic-property example and reserved-name warning.
+- [pymeasure.instruments.keysight.Keysight81160A.control - control signature, complete parameters and return type](control-parameters.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.control - control signature, complete parameters and return type.
+- [pymeasure.instruments.keysight.Keysight81160A.data_arb](data-arb.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.data_arb.
+- [pymeasure.instruments.keysight.Keysight81160A.data_volatile_clear](data-volatile-clear.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.data_volatile_clear.
+- [pymeasure.instruments.keysight.Keysight81160A.display](display.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.display.
+- [pymeasure.instruments.keysight.Keysight81160A.ext_trig_out](ext-trig-out.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.ext_trig_out.
+- [pymeasure.instruments.keysight.Keysight81160A.frequency](frequency.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.frequency.
+- [pymeasure.instruments.keysight.Keysight81160A.get_channel_pairs](get-channel-pairs.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.get_channel_pairs.
+- [pymeasure.instruments.keysight.Keysight81160A.get_channels](get-channels.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.get_channels.
+- [pymeasure.instruments.keysight.Keysight81160A.id](id.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.id.
+- [pymeasure.instruments.keysight.Keysight81160A.measurement](measurement.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.measurement.
+- [pymeasure.instruments.keysight.Keysight81160A.next_error](next-error.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.next_error.
+- [pymeasure.instruments.keysight.Keysight81160A.offset](offset.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.offset.
+- [pymeasure.instruments.keysight.Keysight81160A.options](options.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.options.
+- [pymeasure.instruments.keysight.Keysight81160A.output_load](output-load.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.output_load.
+- [pymeasure.instruments.keysight.Keysight81160A.output](output.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.output.
+- [pymeasure.instruments.keysight.Keysight81160A.phase_sync](phase-sync.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.phase_sync.
+- [pymeasure.instruments.keysight.Keysight81160A.phase](phase.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.phase.
+- [pymeasure.instruments.keysight.Keysight81160A.pulse_dutycycle](pulse-dutycycle.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.pulse_dutycycle.
+- [pymeasure.instruments.keysight.Keysight81160A.pulse_hold](pulse-hold.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.pulse_hold.
+- [pymeasure.instruments.keysight.Keysight81160A.pulse_period](pulse-period.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.pulse_period.
+- [pymeasure.instruments.keysight.Keysight81160A.pulse_transition](pulse-transition.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.pulse_transition.
+- [pymeasure.instruments.keysight.Keysight81160A.pulse_width](pulse-width.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.pulse_width.
+- [pymeasure.instruments.keysight.Keysight81160A.ramp_symmetry](ramp-symmetry.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.ramp_symmetry.
+- [pymeasure.instruments.keysight.Keysight81160A.read_binary_values](read-binary-values.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.read_binary_values.
+- [pymeasure.instruments.keysight.Keysight81160A.read_bytes](read-bytes.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.read_bytes.
+- [pymeasure.instruments.keysight.Keysight81160A.read](read.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.read.
+- [pymeasure.instruments.keysight.Keysight81160A.remove_child](remove-child.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.remove_child.
+- [pymeasure.instruments.keysight.Keysight81160A.reset](reset.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.reset.
+- [pymeasure.instruments.keysight.Keysight81160A.setting](setting.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.setting.
+- [pymeasure.instruments.keysight.Keysight81160A.shape](shape.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.shape.
+- [pymeasure.instruments.keysight.Keysight81160A.shutdown](shutdown.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.shutdown.
+- [pymeasure.instruments.keysight.Keysight81160A.square_dutycycle](square-dutycycle.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.square_dutycycle.
+- [pymeasure.instruments.keysight.Keysight81160A.status](status.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.status.
+- [pymeasure.instruments.keysight.Keysight81160A.trigger_source](trigger-source.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.trigger_source.
+- [pymeasure.instruments.keysight.Keysight81160A.trigger](trigger.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.trigger.
+- [pymeasure.instruments.keysight.Keysight81160A.values](values.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.values.
+- [pymeasure.instruments.keysight.Keysight81160A.voltage_high](voltage-high.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.voltage_high.
+- [pymeasure.instruments.keysight.Keysight81160A.voltage_low](voltage-low.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.voltage_low.
+- [pymeasure.instruments.keysight.Keysight81160A.wait_for_trigger](wait-for-trigger.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.wait_for_trigger.
+- [pymeasure.instruments.keysight.Keysight81160A.wait_for](wait-for.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.wait_for.
+- [pymeasure.instruments.keysight.Keysight81160A.write_binary_values](write-binary-values.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.write_binary_values.
+- [pymeasure.instruments.keysight.Keysight81160A.write_bytes](write-bytes.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.write_bytes.
+- [pymeasure.instruments.keysight.Keysight81160A.write](write.md) - Open when checking pymeasure.instruments.keysight.Keysight81160A.write.

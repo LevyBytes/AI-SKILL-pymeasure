@@ -1,4 +1,4 @@
-# instruments — racal documentation links
+# instruments - racal documentation links
 
 - [Racal-Dana](https://pymeasure.readthedocs.io/en/latest/api/instruments/racal/index.html)
 - [Racal-Dana 1992 Universal Counter](https://pymeasure.readthedocs.io/en/latest/api/instruments/racal/racal1992.html)

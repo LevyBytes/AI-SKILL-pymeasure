@@ -8,7 +8,7 @@ Detach the child from both the instrument and the matching collection.
 
 Parameters:
 
-**child** (`Child`) — Child instance to delete.
+**child** (`Child`): Child instance to delete.
 
 Return type:
 

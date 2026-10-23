@@ -8,7 +8,7 @@ start TS in remote mode.
 
 Parameters:
 
-**enable_air_flow** — flow begins when `True` (default: `True`)
+**enable_air_flow**: flow begins when `True` (default: `True`)
 
 Returns:
 

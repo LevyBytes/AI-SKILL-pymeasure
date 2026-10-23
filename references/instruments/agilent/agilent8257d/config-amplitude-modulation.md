@@ -8,8 +8,8 @@ Sets up amplitude modulation for the output signal.
 
 Parameters:
 
-- **frequency** — Internal oscillator modulation frequency (default: `1000.0`)
+- **frequency**: Internal oscillator modulation frequency (default: `1000.0`)
 
-- **depth** — Linear modulation depth percentage (default: `100.0`)
+- **depth**: Linear modulation depth percentage (default: `100.0`)
 
-- **shape** — Shape string for the internal oscillator (default: `'sine'`)
+- **shape**: Shape string for the internal oscillator (default: `'sine'`)

@@ -1,4 +1,4 @@
-# instruments — temptronic documentation links
+# instruments - temptronic documentation links
 
 - [Temptronic](https://pymeasure.readthedocs.io/en/latest/api/instruments/temptronic/index.html)
 - [Temptronic Base Class](https://pymeasure.readthedocs.io/en/latest/api/instruments/temptronic/temptronic_base.html)

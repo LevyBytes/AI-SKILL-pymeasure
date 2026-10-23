@@ -1,4 +1,4 @@
-# pymeasure.display — Browser classes
+# pymeasure.display - Browser classes
 
 Covers: pymeasure.display; Console class; Plotter class; Manager classes.
 

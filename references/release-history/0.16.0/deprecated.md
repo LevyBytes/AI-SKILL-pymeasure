@@ -1,4 +1,4 @@
-# Version 0.16.0 (2026-05-20) — Deprecated
+# Version 0.16.0 (2026-05-20) - Deprecated
 
 - In `pymeasure/instruments/srs/SR860.py`, the `sensitvity` attribute was replaced with `sensitivity`.
 

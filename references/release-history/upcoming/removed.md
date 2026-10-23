@@ -1,4 +1,4 @@
-# Upcoming release — Removed
+# Upcoming release - Removed
 
 - GUI packages are no longer part of the default dependency set. To include the GUI extras, install PyMeasure with `pip install pymeasure[gui]`; Conda installations continue to include every dependency.
 

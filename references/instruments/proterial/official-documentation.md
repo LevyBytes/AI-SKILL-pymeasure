@@ -1,4 +1,4 @@
-# instruments — proterial documentation links
+# instruments - proterial documentation links
 
 - [Proterial](https://pymeasure.readthedocs.io/en/latest/api/instruments/proterial/index.html)
 - [ROD-4 MFC Controller](https://pymeasure.readthedocs.io/en/latest/api/instruments/proterial/rod4.html)

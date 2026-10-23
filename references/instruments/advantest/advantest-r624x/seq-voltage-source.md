@@ -8,9 +8,9 @@ Create the command string for DV (DC voltage source).
 
 Parameters:
 
-- **channel** (*int*) — Channel identifier (1=A, 2=B).
+- **channel** (*int*): Channel identifier (1=A, 2=B).
 
-- **source_range** (int or `VoltageRange`) — Source range for voltage.
+- **source_range** (int or `VoltageRange`): Source range for voltage.
 
 - **source_value** (*float*) – Source voltage value.
 

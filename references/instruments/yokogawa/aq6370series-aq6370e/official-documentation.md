@@ -1,4 +1,4 @@
-# Yokogawa — AQ6370E
+# Yokogawa - AQ6370E
 
 - [`AQ6370E`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/aq6370series.html#pymeasure.instruments.yokogawa.aq6370series.AQ6370E)
 - [`AQ6370E.TRA`](https://pymeasure.readthedocs.io/en/latest/api/instruments/yokogawa/aq6370series.html#pymeasure.instruments.yokogawa.aq6370series.AQ6370E.TRA)

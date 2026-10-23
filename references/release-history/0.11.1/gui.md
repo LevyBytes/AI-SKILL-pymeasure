@@ -1,4 +1,4 @@
-# Version 0.11.1 (2022-12-31) — GUI
+# Version 0.11.1 (2022-12-31) - GUI
 
 - Adds [ManagedDockWindow](https://pymeasure.readthedocs.io/en/latest/tutorial/graphical.html#using-the-manageddockwindow) so applications can host several dockable plots (@mcdo0486, @CasperSchippers, #722)
 

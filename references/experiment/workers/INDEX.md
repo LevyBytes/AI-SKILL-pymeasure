@@ -1,3 +1,3 @@
-# experiment — workers reference index
+# experiment - workers reference index
 
-- [worker](worker/INDEX.md) — Open when using worker within experiment / workers.
+- [worker](worker/INDEX.md) - Open when using worker within experiment / workers.

@@ -1,4 +1,4 @@
-# instruments — thermotron documentation links
+# instruments - thermotron documentation links
 
 - [Thermotron](https://pymeasure.readthedocs.io/en/latest/api/instruments/thermotron/index.html)
 - [Thermotron 3800 Oven](https://pymeasure.readthedocs.io/en/latest/api/instruments/thermotron/thermotron3800.html)

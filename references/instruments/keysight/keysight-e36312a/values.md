@@ -8,13 +8,13 @@ Send a command to the instrument and return the result as a list of formatted va
 
 Parameters:
 
-- **command** (`str`) — SCPI command sent to the instrument.
+- **command** (`str`): SCPI command sent to the instrument.
 
-- **preprocess_reply** (`Optional`[`Callable`[[`str`], `str`]]) — Optional callable that processes the instrument response string before splitting; it returns the processed string. (default: `None`)
+- **preprocess_reply** (`Optional`[`Callable`[[`str`], `str`]]): Optional callable that processes the instrument response string before splitting; it returns the processed string. (default: `None`)
 
-- **separator** (`Optional`[`str`]) — Character used to split the device response string into a list. None splits on any whitespace (see `str.split`). (default: `','`)
+- **separator** (`Optional`[`str`]): Character used to split the device response string into a list. None splits on any whitespace (see `str.split`). (default: `','`)
 
-- **maxsplit** (`int`) — Maximum number of split operations applied to the device response string. -1 (default) means unlimited splitting. (default: `-1`)
+- **maxsplit** (`int`): Maximum number of split operations applied to the device response string. -1 (default) means unlimited splitting. (default: `-1`)
 
 - **cast** (`Union`[`type`[`TypeVar`(`T`)], `Callable`[[`str`], `TypeVar`(`T`)]]) –
 

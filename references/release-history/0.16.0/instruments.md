@@ -1,4 +1,4 @@
-# Version 0.16.0 (2026-05-20) — Instruments
+# Version 0.16.0 (2026-05-20) - Instruments
 
 - Add Aculight Argos OPO laser system (@BenediktBurger, #1046)
 

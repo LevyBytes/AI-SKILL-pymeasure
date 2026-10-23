@@ -1,4 +1,4 @@
-# instruments — edwards documentation links
+# instruments - edwards documentation links
 
 - [Edwards](https://pymeasure.readthedocs.io/en/latest/api/instruments/edwards/index.html)
 - [Edwards nxds vacuum pump](https://pymeasure.readthedocs.io/en/latest/api/instruments/edwards/nxds.html)
